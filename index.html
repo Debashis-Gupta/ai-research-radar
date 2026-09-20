@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="A calm, curated AI/ML dashboard for papers, blogs, and videos." />
   <title>AI Research Radar</title>
+  <meta name="theme-color" content="#21604d" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" type="image/png" href="icons/icon-192.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
@@ -21,6 +24,7 @@
     </div>
     <div class="top-actions">
       <span id="lastUpdated" class="last-updated">Updating…</span>
+      <button id="installApp" class="text-btn hidden" type="button">Install app</button>
       <button id="themeButton" class="icon-btn" aria-label="Toggle theme" title="Toggle theme">☾</button>
     </div>
   </header>
@@ -185,5 +189,6 @@
   <script src="accounts.js" defer></script>
   <script src="channels.js" defer></script>
   <script src="app.js" defer></script>
+  <script src="install.js" defer></script>
 </body>
 </html>

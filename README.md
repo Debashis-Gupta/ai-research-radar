@@ -55,6 +55,18 @@ YouTube channel feeds ────────┘                 │
 
 The fetch happens in GitHub Actions instead of in the browser. This avoids CORS problems and keeps the website fast.
 
+## Install on Android
+
+After publishing, open the site in Chrome on Android and choose **⋮ → Add to
+Home screen → Install**. An **Install app** button also appears on the site when
+Chrome offers installation. The installed app opens in its own window and uses
+the same GitHub Pages site and Supabase backend. No Android Studio or APK is
+required. Sign-in, refreshing content, and video playback require internet;
+this version does not add offline caching. If Chrome only offers a shortcut,
+reload the published site and check that `manifest.webmanifest` and the PNG
+files under `icons/` are deployed. Local changes do not reach your phone until
+the GitHub Pages deployment succeeds.
+
 ## Run locally
 
 From the project folder, create and activate the Conda environment:
