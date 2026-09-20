@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="A calm, curated AI/ML dashboard for papers, blogs, and videos." />
+  <title>AI Research Radar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-wrap">
+      <a class="brand" href="#" aria-label="AI Research Radar home">
+        <span class="brand-mark">◈</span>
+        <span>AI Research Radar</span>
+      </a>
+      <span class="badge">PhD feed</span>
+    </div>
+    <div class="top-actions">
+      <span id="lastUpdated" class="last-updated">Updating…</span>
+      <button id="themeButton" class="icon-btn" aria-label="Toggle theme" title="Toggle theme">☾</button>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="account-bar" aria-label="Your account">
+      <div>
+        <strong>Make this radar yours</strong>
+        <p id="accountStatus" role="status" aria-live="polite">Guest mode · Saved in this browser</p>
+      </div>
+      <button id="signInButton" class="primary-btn" type="button" disabled>Sign in with GitHub</button>
+      <details id="accountProfile" class="hidden">
+        <summary id="accountName">Your account</summary>
+        <form id="profileForm">
+          <label for="displayName">Display name</label>
+          <input id="displayName" name="displayName" maxlength="80" autocomplete="nickname" />
+          <button id="saveProfile" class="text-btn" type="submit">Save name</button>
+        </form>
+        <button id="refreshAccount" class="text-btn" type="button">Refresh account</button>
+        <button id="signOutButton" class="text-btn" type="button">Sign out</button>
+      </details>
+    </section>
+
+    <section class="hero">
+      <div>
+        <p class="eyebrow">INTENTIONAL INPUT, NOT INFINITE SCROLL</p>
+        <h1>Your useful AI/ML feed.</h1>
+        <p class="hero-copy">Fresh papers from arXiv, Hugging Face, Semantic Scholar, and OpenAlex — plus serious blogs and worthwhile technical videos — automatically collected from free sources.</p>
+      </div>
+      <div class="stats" aria-label="Feed statistics">
+        <div class="stat"><strong id="paperCount">0</strong><span>Papers</span></div>
+        <div class="stat"><strong id="blogCount">0</strong><span>Blogs</span></div>
+        <div class="stat"><strong id="videoCount">0</strong><span>Videos</span></div>
+      </div>
+    </section>
+
+    <nav class="main-tabs" aria-label="Content type">
+      <button class="main-tab active" data-kind="papers">Papers <span id="papersBadge">0</span></button>
+      <button class="main-tab" data-kind="blogs">Blogs <span id="blogsBadge">0</span></button>
+      <button class="main-tab" data-kind="videos">Videos <span id="videosBadge">0</span></button>
+    </nav>
+
+    <section class="controls">
+      <div id="feedRefreshControls" class="feed-refresh-controls">
+        <button id="refreshFeed" class="text-btn" type="button">Refresh papers ↻</button>
+        <span id="feedRefreshStatus" class="channel-note" role="status" aria-live="polite"></span>
+      </div>
+      <div class="sub-tabs" aria-label="Feed mode">
+        <button class="sub-tab active" data-mode="new">New</button>
+        <button class="sub-tab" data-mode="foryou">✦ For You</button>
+        <button id="myChannelsTab" class="sub-tab hidden" data-mode="channels">My Channels</button>
+        <button class="sub-tab" data-mode="preferred">★ Preferred <span id="preferredCount">0</span></button>
+      </div>
+      <div class="control-row">
+        <button id="interestsButton" class="interest-button" type="button" title="Choose the topics used by For You">
+          <span>◎</span><span id="interestSummary">Choose interests</span>
+        </button>
+        <label class="search-wrap">
+          <span>⌕</span>
+          <input id="searchInput" type="search" placeholder="Search title, source, authors, topics…" autocomplete="off" />
+        </label>
+        <select id="sourceFilter" aria-label="Filter by source">
+          <option value="all">All sources</option>
+        </select>
+      </div>
+    </section>
+
+    <section id="channelView" class="hidden" aria-label="My YouTube channels">
+      <div class="channel-intro">
+        <div><p class="eyebrow">YOUR PERSONAL VIDEO LIBRARY</p><h2>My Channels <span id="channelCount"></span></h2><p>Follow the people you learn from. Explore their latest videos, one channel at a time.</p></div>
+        <button id="refreshChannels" class="text-btn" type="button">Refresh videos ↻</button>
+      </div>
+      <details id="channelManager">
+        <summary>Choose channels or add your own</summary>
+        <p class="channel-note">Suggested starting points for AI research, news, and learning.</p>
+        <div id="channelSuggestions" class="channel-suggestions"></div>
+        <form id="customChannelForm" class="custom-channel-form">
+          <label for="customChannel">Add another YouTube channel</label>
+          <div><input id="customChannel" maxlength="250" required placeholder="@handle, channel URL, or UC… channel ID" autocomplete="off" /><button id="addChannel" class="primary-btn" type="submit">Add channel</button></div>
+        </form>
+      </details>
+      <p id="channelStatus" class="channel-note" role="status" aria-live="polite"></p>
+      <div class="channel-filter"><label for="channelVideoFilter">Show</label><select id="channelVideoFilter"><option value="all">All recent videos</option><option value="interests">Matches my interests</option></select><button id="channelInterests" class="text-btn" type="button">Manage interests</button></div>
+      <div id="channelRows"></div>
+    </section>
+
+    <dialog id="videoPlayer" class="video-player" aria-labelledby="videoTitle">
+      <div class="player-header"><h2 id="videoTitle"></h2><button id="closeVideo" class="icon-btn" type="button" aria-label="Close video">×</button></div>
+      <div id="videoFrame"></div>
+      <p>Video unavailable here? <a id="watchOnYouTube" target="_blank" rel="noopener noreferrer">Watch on YouTube ↗</a></p>
+    </dialog>
+
+    <section class="feed-header">
+      <div>
+        <h2 id="sectionTitle">Newest papers</h2>
+        <p id="sectionSubtitle">Newest items appear on top.</p>
+      </div>
+      <span id="visibleCount" class="visible-count"></span>
+    </section>
+
+    <section id="feed" class="feed" aria-live="polite"></section>
+
+    <section id="emptyState" class="empty hidden">
+      <div class="empty-icon">⌁</div>
+      <h3>Nothing here yet</h3>
+      <p id="emptyText">Try changing your filters.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Curated automatically • Browse as a guest or sign in to save preferences across devices</p>
+  </footer>
+
+  <template id="cardTemplate">
+    <article class="card">
+      <div class="card-topline">
+        <div class="meta-left">
+          <span class="type-pill"></span>
+          <span class="source"></span>
+          <span class="dot">•</span>
+          <time></time>
+        </div>
+        <button class="favorite-btn" aria-label="Add to preferred" title="Add to preferred">☆</button>
+      </div>
+      <h3><a class="title-link" target="_blank" rel="noopener noreferrer"></a></h3>
+      <p class="summary"></p>
+      <div class="authors hidden"></div>
+      <div class="match-line hidden"></div>
+      <div class="card-bottom">
+        <div class="tags"></div>
+        <a class="open-link" target="_blank" rel="noopener noreferrer">Open ↗</a>
+      </div>
+    </article>
+  </template>
+
+  <div id="interestModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="interestModalTitle">
+    <div class="modal-panel">
+      <div class="modal-header">
+        <div>
+          <p class="eyebrow">PERSONALIZE YOUR RADAR</p>
+          <h2 id="interestModalTitle">What do you want to follow?</h2>
+          <p>Select a few areas. <strong>For You</strong> will rank papers, blogs, and videos that match them.</p>
+        </div>
+        <button id="closeInterestModal" class="icon-btn" type="button" aria-label="Close interests">×</button>
+      </div>
+      <div id="interestGrid" class="interest-grid"></div>
+      <div class="modal-actions">
+        <div class="modal-secondary-actions">
+          <button id="selectDefaults" class="text-btn" type="button">Use suggested PhD interests</button>
+          <button id="clearInterests" class="text-btn" type="button">Clear</button>
+        </div>
+        <button id="saveInterests" class="primary-btn" type="button">Save interests</button>
+      </div>
+      <p id="interestPrivacy" class="privacy-note">Guest interests are saved only in this browser.</p>
+      <p id="interestSaveStatus" class="privacy-note" role="status" aria-live="polite"></p>
+    </div>
+  </div>
+
+  <script src="config.js" defer></script>
+  <script src="accounts.js" defer></script>
+  <script src="channels.js" defer></script>
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,128 @@
+{
+  "blogs": [
+    {
+      "name": "OpenAI",
+      "feed": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "Google DeepMind",
+      "feed": "https://deepmind.google/blog/rss.xml"
+    },
+    {
+      "name": "Hugging Face",
+      "feed": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "name": "Berkeley AI Research",
+      "feed": "https://bair.berkeley.edu/blog/feed.xml"
+    }
+  ],
+  "youtube_channels": [
+    {
+      "name": "Two Minute Papers",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg"
+    },
+    {
+      "name": "3Blue1Brown",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw"
+    },
+    {
+      "name": "Yannic Kilcher",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew"
+    },
+    {
+      "name": "Henry AI Labs",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw"
+    },
+    {
+      "name": "StatQuest",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw"
+    },
+    {
+      "name": "Andrej Karpathy",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ"
+    }
+  ],
+  "arxiv_categories": [
+    "cs.AI",
+    "cs.LG",
+    "cs.CL",
+    "cs.CV",
+    "stat.ML",
+    "cs.RO",
+    "cs.IR",
+    "cs.NE"
+  ],
+  "interest_keywords": [
+    "machine learning",
+    "deep learning",
+    "artificial intelligence",
+    "neural network",
+    "large language model",
+    "llm",
+    "multimodal",
+    "vision language",
+    "computer vision",
+    "natural language processing",
+    "nlp",
+    "reinforcement learning",
+    "generative model",
+    "diffusion",
+    "transformer",
+    "representation learning",
+    "contrastive learning",
+    "knowledge graph",
+    "probabilistic",
+    "reasoning",
+    "agent",
+    "alignment",
+    "ai safety",
+    "foundation model",
+    "retrieval augmented",
+    "rag",
+    "optimization"
+  ],
+  "limits": {
+    "papers": 180,
+    "blogs": 60,
+    "videos": 60
+  },
+  "paper_sources": {
+    "arxiv": {
+      "enabled": true,
+      "limit": 180,
+      "categories": [
+        "cs.AI",
+        "cs.LG",
+        "cs.CL",
+        "cs.CV",
+        "stat.ML",
+        "cs.RO",
+        "cs.IR",
+        "cs.NE"
+      ]
+    },
+    "huggingface": {
+      "enabled": true,
+      "limit": 70,
+      "sort": "trending"
+    },
+    "semantic_scholar": {
+      "enabled": true,
+      "limit": 80,
+      "days_back": 30,
+      "query": "(\"machine learning\" | \"large language model\" | \"computer vision\" | multimodal | \"reinforcement learning\" | \"generative ai\" | \"knowledge graph\" | probabilistic)"
+    },
+    "openalex": {
+      "enabled": true,
+      "days_back": 30,
+      "per_query": 20,
+      "queries": [
+        "machine learning",
+        "large language model",
+        "computer vision",
+        "reinforcement learning"
+      ]
+    }
+  }
+}

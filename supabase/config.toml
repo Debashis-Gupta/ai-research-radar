@@ -1,0 +1,5 @@
+[functions.youtube-channel]
+verify_jwt = false
+
+[functions.refresh-feed]
+verify_jwt = false
