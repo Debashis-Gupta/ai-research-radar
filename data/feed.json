@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:44:06.609383+00:00",
+  "generated_at": "2026-09-22T22:55:37.902550+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -5109,6 +5109,17 @@
   ],
   "blogs": [
     {
+      "id": "blog-b6b1e4118cdbb529",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI",
+      "published": "2026-09-22T21:00:00+00:00",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
       "id": "blog-3d48e529ad7a20b1",
       "title": "Introducing GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
@@ -5117,6 +5128,17 @@
       "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
       "tags": [
         "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-ce45d8dc0f6c9cea",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-22T12:00:00+00:00",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "tags": [
+        "agent"
       ]
     },
     {
@@ -5451,17 +5473,6 @@
       ]
     },
     {
-      "id": "blog-2b26a8066576cc98",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
       "id": "blog-4e410dad70fb9298",
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
@@ -5470,6 +5481,17 @@
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "tags": [
         "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-2b26a8066576cc98",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI",
+      "published": "2026-09-10T00:00:00+00:00",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "tags": [
+        "agent"
       ]
     },
     {
@@ -5495,17 +5517,6 @@
       ]
     },
     {
-      "id": "blog-534907e0d31e4171",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI",
-      "published": "2026-09-09T17:00:00+00:00",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "tags": [
-        "alignment"
-      ]
-    },
-    {
       "id": "blog-9786c92a289dc0ec",
       "title": "The AI policy window is open. We need to act.",
       "url": "https://openai.com/index/ai-policy-window",
@@ -5525,17 +5536,6 @@
       "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
       "tags": [
         "reasoning"
-      ]
-    },
-    {
-      "id": "blog-167bce5d47e71e47",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "source": "OpenAI",
-      "published": "2026-09-08T17:00:00+00:00",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "tags": [
-        "AI/ML"
       ]
     },
     {
