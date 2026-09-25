@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T04:53:44.483672+00:00",
+  "generated_at": "2026-09-25T13:44:05.192242+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -363,7 +363,7 @@
       "published": "2028-01-01T00:00:00+00:00",
       "summary": "The full abstract for this thesis is available in the body of the thesis, and will be available when the embargo expires.",
       "authors": [
-        "Samuel Guy Berryman"
+        "Samuel G. Berryman"
       ],
       "tags": [
         "machine learning",
@@ -3015,6 +3015,30 @@
       "pdf_url": ""
     },
     {
+      "id": "paper-9e2c7a9dbc57f3ef",
+      "title": "Generative Artificial Intelligence Use Among Medical Students: Learner Perspectives for Clinical Educators.",
+      "url": "https://www.semanticscholar.org/paper/7b8ba67cf84ab9bd913d44e1d338e2a769832ee0",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [],
+      "tags": [
+        "artificial intelligence",
+        "Medicine",
+        "The Clinical Teacher"
+      ],
+      "external_ids": {
+        "doi": "10.1111/tct.70531"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-0c1b353bc7ea92ba",
       "title": "State-of-health estimation of lithium-ion batteries subjected to different ageing conditions via electrochemical impedance spectroscopy and machine learning",
       "url": "https://www.semanticscholar.org/paper/7a8fe750c63e907917808dfe9aa7d6c943943dfa",
@@ -4342,7 +4366,7 @@
         "doi": "10.1016/j.patcog.2026.114574"
       },
       "metrics": {
-        "citation_count": 0
+        "citation_count": 1
       },
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0031320326015384/pdf"
     },
@@ -5055,41 +5079,6 @@
         "citation_count": 0
       },
       "pdf_url": ""
-    },
-    {
-      "id": "paper-9396b2e690648299",
-      "title": "A hybrid machine learning framework for predicting and profiling provincial poverty: Evidence from Indonesia",
-      "url": "https://www.semanticscholar.org/paper/010e1c8d83cca70c7df4e5eee6f5e29efeaf8cff",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Istiana Hermawati",
-        "Andjar Prasetyo",
-        "Agustinus Hartopo",
-        "M. Thoha",
-        "Heri Wahyudianto",
-        "Togi N. Nainggolan",
-        "Suryani",
-        "Hadi Supratikta",
-        "N. Irmayani",
-        "Anugerah Yuka Asmara",
-        "Arnis Rachmadhani"
-      ],
-      "tags": [
-        "machine learning",
-        "Social Sciences &amp; Humanities Open"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.ssaho.2026.103460"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.1016/j.ssaho.2026.103460"
     }
   ],
   "blogs": [
@@ -5393,7 +5382,7 @@
     },
     {
       "id": "blog-d1749ba76a98e7a5",
-      "title": "How V7 gives AI agents institutional memory",
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
       "url": "https://openai.com/index/v7",
       "source": "OpenAI",
       "published": "2026-09-21T00:00:00+00:00",
@@ -5755,6 +5744,2174 @@
       ]
     }
   ],
-  "videos": [],
-  "channel_videos": []
+  "videos": [
+    {
+      "id": "video-b7d9300382c57242",
+      "video_id": "SA9kdAX2Zj0",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
+      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "source": "Two Minute Papers",
+      "published": "2026-09-24T08:40:55+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations. Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5 Walking creatures video and paper:…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-762e86c2a7cec2f5",
+      "video_id": "qBBRRsH0rQc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
+      "title": "Yes, Jev Is Insane, But There's A Catch",
+      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+      "source": "Two Minute Papers",
+      "published": "2026-09-22T09:32:13+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.com/watch?v=4RtUJkjrKMI Previous papers, implementations, models: https://huggingface.co/convaiinnovations/laya https://arxiv.org/abs/2503.23303 https://huggingface.co/DeepMos…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-37b26bfdd763f1df",
+      "video_id": "bRQEWPA832A",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
+      "title": "The last IMO problem AI could not solve",
+      "url": "https://www.youtube.com/shorts/bRQEWPA832A",
+      "source": "3Blue1Brown",
+      "published": "2026-09-18T17:14:08+00:00",
+      "summary": "Full video: https://youtu.be/Nbwv5wHQoj0",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-47c9b251edf3206d",
+      "video_id": "Nbwv5wHQoj0",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg",
+      "title": "The last IMO problem AI could not solve",
+      "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "source": "3Blue1Brown",
+      "published": "2026-09-18T17:12:53+00:00",
+      "summary": "A beautiful puzzle that eluded AI, and the intuition it requires. Check out our virtual career fair: https://3b1b.co/talent See new videos early: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com Guest post I referenced on Terry Tao's blog: https://terrytao.wordpress.com/2026/09…",
+      "tags": [
+        "rag"
+      ]
+    },
+    {
+      "id": "video-0c3e7fe15b24fc0f",
+      "video_id": "vIHw_2VjSUw",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
+      "title": "DeepSeek’s Insane New Architecture",
+      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+      "source": "Two Minute Papers",
+      "published": "2026-09-18T07:03:46+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies! Sources: https://x.com/flowith/status/2099446892174406055/video/1 https://x.com/loktar00/status/2097761…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-281ff94730f2c880",
+      "video_id": "YoEWjZSwoys",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
+      "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
+      "source": "Two Minute Papers",
+      "published": "2026-09-15T10:12:34+00:00",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The papers and sources are available here: https://proceedings.mlr.press/v202/kirchenbauer23a.html https://www.nature.com/articles/s41586-024-08025-4 https://www.anthropic.com/news/claude-text-watermark 🙏 We would like to thank our generous Patreon supporters who make…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-9818ebd3c2a00036",
+      "video_id": "mOvtumfyjCs",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
+      "title": "I Never Thought I’d See This Happen",
+      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+      "source": "Two Minute Papers",
+      "published": "2026-09-10T08:47:23+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Navier-Stokes solution paper is available here: https://openai.com/index/navier-stokes-solution/ My fluid simulations and papers: https://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/ https://users.cg.tuwien.ac.at/zsolnai/gfx/real_time_fluid_control_eg/ Th…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-ff7563162bf9a471",
+      "video_id": "eVBJIUxv8N8",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
+      "title": "GPT-6 Astra Changes Everything",
+      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+      "source": "Two Minute Papers",
+      "published": "2026-09-08T08:24:27+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/ https://x.com/mindblown_ai/status/2095661874037813298?s=20 https://x.com/aollivier82/status/209622681940180189…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-6efda1b6c43af7b0",
+      "video_id": "2FaI2Fen1mQ",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/2FaI2Fen1mQ/hqdefault.jpg",
+      "title": "The GELU, SiLU and SwiGLU activation functions, clearly explained!!!",
+      "url": "https://www.youtube.com/watch?v=2FaI2Fen1mQ",
+      "source": "StatQuest",
+      "published": "2026-09-08T04:00:04+00:00",
+      "summary": "There's a new activation function in town. Actually, there are a bunch of new activation functions in town. This StatQuest gives you the essential information you need at the very start, followed by a surprisingly interesting derivation of each of these new activation functions. It turns out that Dropout is all you need. Who knew? If you'd like to support S…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-406cbb20fe1e7b29",
+      "video_id": "UwbASFlIS7A",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/UwbASFlIS7A/hqdefault.jpg",
+      "title": "Another three (3) more lessons from my Pop!",
+      "url": "https://www.youtube.com/watch?v=UwbASFlIS7A",
+      "source": "StatQuest",
+      "published": "2026-09-04T04:00:21+00:00",
+      "summary": "Since September 4th is Global Frank Starmer Day (and also his birthday), we'll celebrate by talking about another three (3) more lessons from him that influenced me over the span of my career so far. If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-f14a8fc51934f4f2",
+      "video_id": "B3LXEW4Pc-w",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
+      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+      "source": "Two Minute Papers",
+      "published": "2026-09-03T08:23:37+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Claude Fable 5.1 paper is available here: https://www.anthropic.com/claude-fable-and-mythos-5-1 https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mythos%205.1%20System%20Card.pdf Sources: https://x.com/alexalber…",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "video-afefdcee885e646b",
+      "video_id": "w9RDunJACkc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
+      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
+      "source": "Two Minute Papers",
+      "published": "2026-09-01T09:04:56+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Sources: https://x.com/louszbd/status/2092694163104113016 https://x.com/semianalysis_/status/2092623833630998556 https://x.com/skalskip92/status/2092748209802154201 https://x.com/louszbd/status/2093047548550525165 https://x.com…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-0638f3b98be62265",
+      "video_id": "LBiNcdGNgrg",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
+      "title": "The Billion Dollar AI Gap Is Collapsing",
+      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+      "source": "Two Minute Papers",
+      "published": "2026-08-28T09:44:44+00:00",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.ai/blog?id=qwen3.8-flash-next Sources: https://x.com/analogalok/status/2092697021790708148 https://www.reddit.com/r/unsloth/comments…",
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "id": "video-39fab277272e8741",
+      "video_id": "L9mMfAFwbl4",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
+      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
+      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+      "source": "Two Minute Papers",
+      "published": "2026-08-26T13:10:13+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.com/cordiverse/paper 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-105ab17fca33797a",
+      "video_id": "wMl6c_r0ubw",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
+      "title": "This Small AI Will Change Everything",
+      "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
+      "source": "Two Minute Papers",
+      "published": "2026-08-24T16:48:40+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Qwen3.8-27b is available here: https://huggingface.co/Qwen/Qwen3.8-27B Sources: https://www.reddit.com/r/unsloth/comments/1vogva0/share_your_results_from_qwen3827b/ https://www.reddit.com/r/LocalLLaMA/comments/1voer8u/qwen_38_27b_aquarium_burst_sample_test/ https://x.co…",
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "id": "video-324a1f1634acb185",
+      "video_id": "Yx-ZkLftybY",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/Yx-ZkLftybY/hqdefault.jpg",
+      "title": "TRIPLE BAM!!! With Josh, Luis and special guest Brandon Rohrer",
+      "url": "https://www.youtube.com/watch?v=Yx-ZkLftybY",
+      "source": "StatQuest",
+      "published": "2026-08-21T04:09:09+00:00",
+      "summary": "Made with Restream Studio. Livestream on 30+ platforms at once via https://restream.io Come join us in this Live Q/A where our guest is Brandon Rohrer, author of the very popular (and most excellent) Brandon Rohrer blog https://brandonrohrer.com/ and Senior Staff Machine Learning Engineer at Patreon. Feel free to post your questions beforehand or ask them l…",
+      "tags": [
+        "machine learning"
+      ]
+    },
+    {
+      "id": "video-22acc98b43021f58",
+      "video_id": "kyYepbhe1g8",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
+      "title": "DeepSeek Just Made Closed AI Look Ridiculous",
+      "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+      "source": "Two Minute Papers",
+      "published": "2026-08-19T18:02:46+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813 DSpark full episode: https://www.youtube.com/watch?v=1yBU41auQhw Sources: https://x.com/cline/status/2087602193205694891 https://x.com/TypingMindApp/status/2088214938754167263 https://x.com/stevibe/…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-ff2c7d25c19020e8",
+      "video_id": "rYyJm1tD3d0",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
+      "title": "The jumping pegs puzzle",
+      "url": "https://www.youtube.com/shorts/rYyJm1tD3d0",
+      "source": "3Blue1Brown",
+      "published": "2026-08-18T14:54:17+00:00",
+      "summary": "Part of a series of monthly puzzles with MoMath.",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-5ac4def88eb52249",
+      "video_id": "QnGNF8k_uoc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
+      "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+      "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+      "source": "Two Minute Papers",
+      "published": "2026-08-14T08:42:07+00:00",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://www.anthropic.com/research/riemann-zeta Source: https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/ 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers pos…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-611562df7404b9bf",
+      "video_id": "JQ97GiDwPxc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg",
+      "title": "How OpenAI Hacked HuggingFace",
+      "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+      "source": "Two Minute Papers",
+      "published": "2026-08-11T15:35:35+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 More reports are available here: https://openai.com/index/hugging-face-model-evaluation-security-incident/ https://huggingface.co/blog/security-incident-july-2026 https://huggingface.co/blog/agent-intrusion-technical-timeline 🙏 We would like to thank our generous Patreon su…",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "video-a6ebe1d55cb8c4ff",
+      "video_id": "vO6SWG-jxvE",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
+      "title": "DeepMind Just Changed How AI Sees The World",
+      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+      "source": "Two Minute Papers",
+      "published": "2026-08-07T08:22:00+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Gemma4 paper and some more is available here: https://arxiv.org/abs/2607.02770 https://x.com/googlegemma/status/2077449152062247219 https://x.com/UnslothAI/status/2078118183085731843 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers pos…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-56c70d188a21acec",
+      "video_id": "6XPlmCDNLNc",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
+      "title": "The 64 sugar cubes puzzle",
+      "url": "https://www.youtube.com/shorts/6XPlmCDNLNc",
+      "source": "3Blue1Brown",
+      "published": "2026-07-24T15:05:39+00:00",
+      "summary": "See all monthly puzzles: https://momath.org/mindbenders/",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-cdf4d8bd67462c09",
+      "video_id": "GlYgs6v2YfU",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
+      "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+      "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+      "source": "3Blue1Brown",
+      "published": "2026-07-16T11:56:04+00:00",
+      "summary": "Where the loss function for training LLMs comes from. Job opportunities aligned to this audience: https://3b1b.co/talent Early views and other perks for supporters: https://3b1b.co/support Home page: https://www.3blue1brown.com Part 1: https://youtu.be/l6DKRf-fAAM If you want to learn more about Lagrange Multipliers, I made multiple videos and articles for…",
+      "tags": [
+        "llm",
+        "rag",
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-a58884055102f9fe",
+      "video_id": "lgD9lNB9Ums",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/lgD9lNB9Ums/hqdefault.jpg",
+      "title": "The Simplex Algorithm, Mathematical Details!!!",
+      "url": "https://www.youtube.com/watch?v=lgD9lNB9Ums",
+      "source": "StatQuest",
+      "published": "2026-07-13T04:00:15+00:00",
+      "summary": "In the StatQuest, Optimization with Linear Programming (and the Simplex Algorithm), Main Ideas!!!, we learned the Main Ideas of Linear Programming and the Simplex Algorithm. Now let's dive into the nitty gritty details of how it's done, one step at a time. BAM! NOTE: This StatQuest is brought to you by Gurobi, the solver trusted by experts. To learn more se…",
+      "tags": [
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-b4399b1f243d4ef7",
+      "video_id": "h5o1n1QMcmM",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/h5o1n1QMcmM/hqdefault.jpg",
+      "title": "Optimization with Linear Programming (and the Simplex Algorithm), Main Ideas!!!",
+      "url": "https://www.youtube.com/watch?v=h5o1n1QMcmM",
+      "source": "StatQuest",
+      "published": "2026-07-06T04:00:30+00:00",
+      "summary": "If you've ever wondered how airplane schedules are optimized, warehouses are optimized or how crops are optimized, then you've wondered about Linear Programming. This StatQuest introduces you to the main ideas of how Linear Programming can be used to optimize problems, and, specifically, we'll learn about the Simplex Algorithm. BAM! NOTE: This StatQuest is…",
+      "tags": [
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-b6838ee5f409eeda",
+      "video_id": "wGffBCfrAsE",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/wGffBCfrAsE/hqdefault.jpg",
+      "title": "100 random chords, how many intersections?",
+      "url": "https://www.youtube.com/shorts/wGffBCfrAsE",
+      "source": "3Blue1Brown",
+      "published": "2026-06-16T18:04:05+00:00",
+      "summary": "Part of a series of monthly puzzles done in collaboration with MoMath.",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-7881ad2c96652b5d",
+      "video_id": "-7etvZSBxlk",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/-7etvZSBxlk/hqdefault.jpg",
+      "title": "Measuring the entropy of English",
+      "url": "https://www.youtube.com/shorts/-7etvZSBxlk",
+      "source": "3Blue1Brown",
+      "published": "2026-06-12T13:22:02+00:00",
+      "summary": "Full video: https://youtu.be/l6DKRf-fAAM",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-545d5ef2086684c4",
+      "video_id": "7L_eTem1SQ4",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/7L_eTem1SQ4/hqdefault.jpg",
+      "title": "What's the perfect encoding? How do you know?",
+      "url": "https://www.youtube.com/shorts/7L_eTem1SQ4",
+      "source": "3Blue1Brown",
+      "published": "2026-06-10T13:26:34+00:00",
+      "summary": "Full video: https://youtu.be/l6DKRf-fAAM",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-b02c6b65ef23f18b",
+      "video_id": "mIlw5j3WyVk",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/mIlw5j3WyVk/hqdefault.jpg",
+      "title": "StatQuest: Random Forests Part 2: Missing data and clustering",
+      "url": "https://www.youtube.com/watch?v=mIlw5j3WyVk",
+      "source": "StatQuest",
+      "published": "2026-06-08T15:02:05+00:00",
+      "summary": "NOTE: This StatQuest is the updated version of the original Random Forests Part 3 and includes two minor corrections. Last time we talked about how to create, use and evaluate random forests. Now it's time to see how they can deal with missing data and how they can be used to cluster samples, even when the data comes from all kinds of crazy sources. NOTE: T…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-1e2a668f8e6be0a9",
+      "video_id": "L3nlGfSyHV0",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/L3nlGfSyHV0/hqdefault.jpg",
+      "title": "False Discovery Rates, FDR, clearly explained",
+      "url": "https://www.youtube.com/watch?v=L3nlGfSyHV0",
+      "source": "StatQuest",
+      "published": "2026-06-08T15:01:35+00:00",
+      "summary": "One of the best ways to prevent p-hacking is to adjust p-values for multiple testing. This StatQuest explains how the Benjamini-Hochberg method corrects for multiple-testing and FDR. For a complete index of all the StatQuest videos, check out: https://statquest.org/video-index/ If you'd like to support StatQuest, please consider... Patreon: https://www.patr…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-f3e5f4535f471620",
+      "video_id": "l6DKRf-fAAM",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/l6DKRf-fAAM/hqdefault.jpg",
+      "title": "Reinventing Entropy | Compression is Intelligence Part 1",
+      "url": "https://www.youtube.com/watch?v=l6DKRf-fAAM",
+      "source": "3Blue1Brown",
+      "published": "2026-06-07T11:49:51+00:00",
+      "summary": "How to study the compressibility of language. Check out our virtual career fair: https://3b1b.co/talent See new projects before they go live: https://3b1b.co/support Animation credit: Manim scenes by Aaron Gostein and Grant Sanderson Shannon’s story, as well as those for various pi creatures, by Mitchell Zemil. Lunar robot and prediction/compression coin by…",
+      "tags": [
+        "rag"
+      ]
+    },
+    {
+      "id": "video-a40d015d308c4862",
+      "video_id": "ZHXt0-_gSj4",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/ZHXt0-_gSj4/hqdefault.jpg",
+      "title": "Tie random ends: How many loops?",
+      "url": "https://www.youtube.com/shorts/ZHXt0-_gSj4",
+      "source": "3Blue1Brown",
+      "published": "2026-05-21T21:49:47+00:00",
+      "summary": "Recent puzzle solutions on Patreon: https://members.3blue1brown.com/posts/158885046?pr=true",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-a60339053c12192f",
+      "video_id": "aFDOzpTeg0s",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/aFDOzpTeg0s/hqdefault.jpg",
+      "title": "The Essence of Linear Regression!!!",
+      "url": "https://www.youtube.com/watch?v=aFDOzpTeg0s",
+      "source": "StatQuest",
+      "published": "2026-05-18T04:00:01+00:00",
+      "summary": "This StatQuest takes you through basic linear regression, step-by-step, explaining both the method and the motivation behind the method. Each step is broken down into easy-to-understand parts so that anyone can develop a deep understanding of how to do and interpret a linear regression. BAM! If you'd like to support StatQuest, please consider... Patreon: ht…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-fa8759f0b57c3621",
+      "video_id": "QLu_ZsRc_G0",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/QLu_ZsRc_G0/hqdefault.jpg",
+      "title": "Covering 10 points, a surprisingly tricky puzzle.",
+      "url": "https://www.youtube.com/shorts/QLu_ZsRc_G0",
+      "source": "3Blue1Brown",
+      "published": "2026-04-16T16:08:21+00:00",
+      "summary": "Made as part of a monthly series of puzzles for the 2026 Year of Math.",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-060f6f1203a46bfb",
+      "video_id": "Y7ImxZ_YhJk",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/Y7ImxZ_YhJk/hqdefault.jpg",
+      "title": "Escher's most mind-bending piece",
+      "url": "https://www.youtube.com/shorts/Y7ImxZ_YhJk",
+      "source": "3Blue1Brown",
+      "published": "2026-03-27T20:56:02+00:00",
+      "summary": "On \"The Print Gallery\", by M.C. Escher Full video: https://youtu.be/ldxFjLJ3rVY",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-42879aa306dd5b05",
+      "video_id": "4h5BEALuh44",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/4h5BEALuh44/hqdefault.jpg",
+      "title": "The subset sum puzzle",
+      "url": "https://www.youtube.com/shorts/4h5BEALuh44",
+      "source": "3Blue1Brown",
+      "published": "2026-03-25T20:59:04+00:00",
+      "summary": "Part of a series of monthly puzzlers. Stay subscribed to see the solution",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-dcdd7966482cbe99",
+      "video_id": "ldxFjLJ3rVY",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/ldxFjLJ3rVY/hqdefault.jpg",
+      "title": "How (and why) to take a logarithm of an image",
+      "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
+      "source": "3Blue1Brown",
+      "published": "2026-03-22T12:59:00+00:00",
+      "summary": "Escher's Print Gallery, and the tour of complex analysis it invites. Explore our virtual career fair: https://3b1b.co/talent Join channel supporters to see videos early: https://3b1b.co/support An equally valuable form of support is to share the videos. Home page: https://www.3blue1brown.com Original paper by de Smit and Lenstra: https://pub.math.leidenuniv…",
+      "tags": [
+        "rag"
+      ]
+    },
+    {
+      "id": "video-b09113ffbabecfad",
+      "video_id": "Qoes9bTJtn0",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/Qoes9bTJtn0/hqdefault.jpg",
+      "title": "Bacteria Grid Puzzle Solution",
+      "url": "https://www.youtube.com/shorts/Qoes9bTJtn0",
+      "source": "3Blue1Brown",
+      "published": "2026-03-21T11:42:53+00:00",
+      "summary": "Part of a monthly series of puzzlers, in collaboration with MoMath and Peter Winkler",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-4c8faf038b94ff8a",
+      "video_id": "xHi8PUIVyoo",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/xHi8PUIVyoo/hqdefault.jpg",
+      "title": "I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "source": "Yannic Kilcher",
+      "published": "2026-03-06T22:07:33+00:00",
+      "summary": "All information about GTC and the DGX Spark Raffle is here: https://www.ykilcher.com/gtc Links: Homepage: https://ykilcher.com Merch: https://ykilcher.com/merch YouTube: https://www.youtube.com/c/yannickilcher Twitter: https://twitter.com/ykilcher Discord: https://ykilcher.com/discord LinkedIn: https://www.linkedin.com/in/ykilcher If you want to support me,…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-4e101150b5c7212c",
+      "video_id": "q-BiW5srMFQ",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/q-BiW5srMFQ/hqdefault.jpg",
+      "title": "How AI works in Super Simple Terms!!!",
+      "url": "https://www.youtube.com/watch?v=q-BiW5srMFQ",
+      "source": "StatQuest",
+      "published": "2026-01-12T05:01:06+00:00",
+      "summary": "In this StatQuest we explain how AI, like ChatGPT, works. However, instead of using lots of complicated math, we're going to use a super simple example and super simple terms. If math scares you, this StatQuest is for you! And even if math doesn't scare you, this StatQuest will give you a deeper understanding of what goes on under the hood. BAM! If you'd li…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-d8c58b6177b5fa0f",
+      "video_id": "Dr6jw-WAd9E",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/Dr6jw-WAd9E/hqdefault.jpg",
+      "title": "Traditional X-Mas Stream",
+      "url": "https://www.youtube.com/watch?v=Dr6jw-WAd9E",
+      "source": "Yannic Kilcher",
+      "published": "2025-12-29T03:44:20+00:00",
+      "summary": "Letsgooo",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-e2e53385d345864f",
+      "video_id": "DNajvkqfobY",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/DNajvkqfobY/hqdefault.jpg",
+      "title": "Traditional Holiday Live Stream",
+      "url": "https://www.youtube.com/watch?v=DNajvkqfobY",
+      "source": "Yannic Kilcher",
+      "published": "2025-12-28T12:41:54+00:00",
+      "summary": "https://ykilcher.com/discord Links: TabNine Code Completion (Referral): http://bit.ly/tabnine-yannick YouTube: https://www.youtube.com/c/yannickilcher Twitter: https://twitter.com/ykilcher Discord: https://discord.gg/4H8xxDF BitChute: https://www.bitchute.com/channel/yannic-kilcher Minds: https://www.minds.com/ykilcher Parler: https://parler.com/profile/Yan…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-88da70bcda5d0aad",
+      "video_id": "taCVT5vDAk0",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/taCVT5vDAk0/hqdefault.jpg",
+      "title": "TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)",
+      "url": "https://www.youtube.com/watch?v=taCVT5vDAk0",
+      "source": "Yannic Kilcher",
+      "published": "2025-12-27T14:33:29+00:00",
+      "summary": "Paper: https://arxiv.org/abs/2511.08923 Abstract: Diffusion language models hold the promise of fast parallel generation, while autoregressive (AR) models typically excel in quality due to their causal structure aligning naturally with language modeling. This raises a fundamental question: can we achieve a synergy with high throughput, higher GPU utilizatio…",
+      "tags": [
+        "diffusion"
+      ]
+    },
+    {
+      "id": "video-c83a2c3664193dcc",
+      "video_id": "v67plFw1nMw",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/v67plFw1nMw/hqdefault.jpg",
+      "title": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
+      "url": "https://www.youtube.com/watch?v=v67plFw1nMw",
+      "source": "Yannic Kilcher",
+      "published": "2025-12-14T16:22:15+00:00",
+      "summary": "Paper: https://arxiv.org/abs/2501.00663 Abstract: Over more than a decade there has been an extensive research effort on how to effectively utilize recurrent models and attention. While recurrent models aim to compress the data into a fixed-size memory (called hidden state), attention allows attending to the entire context window, capturing the direct depen…",
+      "tags": [
+        "transformer",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "video-ba556414d23deccc",
+      "video_id": "Nao16-6l6dQ",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/Nao16-6l6dQ/hqdefault.jpg",
+      "title": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
+      "url": "https://www.youtube.com/watch?v=Nao16-6l6dQ",
+      "source": "Yannic Kilcher",
+      "published": "2025-11-01T17:39:06+00:00",
+      "summary": "https://arxiv.org/abs/2510.17558 Abstract: We propose an extension of the decoder Transformer that conditions its generative process on random latent variables which are learned without supervision thanks to a variational procedure. Experimental evaluations show that allowing such a conditioning translates into substantial improvements on downstream tasks.…",
+      "tags": [
+        "transformer"
+      ]
+    },
+    {
+      "id": "video-5241b51e03f0275a",
+      "video_id": "0bpYCxv2qhw",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/0bpYCxv2qhw/hqdefault.jpg",
+      "title": "[Video Response] What Cloudflare's code mode misses about MCP and tool calling",
+      "url": "https://www.youtube.com/watch?v=0bpYCxv2qhw",
+      "source": "Yannic Kilcher",
+      "published": "2025-10-19T10:58:51+00:00",
+      "summary": "Theo's Video: https://www.youtube.com/watch?v=bAYZjVAodoo Cloudflare article: https://blog.cloudflare.com/code-mode/ Links: Homepage: https://ykilcher.com Merch: https://ykilcher.com/merch YouTube: https://www.youtube.com/c/yannickilcher Twitter: https://twitter.com/ykilcher Discord: https://ykilcher.com/discord LinkedIn: https://www.linkedin.com/in/ykilche…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-a5d2dd42a759f230",
+      "video_id": "zKohTkN0Fyk",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/zKohTkN0Fyk/hqdefault.jpg",
+      "title": "[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)",
+      "url": "https://www.youtube.com/watch?v=zKohTkN0Fyk",
+      "source": "Yannic Kilcher",
+      "published": "2025-10-11T16:07:41+00:00",
+      "summary": "Paper: https://arxiv.org/abs/2508.21038 Abstract: Vector embeddings have been tasked with an ever-increasing set of retrieval tasks over the years, with a nascent rise in using them for reasoning, instruction-following, coding, and more. These new benchmarks push embeddings to work for any query and any notion of relevance that could be given. While prior w…",
+      "tags": [
+        "reasoning"
+      ]
+    },
+    {
+      "id": "video-34b353be3f20fcd2",
+      "video_id": "WRYk7oZiogg",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/WRYk7oZiogg/hqdefault.jpg",
+      "title": "StatQuest: Career Advice from Tech Industry Leaders",
+      "url": "https://www.youtube.com/watch?v=WRYk7oZiogg",
+      "source": "StatQuest",
+      "published": "2025-09-04T04:00:42+00:00",
+      "summary": "This year, for my Pop's birthday, we're going to hear from current tech industry leaders that all started out working for my pop in the IT-Lab at the Medical University of South Carolina. These leaders have started all kinds of startups, pioneered Oscar award winning computer graphics and designed the best user interfaces that I've ever seen. I believe the…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-1c6037d1e29b01d3",
+      "video_id": "hkAH7-u7t5k",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/hkAH7-u7t5k/hqdefault.jpg",
+      "title": "AGI is not coming!",
+      "url": "https://www.youtube.com/watch?v=hkAH7-u7t5k",
+      "source": "Yannic Kilcher",
+      "published": "2025-08-09T10:39:28+00:00",
+      "summary": "jack Morris's investigation into GPT-OSS training data https://x.com/jxmnop/status/1953899426075816164?t=3YRhVQDwQLk2gouTSACoqA&s=09",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-6b895b7f38d01a3a",
+      "video_id": "hpC4qjWu_aY",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/hpC4qjWu_aY/hqdefault.jpg",
+      "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance (Paper Analysis)",
+      "url": "https://www.youtube.com/watch?v=hpC4qjWu_aY",
+      "source": "Yannic Kilcher",
+      "published": "2025-07-23T11:10:52+00:00",
+      "summary": "Paper: https://research.trychroma.com/context-rot Abstract: Large Language Models (LLMs) are typically presumed to process context uniformly—that is, the model should handle the 10,000th token just as reliably as the 100th. However, in practice, this assumption does not hold. We observe that model performance varies significantly as input length changes, ev…",
+      "tags": [
+        "large language model",
+        "llm"
+      ]
+    },
+    {
+      "id": "video-e5f35fb2b1b94724",
+      "video_id": "RAEy3JZmIaA",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/RAEy3JZmIaA/hqdefault.jpg",
+      "title": "Energy-Based Transformers are Scalable Learners and Thinkers (Paper Review)",
+      "url": "https://www.youtube.com/watch?v=RAEy3JZmIaA",
+      "source": "Yannic Kilcher",
+      "published": "2025-07-19T15:19:45+00:00",
+      "summary": "Paper: https://arxiv.org/abs/2507.02092 Code: https://github.com/alexiglad/EBT Website: https://energy-based-transformers.github.io/ Abstract: Inference-time computation techniques, analogous to human System 2 Thinking, have recently become popular for improving model performances. However, most existing approaches suffer from several limitations: they are…",
+      "tags": [
+        "diffusion",
+        "transformer",
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-9ef66a545bebd042",
+      "video_id": "qPN_XZcJf_s",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/qPN_XZcJf_s/hqdefault.jpg",
+      "title": "Reinforcement Learning with Human Feedback (RLHF), Clearly Explained!!!",
+      "url": "https://www.youtube.com/watch?v=qPN_XZcJf_s",
+      "source": "StatQuest",
+      "published": "2025-05-05T04:01:03+00:00",
+      "summary": "Generative Large Language Models, like ChatGPT and DeepSeek, are trained on massive text based datasets, like the entire Wikipedia. However, this training alone fails to teach the models how to generate polite and useful responses to your prompts. Thus, LLMs rely on Supervised Fine-Tuning and Reinforcement Learning with Human Feedback (RLHF) to align the mo…",
+      "tags": [
+        "large language model",
+        "llm",
+        "reinforcement learning"
+      ]
+    },
+    {
+      "id": "video-b09c88216abff6dc",
+      "video_id": "V71AJoYAtBQ",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/V71AJoYAtBQ/hqdefault.jpg",
+      "title": "On the Biology of a Large Language Model (Part 2)",
+      "url": "https://www.youtube.com/watch?v=V71AJoYAtBQ",
+      "source": "Yannic Kilcher",
+      "published": "2025-05-03T16:16:29+00:00",
+      "summary": "An in-depth look at Anthropic's Transformer Circuit Blog Post Part 1 here: https://youtu.be/mU3g2YPKlsA Discord here: https;//ykilcher.com/discord https://transformer-circuits.pub/2025/attribution-graphs/biology.html Abstract: We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of context…",
+      "tags": [
+        "large language model",
+        "transformer"
+      ]
+    },
+    {
+      "id": "video-e95fd823f1710161",
+      "video_id": "DVGmsnxB2UQ",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/DVGmsnxB2UQ/hqdefault.jpg",
+      "title": "Reinforcement Learning with Neural Networks: Mathematical Details",
+      "url": "https://www.youtube.com/watch?v=DVGmsnxB2UQ",
+      "source": "StatQuest",
+      "published": "2025-04-14T04:00:27+00:00",
+      "summary": "Here we go through the math required to update a parameter in a neural network using reinforcement learning and we do it one step a time. We show how the derivatives are calculated (BAM!), then updated (DOUBLE BAM!!), and then used to optimize the parameters (TRIPLE BAM!!!). If you'd like to support StatQuest, please consider... Patreon: https://www.patreon…",
+      "tags": [
+        "neural network",
+        "reinforcement learning"
+      ]
+    },
+    {
+      "id": "video-3d55177076305bcb",
+      "video_id": "9hbQieQh7-o",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/9hbQieQh7-o/hqdefault.jpg",
+      "title": "Reinforcement Learning with Neural Networks: Essential Concepts",
+      "url": "https://www.youtube.com/watch?v=9hbQieQh7-o",
+      "source": "StatQuest",
+      "published": "2025-04-07T04:00:17+00:00",
+      "summary": "Reinforcement Learning has helped train neural networks to win games, drive cars and even get ChatGPT to sound more human when it responds to your prompt. This StatQuest covers the essential concepts of how this process works. BAM! If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership:…",
+      "tags": [
+        "neural network",
+        "reinforcement learning"
+      ]
+    },
+    {
+      "id": "video-f4164e263115baa7",
+      "video_id": "mU3g2YPKlsA",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/mU3g2YPKlsA/hqdefault.jpg",
+      "title": "On the Biology of a Large Language Model (Part 1)",
+      "url": "https://www.youtube.com/watch?v=mU3g2YPKlsA",
+      "source": "Yannic Kilcher",
+      "published": "2025-04-05T16:17:00+00:00",
+      "summary": "An in-depth look at Anthropic's Transformer Circuit Blog Post https://transformer-circuits.pub/2025/attribution-graphs/biology.html Abstract: We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts, using our circuit tracing methodology. Authors: Jack Lindsey†, Wes Gurnee*, Emmanu…",
+      "tags": [
+        "large language model",
+        "transformer"
+      ]
+    },
+    {
+      "id": "video-03ecc32ca21457dc",
+      "video_id": "Z-T0iJEXiwM",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/Z-T0iJEXiwM/hqdefault.jpg",
+      "title": "Reinforcement Learning: Essential Concepts",
+      "url": "https://www.youtube.com/watch?v=Z-T0iJEXiwM",
+      "source": "StatQuest",
+      "published": "2025-03-31T04:00:25+00:00",
+      "summary": "Reinforcement Learning is one of the most useful methodologies for training AI systems right now, and, while it might seem intimidating, is actually very similar to how you and I learn. This StatQuest cuts through the hype and helps you learn the essential concepts behind reinforcement learning one step at a time. For a complete index of all the StatQuest v…",
+      "tags": [
+        "reinforcement learning"
+      ]
+    },
+    {
+      "id": "video-9cd920d728282177",
+      "video_id": "EWvNQjAaOHw",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
+      "title": "How I use LLMs",
+      "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+      "source": "Andrej Karpathy",
+      "published": "2025-02-27T22:29:56+00:00",
+      "summary": "The example-driven, practical walkthrough of Large Language Models and their growing list of related features, as a new entry to my general audience series on LLMs. In this more practical followup, I take you through the many ways I use LLMs in my own life. Chapters 00:00:00 Intro into the growing LLM ecosystem 00:02:54 ChatGPT interaction under the hood 00…",
+      "tags": [
+        "large language model",
+        "llm"
+      ]
+    },
+    {
+      "id": "video-f5b94412ecf9a5e4",
+      "video_id": "_kstkMF-lQQ",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/_kstkMF-lQQ/hqdefault.jpg",
+      "title": "StatQuest on DeepLearning.AI!!! Check out my short course on attention!",
+      "url": "https://www.youtube.com/shorts/_kstkMF-lQQ",
+      "source": "StatQuest",
+      "published": "2025-02-12T14:20:19+00:00",
+      "summary": "https://bit.ly/4hDKXYg If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/join ...buying my book, a study guide, a t-shirt or hoodie, or a song from the StatQuest store... https://statquest.org/statquest-store/ ...or just dona…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-a21885e6d09a0c8e",
+      "video_id": "7xTGNNLPyMI",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
+      "title": "Deep Dive into LLMs like ChatGPT",
+      "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+      "source": "Andrej Karpathy",
+      "published": "2025-02-05T18:23:47+00:00",
+      "summary": "This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the full training stack of how the models are developed, along with mental models of how to think about their \"psychology\", and how to get the best use them in practical applications. I have one \"Intro to LLMs\" video…",
+      "tags": [
+        "neural network",
+        "large language model",
+        "llm",
+        "reinforcement learning",
+        "transformer"
+      ]
+    }
+  ],
+  "channel_videos": [
+    {
+      "id": "video-b7d9300382c57242",
+      "video_id": "SA9kdAX2Zj0",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
+      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "source": "Two Minute Papers",
+      "published": "2026-09-24T08:40:55+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations. Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5 Walking creatures video and paper:…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-762e86c2a7cec2f5",
+      "video_id": "qBBRRsH0rQc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
+      "title": "Yes, Jev Is Insane, But There's A Catch",
+      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+      "source": "Two Minute Papers",
+      "published": "2026-09-22T09:32:13+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.com/watch?v=4RtUJkjrKMI Previous papers, implementations, models: https://huggingface.co/convaiinnovations/laya https://arxiv.org/abs/2503.23303 https://huggingface.co/DeepMos…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-37b26bfdd763f1df",
+      "video_id": "bRQEWPA832A",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
+      "title": "The last IMO problem AI could not solve",
+      "url": "https://www.youtube.com/shorts/bRQEWPA832A",
+      "source": "3Blue1Brown",
+      "published": "2026-09-18T17:14:08+00:00",
+      "summary": "Full video: https://youtu.be/Nbwv5wHQoj0",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-47c9b251edf3206d",
+      "video_id": "Nbwv5wHQoj0",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg",
+      "title": "The last IMO problem AI could not solve",
+      "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "source": "3Blue1Brown",
+      "published": "2026-09-18T17:12:53+00:00",
+      "summary": "A beautiful puzzle that eluded AI, and the intuition it requires. Check out our virtual career fair: https://3b1b.co/talent See new videos early: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com Guest post I referenced on Terry Tao's blog: https://terrytao.wordpress.com/2026/09…",
+      "tags": [
+        "rag"
+      ]
+    },
+    {
+      "id": "video-0c3e7fe15b24fc0f",
+      "video_id": "vIHw_2VjSUw",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
+      "title": "DeepSeek’s Insane New Architecture",
+      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+      "source": "Two Minute Papers",
+      "published": "2026-09-18T07:03:46+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies! Sources: https://x.com/flowith/status/2099446892174406055/video/1 https://x.com/loktar00/status/2097761…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-281ff94730f2c880",
+      "video_id": "YoEWjZSwoys",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
+      "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
+      "source": "Two Minute Papers",
+      "published": "2026-09-15T10:12:34+00:00",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The papers and sources are available here: https://proceedings.mlr.press/v202/kirchenbauer23a.html https://www.nature.com/articles/s41586-024-08025-4 https://www.anthropic.com/news/claude-text-watermark 🙏 We would like to thank our generous Patreon supporters who make…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-9818ebd3c2a00036",
+      "video_id": "mOvtumfyjCs",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
+      "title": "I Never Thought I’d See This Happen",
+      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+      "source": "Two Minute Papers",
+      "published": "2026-09-10T08:47:23+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Navier-Stokes solution paper is available here: https://openai.com/index/navier-stokes-solution/ My fluid simulations and papers: https://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/ https://users.cg.tuwien.ac.at/zsolnai/gfx/real_time_fluid_control_eg/ Th…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-ff7563162bf9a471",
+      "video_id": "eVBJIUxv8N8",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
+      "title": "GPT-6 Astra Changes Everything",
+      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+      "source": "Two Minute Papers",
+      "published": "2026-09-08T08:24:27+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/ https://x.com/mindblown_ai/status/2095661874037813298?s=20 https://x.com/aollivier82/status/209622681940180189…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-6efda1b6c43af7b0",
+      "video_id": "2FaI2Fen1mQ",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/2FaI2Fen1mQ/hqdefault.jpg",
+      "title": "The GELU, SiLU and SwiGLU activation functions, clearly explained!!!",
+      "url": "https://www.youtube.com/watch?v=2FaI2Fen1mQ",
+      "source": "StatQuest",
+      "published": "2026-09-08T04:00:04+00:00",
+      "summary": "There's a new activation function in town. Actually, there are a bunch of new activation functions in town. This StatQuest gives you the essential information you need at the very start, followed by a surprisingly interesting derivation of each of these new activation functions. It turns out that Dropout is all you need. Who knew? If you'd like to support S…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-406cbb20fe1e7b29",
+      "video_id": "UwbASFlIS7A",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/UwbASFlIS7A/hqdefault.jpg",
+      "title": "Another three (3) more lessons from my Pop!",
+      "url": "https://www.youtube.com/watch?v=UwbASFlIS7A",
+      "source": "StatQuest",
+      "published": "2026-09-04T04:00:21+00:00",
+      "summary": "Since September 4th is Global Frank Starmer Day (and also his birthday), we'll celebrate by talking about another three (3) more lessons from him that influenced me over the span of my career so far. If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-f14a8fc51934f4f2",
+      "video_id": "B3LXEW4Pc-w",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
+      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+      "source": "Two Minute Papers",
+      "published": "2026-09-03T08:23:37+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Claude Fable 5.1 paper is available here: https://www.anthropic.com/claude-fable-and-mythos-5-1 https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mythos%205.1%20System%20Card.pdf Sources: https://x.com/alexalber…",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "video-afefdcee885e646b",
+      "video_id": "w9RDunJACkc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
+      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
+      "source": "Two Minute Papers",
+      "published": "2026-09-01T09:04:56+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Sources: https://x.com/louszbd/status/2092694163104113016 https://x.com/semianalysis_/status/2092623833630998556 https://x.com/skalskip92/status/2092748209802154201 https://x.com/louszbd/status/2093047548550525165 https://x.com…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-0638f3b98be62265",
+      "video_id": "LBiNcdGNgrg",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
+      "title": "The Billion Dollar AI Gap Is Collapsing",
+      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+      "source": "Two Minute Papers",
+      "published": "2026-08-28T09:44:44+00:00",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.ai/blog?id=qwen3.8-flash-next Sources: https://x.com/analogalok/status/2092697021790708148 https://www.reddit.com/r/unsloth/comments…",
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "id": "video-39fab277272e8741",
+      "video_id": "L9mMfAFwbl4",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
+      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
+      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+      "source": "Two Minute Papers",
+      "published": "2026-08-26T13:10:13+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.com/cordiverse/paper 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-105ab17fca33797a",
+      "video_id": "wMl6c_r0ubw",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
+      "title": "This Small AI Will Change Everything",
+      "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
+      "source": "Two Minute Papers",
+      "published": "2026-08-24T16:48:40+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Qwen3.8-27b is available here: https://huggingface.co/Qwen/Qwen3.8-27B Sources: https://www.reddit.com/r/unsloth/comments/1vogva0/share_your_results_from_qwen3827b/ https://www.reddit.com/r/LocalLLaMA/comments/1voer8u/qwen_38_27b_aquarium_burst_sample_test/ https://x.co…",
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "id": "video-324a1f1634acb185",
+      "video_id": "Yx-ZkLftybY",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/Yx-ZkLftybY/hqdefault.jpg",
+      "title": "TRIPLE BAM!!! With Josh, Luis and special guest Brandon Rohrer",
+      "url": "https://www.youtube.com/watch?v=Yx-ZkLftybY",
+      "source": "StatQuest",
+      "published": "2026-08-21T04:09:09+00:00",
+      "summary": "Made with Restream Studio. Livestream on 30+ platforms at once via https://restream.io Come join us in this Live Q/A where our guest is Brandon Rohrer, author of the very popular (and most excellent) Brandon Rohrer blog https://brandonrohrer.com/ and Senior Staff Machine Learning Engineer at Patreon. Feel free to post your questions beforehand or ask them l…",
+      "tags": [
+        "machine learning"
+      ]
+    },
+    {
+      "id": "video-22acc98b43021f58",
+      "video_id": "kyYepbhe1g8",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
+      "title": "DeepSeek Just Made Closed AI Look Ridiculous",
+      "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+      "source": "Two Minute Papers",
+      "published": "2026-08-19T18:02:46+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813 DSpark full episode: https://www.youtube.com/watch?v=1yBU41auQhw Sources: https://x.com/cline/status/2087602193205694891 https://x.com/TypingMindApp/status/2088214938754167263 https://x.com/stevibe/…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-ff2c7d25c19020e8",
+      "video_id": "rYyJm1tD3d0",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
+      "title": "The jumping pegs puzzle",
+      "url": "https://www.youtube.com/shorts/rYyJm1tD3d0",
+      "source": "3Blue1Brown",
+      "published": "2026-08-18T14:54:17+00:00",
+      "summary": "Part of a series of monthly puzzles with MoMath.",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-5ac4def88eb52249",
+      "video_id": "QnGNF8k_uoc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
+      "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+      "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+      "source": "Two Minute Papers",
+      "published": "2026-08-14T08:42:07+00:00",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://www.anthropic.com/research/riemann-zeta Source: https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/ 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers pos…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-611562df7404b9bf",
+      "video_id": "JQ97GiDwPxc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg",
+      "title": "How OpenAI Hacked HuggingFace",
+      "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+      "source": "Two Minute Papers",
+      "published": "2026-08-11T15:35:35+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 More reports are available here: https://openai.com/index/hugging-face-model-evaluation-security-incident/ https://huggingface.co/blog/security-incident-july-2026 https://huggingface.co/blog/agent-intrusion-technical-timeline 🙏 We would like to thank our generous Patreon su…",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "video-a6ebe1d55cb8c4ff",
+      "video_id": "vO6SWG-jxvE",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
+      "title": "DeepMind Just Changed How AI Sees The World",
+      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+      "source": "Two Minute Papers",
+      "published": "2026-08-07T08:22:00+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Gemma4 paper and some more is available here: https://arxiv.org/abs/2607.02770 https://x.com/googlegemma/status/2077449152062247219 https://x.com/UnslothAI/status/2078118183085731843 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers pos…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-56c70d188a21acec",
+      "video_id": "6XPlmCDNLNc",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
+      "title": "The 64 sugar cubes puzzle",
+      "url": "https://www.youtube.com/shorts/6XPlmCDNLNc",
+      "source": "3Blue1Brown",
+      "published": "2026-07-24T15:05:39+00:00",
+      "summary": "See all monthly puzzles: https://momath.org/mindbenders/",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-cdf4d8bd67462c09",
+      "video_id": "GlYgs6v2YfU",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
+      "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+      "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+      "source": "3Blue1Brown",
+      "published": "2026-07-16T11:56:04+00:00",
+      "summary": "Where the loss function for training LLMs comes from. Job opportunities aligned to this audience: https://3b1b.co/talent Early views and other perks for supporters: https://3b1b.co/support Home page: https://www.3blue1brown.com Part 1: https://youtu.be/l6DKRf-fAAM If you want to learn more about Lagrange Multipliers, I made multiple videos and articles for…",
+      "tags": [
+        "llm",
+        "rag",
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-a58884055102f9fe",
+      "video_id": "lgD9lNB9Ums",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/lgD9lNB9Ums/hqdefault.jpg",
+      "title": "The Simplex Algorithm, Mathematical Details!!!",
+      "url": "https://www.youtube.com/watch?v=lgD9lNB9Ums",
+      "source": "StatQuest",
+      "published": "2026-07-13T04:00:15+00:00",
+      "summary": "In the StatQuest, Optimization with Linear Programming (and the Simplex Algorithm), Main Ideas!!!, we learned the Main Ideas of Linear Programming and the Simplex Algorithm. Now let's dive into the nitty gritty details of how it's done, one step at a time. BAM! NOTE: This StatQuest is brought to you by Gurobi, the solver trusted by experts. To learn more se…",
+      "tags": [
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-b4399b1f243d4ef7",
+      "video_id": "h5o1n1QMcmM",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/h5o1n1QMcmM/hqdefault.jpg",
+      "title": "Optimization with Linear Programming (and the Simplex Algorithm), Main Ideas!!!",
+      "url": "https://www.youtube.com/watch?v=h5o1n1QMcmM",
+      "source": "StatQuest",
+      "published": "2026-07-06T04:00:30+00:00",
+      "summary": "If you've ever wondered how airplane schedules are optimized, warehouses are optimized or how crops are optimized, then you've wondered about Linear Programming. This StatQuest introduces you to the main ideas of how Linear Programming can be used to optimize problems, and, specifically, we'll learn about the Simplex Algorithm. BAM! NOTE: This StatQuest is…",
+      "tags": [
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-b6838ee5f409eeda",
+      "video_id": "wGffBCfrAsE",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/wGffBCfrAsE/hqdefault.jpg",
+      "title": "100 random chords, how many intersections?",
+      "url": "https://www.youtube.com/shorts/wGffBCfrAsE",
+      "source": "3Blue1Brown",
+      "published": "2026-06-16T18:04:05+00:00",
+      "summary": "Part of a series of monthly puzzles done in collaboration with MoMath.",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-7881ad2c96652b5d",
+      "video_id": "-7etvZSBxlk",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/-7etvZSBxlk/hqdefault.jpg",
+      "title": "Measuring the entropy of English",
+      "url": "https://www.youtube.com/shorts/-7etvZSBxlk",
+      "source": "3Blue1Brown",
+      "published": "2026-06-12T13:22:02+00:00",
+      "summary": "Full video: https://youtu.be/l6DKRf-fAAM",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-545d5ef2086684c4",
+      "video_id": "7L_eTem1SQ4",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/7L_eTem1SQ4/hqdefault.jpg",
+      "title": "What's the perfect encoding? How do you know?",
+      "url": "https://www.youtube.com/shorts/7L_eTem1SQ4",
+      "source": "3Blue1Brown",
+      "published": "2026-06-10T13:26:34+00:00",
+      "summary": "Full video: https://youtu.be/l6DKRf-fAAM",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-b02c6b65ef23f18b",
+      "video_id": "mIlw5j3WyVk",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/mIlw5j3WyVk/hqdefault.jpg",
+      "title": "StatQuest: Random Forests Part 2: Missing data and clustering",
+      "url": "https://www.youtube.com/watch?v=mIlw5j3WyVk",
+      "source": "StatQuest",
+      "published": "2026-06-08T15:02:05+00:00",
+      "summary": "NOTE: This StatQuest is the updated version of the original Random Forests Part 3 and includes two minor corrections. Last time we talked about how to create, use and evaluate random forests. Now it's time to see how they can deal with missing data and how they can be used to cluster samples, even when the data comes from all kinds of crazy sources. NOTE: T…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-1e2a668f8e6be0a9",
+      "video_id": "L3nlGfSyHV0",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/L3nlGfSyHV0/hqdefault.jpg",
+      "title": "False Discovery Rates, FDR, clearly explained",
+      "url": "https://www.youtube.com/watch?v=L3nlGfSyHV0",
+      "source": "StatQuest",
+      "published": "2026-06-08T15:01:35+00:00",
+      "summary": "One of the best ways to prevent p-hacking is to adjust p-values for multiple testing. This StatQuest explains how the Benjamini-Hochberg method corrects for multiple-testing and FDR. For a complete index of all the StatQuest videos, check out: https://statquest.org/video-index/ If you'd like to support StatQuest, please consider... Patreon: https://www.patr…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-f3e5f4535f471620",
+      "video_id": "l6DKRf-fAAM",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/l6DKRf-fAAM/hqdefault.jpg",
+      "title": "Reinventing Entropy | Compression is Intelligence Part 1",
+      "url": "https://www.youtube.com/watch?v=l6DKRf-fAAM",
+      "source": "3Blue1Brown",
+      "published": "2026-06-07T11:49:51+00:00",
+      "summary": "How to study the compressibility of language. Check out our virtual career fair: https://3b1b.co/talent See new projects before they go live: https://3b1b.co/support Animation credit: Manim scenes by Aaron Gostein and Grant Sanderson Shannon’s story, as well as those for various pi creatures, by Mitchell Zemil. Lunar robot and prediction/compression coin by…",
+      "tags": [
+        "rag"
+      ]
+    },
+    {
+      "id": "video-a40d015d308c4862",
+      "video_id": "ZHXt0-_gSj4",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/ZHXt0-_gSj4/hqdefault.jpg",
+      "title": "Tie random ends: How many loops?",
+      "url": "https://www.youtube.com/shorts/ZHXt0-_gSj4",
+      "source": "3Blue1Brown",
+      "published": "2026-05-21T21:49:47+00:00",
+      "summary": "Recent puzzle solutions on Patreon: https://members.3blue1brown.com/posts/158885046?pr=true",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-a60339053c12192f",
+      "video_id": "aFDOzpTeg0s",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/aFDOzpTeg0s/hqdefault.jpg",
+      "title": "The Essence of Linear Regression!!!",
+      "url": "https://www.youtube.com/watch?v=aFDOzpTeg0s",
+      "source": "StatQuest",
+      "published": "2026-05-18T04:00:01+00:00",
+      "summary": "This StatQuest takes you through basic linear regression, step-by-step, explaining both the method and the motivation behind the method. Each step is broken down into easy-to-understand parts so that anyone can develop a deep understanding of how to do and interpret a linear regression. BAM! If you'd like to support StatQuest, please consider... Patreon: ht…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-fa8759f0b57c3621",
+      "video_id": "QLu_ZsRc_G0",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/QLu_ZsRc_G0/hqdefault.jpg",
+      "title": "Covering 10 points, a surprisingly tricky puzzle.",
+      "url": "https://www.youtube.com/shorts/QLu_ZsRc_G0",
+      "source": "3Blue1Brown",
+      "published": "2026-04-16T16:08:21+00:00",
+      "summary": "Made as part of a monthly series of puzzles for the 2026 Year of Math.",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-060f6f1203a46bfb",
+      "video_id": "Y7ImxZ_YhJk",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/Y7ImxZ_YhJk/hqdefault.jpg",
+      "title": "Escher's most mind-bending piece",
+      "url": "https://www.youtube.com/shorts/Y7ImxZ_YhJk",
+      "source": "3Blue1Brown",
+      "published": "2026-03-27T20:56:02+00:00",
+      "summary": "On \"The Print Gallery\", by M.C. Escher Full video: https://youtu.be/ldxFjLJ3rVY",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-42879aa306dd5b05",
+      "video_id": "4h5BEALuh44",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/4h5BEALuh44/hqdefault.jpg",
+      "title": "The subset sum puzzle",
+      "url": "https://www.youtube.com/shorts/4h5BEALuh44",
+      "source": "3Blue1Brown",
+      "published": "2026-03-25T20:59:04+00:00",
+      "summary": "Part of a series of monthly puzzlers. Stay subscribed to see the solution",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-dcdd7966482cbe99",
+      "video_id": "ldxFjLJ3rVY",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/ldxFjLJ3rVY/hqdefault.jpg",
+      "title": "How (and why) to take a logarithm of an image",
+      "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
+      "source": "3Blue1Brown",
+      "published": "2026-03-22T12:59:00+00:00",
+      "summary": "Escher's Print Gallery, and the tour of complex analysis it invites. Explore our virtual career fair: https://3b1b.co/talent Join channel supporters to see videos early: https://3b1b.co/support An equally valuable form of support is to share the videos. Home page: https://www.3blue1brown.com Original paper by de Smit and Lenstra: https://pub.math.leidenuniv…",
+      "tags": [
+        "rag"
+      ]
+    },
+    {
+      "id": "video-b09113ffbabecfad",
+      "video_id": "Qoes9bTJtn0",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/Qoes9bTJtn0/hqdefault.jpg",
+      "title": "Bacteria Grid Puzzle Solution",
+      "url": "https://www.youtube.com/shorts/Qoes9bTJtn0",
+      "source": "3Blue1Brown",
+      "published": "2026-03-21T11:42:53+00:00",
+      "summary": "Part of a monthly series of puzzlers, in collaboration with MoMath and Peter Winkler",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-4c8faf038b94ff8a",
+      "video_id": "xHi8PUIVyoo",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/xHi8PUIVyoo/hqdefault.jpg",
+      "title": "I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "source": "Yannic Kilcher",
+      "published": "2026-03-06T22:07:33+00:00",
+      "summary": "All information about GTC and the DGX Spark Raffle is here: https://www.ykilcher.com/gtc Links: Homepage: https://ykilcher.com Merch: https://ykilcher.com/merch YouTube: https://www.youtube.com/c/yannickilcher Twitter: https://twitter.com/ykilcher Discord: https://ykilcher.com/discord LinkedIn: https://www.linkedin.com/in/ykilcher If you want to support me,…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-4e101150b5c7212c",
+      "video_id": "q-BiW5srMFQ",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/q-BiW5srMFQ/hqdefault.jpg",
+      "title": "How AI works in Super Simple Terms!!!",
+      "url": "https://www.youtube.com/watch?v=q-BiW5srMFQ",
+      "source": "StatQuest",
+      "published": "2026-01-12T05:01:06+00:00",
+      "summary": "In this StatQuest we explain how AI, like ChatGPT, works. However, instead of using lots of complicated math, we're going to use a super simple example and super simple terms. If math scares you, this StatQuest is for you! And even if math doesn't scare you, this StatQuest will give you a deeper understanding of what goes on under the hood. BAM! If you'd li…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-d8c58b6177b5fa0f",
+      "video_id": "Dr6jw-WAd9E",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/Dr6jw-WAd9E/hqdefault.jpg",
+      "title": "Traditional X-Mas Stream",
+      "url": "https://www.youtube.com/watch?v=Dr6jw-WAd9E",
+      "source": "Yannic Kilcher",
+      "published": "2025-12-29T03:44:20+00:00",
+      "summary": "Letsgooo",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-e2e53385d345864f",
+      "video_id": "DNajvkqfobY",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/DNajvkqfobY/hqdefault.jpg",
+      "title": "Traditional Holiday Live Stream",
+      "url": "https://www.youtube.com/watch?v=DNajvkqfobY",
+      "source": "Yannic Kilcher",
+      "published": "2025-12-28T12:41:54+00:00",
+      "summary": "https://ykilcher.com/discord Links: TabNine Code Completion (Referral): http://bit.ly/tabnine-yannick YouTube: https://www.youtube.com/c/yannickilcher Twitter: https://twitter.com/ykilcher Discord: https://discord.gg/4H8xxDF BitChute: https://www.bitchute.com/channel/yannic-kilcher Minds: https://www.minds.com/ykilcher Parler: https://parler.com/profile/Yan…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-88da70bcda5d0aad",
+      "video_id": "taCVT5vDAk0",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/taCVT5vDAk0/hqdefault.jpg",
+      "title": "TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)",
+      "url": "https://www.youtube.com/watch?v=taCVT5vDAk0",
+      "source": "Yannic Kilcher",
+      "published": "2025-12-27T14:33:29+00:00",
+      "summary": "Paper: https://arxiv.org/abs/2511.08923 Abstract: Diffusion language models hold the promise of fast parallel generation, while autoregressive (AR) models typically excel in quality due to their causal structure aligning naturally with language modeling. This raises a fundamental question: can we achieve a synergy with high throughput, higher GPU utilizatio…",
+      "tags": [
+        "diffusion"
+      ]
+    },
+    {
+      "id": "video-c83a2c3664193dcc",
+      "video_id": "v67plFw1nMw",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/v67plFw1nMw/hqdefault.jpg",
+      "title": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
+      "url": "https://www.youtube.com/watch?v=v67plFw1nMw",
+      "source": "Yannic Kilcher",
+      "published": "2025-12-14T16:22:15+00:00",
+      "summary": "Paper: https://arxiv.org/abs/2501.00663 Abstract: Over more than a decade there has been an extensive research effort on how to effectively utilize recurrent models and attention. While recurrent models aim to compress the data into a fixed-size memory (called hidden state), attention allows attending to the entire context window, capturing the direct depen…",
+      "tags": [
+        "transformer",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "video-ba556414d23deccc",
+      "video_id": "Nao16-6l6dQ",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/Nao16-6l6dQ/hqdefault.jpg",
+      "title": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
+      "url": "https://www.youtube.com/watch?v=Nao16-6l6dQ",
+      "source": "Yannic Kilcher",
+      "published": "2025-11-01T17:39:06+00:00",
+      "summary": "https://arxiv.org/abs/2510.17558 Abstract: We propose an extension of the decoder Transformer that conditions its generative process on random latent variables which are learned without supervision thanks to a variational procedure. Experimental evaluations show that allowing such a conditioning translates into substantial improvements on downstream tasks.…",
+      "tags": [
+        "transformer"
+      ]
+    },
+    {
+      "id": "video-5241b51e03f0275a",
+      "video_id": "0bpYCxv2qhw",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/0bpYCxv2qhw/hqdefault.jpg",
+      "title": "[Video Response] What Cloudflare's code mode misses about MCP and tool calling",
+      "url": "https://www.youtube.com/watch?v=0bpYCxv2qhw",
+      "source": "Yannic Kilcher",
+      "published": "2025-10-19T10:58:51+00:00",
+      "summary": "Theo's Video: https://www.youtube.com/watch?v=bAYZjVAodoo Cloudflare article: https://blog.cloudflare.com/code-mode/ Links: Homepage: https://ykilcher.com Merch: https://ykilcher.com/merch YouTube: https://www.youtube.com/c/yannickilcher Twitter: https://twitter.com/ykilcher Discord: https://ykilcher.com/discord LinkedIn: https://www.linkedin.com/in/ykilche…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-a5d2dd42a759f230",
+      "video_id": "zKohTkN0Fyk",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/zKohTkN0Fyk/hqdefault.jpg",
+      "title": "[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)",
+      "url": "https://www.youtube.com/watch?v=zKohTkN0Fyk",
+      "source": "Yannic Kilcher",
+      "published": "2025-10-11T16:07:41+00:00",
+      "summary": "Paper: https://arxiv.org/abs/2508.21038 Abstract: Vector embeddings have been tasked with an ever-increasing set of retrieval tasks over the years, with a nascent rise in using them for reasoning, instruction-following, coding, and more. These new benchmarks push embeddings to work for any query and any notion of relevance that could be given. While prior w…",
+      "tags": [
+        "reasoning"
+      ]
+    },
+    {
+      "id": "video-34b353be3f20fcd2",
+      "video_id": "WRYk7oZiogg",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/WRYk7oZiogg/hqdefault.jpg",
+      "title": "StatQuest: Career Advice from Tech Industry Leaders",
+      "url": "https://www.youtube.com/watch?v=WRYk7oZiogg",
+      "source": "StatQuest",
+      "published": "2025-09-04T04:00:42+00:00",
+      "summary": "This year, for my Pop's birthday, we're going to hear from current tech industry leaders that all started out working for my pop in the IT-Lab at the Medical University of South Carolina. These leaders have started all kinds of startups, pioneered Oscar award winning computer graphics and designed the best user interfaces that I've ever seen. I believe the…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-1c6037d1e29b01d3",
+      "video_id": "hkAH7-u7t5k",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/hkAH7-u7t5k/hqdefault.jpg",
+      "title": "AGI is not coming!",
+      "url": "https://www.youtube.com/watch?v=hkAH7-u7t5k",
+      "source": "Yannic Kilcher",
+      "published": "2025-08-09T10:39:28+00:00",
+      "summary": "jack Morris's investigation into GPT-OSS training data https://x.com/jxmnop/status/1953899426075816164?t=3YRhVQDwQLk2gouTSACoqA&s=09",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-6b895b7f38d01a3a",
+      "video_id": "hpC4qjWu_aY",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/hpC4qjWu_aY/hqdefault.jpg",
+      "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance (Paper Analysis)",
+      "url": "https://www.youtube.com/watch?v=hpC4qjWu_aY",
+      "source": "Yannic Kilcher",
+      "published": "2025-07-23T11:10:52+00:00",
+      "summary": "Paper: https://research.trychroma.com/context-rot Abstract: Large Language Models (LLMs) are typically presumed to process context uniformly—that is, the model should handle the 10,000th token just as reliably as the 100th. However, in practice, this assumption does not hold. We observe that model performance varies significantly as input length changes, ev…",
+      "tags": [
+        "large language model",
+        "llm"
+      ]
+    },
+    {
+      "id": "video-e5f35fb2b1b94724",
+      "video_id": "RAEy3JZmIaA",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/RAEy3JZmIaA/hqdefault.jpg",
+      "title": "Energy-Based Transformers are Scalable Learners and Thinkers (Paper Review)",
+      "url": "https://www.youtube.com/watch?v=RAEy3JZmIaA",
+      "source": "Yannic Kilcher",
+      "published": "2025-07-19T15:19:45+00:00",
+      "summary": "Paper: https://arxiv.org/abs/2507.02092 Code: https://github.com/alexiglad/EBT Website: https://energy-based-transformers.github.io/ Abstract: Inference-time computation techniques, analogous to human System 2 Thinking, have recently become popular for improving model performances. However, most existing approaches suffer from several limitations: they are…",
+      "tags": [
+        "diffusion",
+        "transformer",
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-9ef66a545bebd042",
+      "video_id": "qPN_XZcJf_s",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/qPN_XZcJf_s/hqdefault.jpg",
+      "title": "Reinforcement Learning with Human Feedback (RLHF), Clearly Explained!!!",
+      "url": "https://www.youtube.com/watch?v=qPN_XZcJf_s",
+      "source": "StatQuest",
+      "published": "2025-05-05T04:01:03+00:00",
+      "summary": "Generative Large Language Models, like ChatGPT and DeepSeek, are trained on massive text based datasets, like the entire Wikipedia. However, this training alone fails to teach the models how to generate polite and useful responses to your prompts. Thus, LLMs rely on Supervised Fine-Tuning and Reinforcement Learning with Human Feedback (RLHF) to align the mo…",
+      "tags": [
+        "large language model",
+        "llm",
+        "reinforcement learning"
+      ]
+    },
+    {
+      "id": "video-b09c88216abff6dc",
+      "video_id": "V71AJoYAtBQ",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/V71AJoYAtBQ/hqdefault.jpg",
+      "title": "On the Biology of a Large Language Model (Part 2)",
+      "url": "https://www.youtube.com/watch?v=V71AJoYAtBQ",
+      "source": "Yannic Kilcher",
+      "published": "2025-05-03T16:16:29+00:00",
+      "summary": "An in-depth look at Anthropic's Transformer Circuit Blog Post Part 1 here: https://youtu.be/mU3g2YPKlsA Discord here: https;//ykilcher.com/discord https://transformer-circuits.pub/2025/attribution-graphs/biology.html Abstract: We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of context…",
+      "tags": [
+        "large language model",
+        "transformer"
+      ]
+    },
+    {
+      "id": "video-e95fd823f1710161",
+      "video_id": "DVGmsnxB2UQ",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/DVGmsnxB2UQ/hqdefault.jpg",
+      "title": "Reinforcement Learning with Neural Networks: Mathematical Details",
+      "url": "https://www.youtube.com/watch?v=DVGmsnxB2UQ",
+      "source": "StatQuest",
+      "published": "2025-04-14T04:00:27+00:00",
+      "summary": "Here we go through the math required to update a parameter in a neural network using reinforcement learning and we do it one step a time. We show how the derivatives are calculated (BAM!), then updated (DOUBLE BAM!!), and then used to optimize the parameters (TRIPLE BAM!!!). If you'd like to support StatQuest, please consider... Patreon: https://www.patreon…",
+      "tags": [
+        "neural network",
+        "reinforcement learning"
+      ]
+    },
+    {
+      "id": "video-3d55177076305bcb",
+      "video_id": "9hbQieQh7-o",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/9hbQieQh7-o/hqdefault.jpg",
+      "title": "Reinforcement Learning with Neural Networks: Essential Concepts",
+      "url": "https://www.youtube.com/watch?v=9hbQieQh7-o",
+      "source": "StatQuest",
+      "published": "2025-04-07T04:00:17+00:00",
+      "summary": "Reinforcement Learning has helped train neural networks to win games, drive cars and even get ChatGPT to sound more human when it responds to your prompt. This StatQuest covers the essential concepts of how this process works. BAM! If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership:…",
+      "tags": [
+        "neural network",
+        "reinforcement learning"
+      ]
+    },
+    {
+      "id": "video-f4164e263115baa7",
+      "video_id": "mU3g2YPKlsA",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/mU3g2YPKlsA/hqdefault.jpg",
+      "title": "On the Biology of a Large Language Model (Part 1)",
+      "url": "https://www.youtube.com/watch?v=mU3g2YPKlsA",
+      "source": "Yannic Kilcher",
+      "published": "2025-04-05T16:17:00+00:00",
+      "summary": "An in-depth look at Anthropic's Transformer Circuit Blog Post https://transformer-circuits.pub/2025/attribution-graphs/biology.html Abstract: We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts, using our circuit tracing methodology. Authors: Jack Lindsey†, Wes Gurnee*, Emmanu…",
+      "tags": [
+        "large language model",
+        "transformer"
+      ]
+    },
+    {
+      "id": "video-03ecc32ca21457dc",
+      "video_id": "Z-T0iJEXiwM",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/Z-T0iJEXiwM/hqdefault.jpg",
+      "title": "Reinforcement Learning: Essential Concepts",
+      "url": "https://www.youtube.com/watch?v=Z-T0iJEXiwM",
+      "source": "StatQuest",
+      "published": "2025-03-31T04:00:25+00:00",
+      "summary": "Reinforcement Learning is one of the most useful methodologies for training AI systems right now, and, while it might seem intimidating, is actually very similar to how you and I learn. This StatQuest cuts through the hype and helps you learn the essential concepts behind reinforcement learning one step at a time. For a complete index of all the StatQuest v…",
+      "tags": [
+        "reinforcement learning"
+      ]
+    },
+    {
+      "id": "video-9cd920d728282177",
+      "video_id": "EWvNQjAaOHw",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
+      "title": "How I use LLMs",
+      "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+      "source": "Andrej Karpathy",
+      "published": "2025-02-27T22:29:56+00:00",
+      "summary": "The example-driven, practical walkthrough of Large Language Models and their growing list of related features, as a new entry to my general audience series on LLMs. In this more practical followup, I take you through the many ways I use LLMs in my own life. Chapters 00:00:00 Intro into the growing LLM ecosystem 00:02:54 ChatGPT interaction under the hood 00…",
+      "tags": [
+        "large language model",
+        "llm"
+      ]
+    },
+    {
+      "id": "video-f5b94412ecf9a5e4",
+      "video_id": "_kstkMF-lQQ",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/_kstkMF-lQQ/hqdefault.jpg",
+      "title": "StatQuest on DeepLearning.AI!!! Check out my short course on attention!",
+      "url": "https://www.youtube.com/shorts/_kstkMF-lQQ",
+      "source": "StatQuest",
+      "published": "2025-02-12T14:20:19+00:00",
+      "summary": "https://bit.ly/4hDKXYg If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/join ...buying my book, a study guide, a t-shirt or hoodie, or a song from the StatQuest store... https://statquest.org/statquest-store/ ...or just dona…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-a21885e6d09a0c8e",
+      "video_id": "7xTGNNLPyMI",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
+      "title": "Deep Dive into LLMs like ChatGPT",
+      "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+      "source": "Andrej Karpathy",
+      "published": "2025-02-05T18:23:47+00:00",
+      "summary": "This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the full training stack of how the models are developed, along with mental models of how to think about their \"psychology\", and how to get the best use them in practical applications. I have one \"Intro to LLMs\" video…",
+      "tags": [
+        "neural network",
+        "large language model",
+        "llm",
+        "reinforcement learning",
+        "transformer"
+      ]
+    },
+    {
+      "id": "video-473cee99449719fb",
+      "video_id": "bAWV_yrqx4w",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/bAWV_yrqx4w/hqdefault.jpg",
+      "title": "[GRPO Explained] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+      "url": "https://www.youtube.com/watch?v=bAWV_yrqx4w",
+      "source": "Yannic Kilcher",
+      "published": "2025-01-26T14:03:48+00:00",
+      "summary": "#deepseek #llm #grpo GRPO is one of the core advancements used in Deepseek-R1, but was introduced already last year in this paper that uses a combination of new RL techniques and iterative data collection to achieve remarkable performance on mathematics benchmarks with just a 7B model. Paper: https://arxiv.org/abs/2402.03300 Abstract: Mathematical reasoning…",
+      "tags": [
+        "llm",
+        "reasoning",
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-cfffdbf25f0e66cf",
+      "video_id": "R3nQ7pGXJcA",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "thumbnail": "https://i.ytimg.com/vi/R3nQ7pGXJcA/hqdefault.jpg",
+      "title": "Traditional Holiday Live Stream",
+      "url": "https://www.youtube.com/watch?v=R3nQ7pGXJcA",
+      "source": "Yannic Kilcher",
+      "published": "2024-12-27T00:48:00+00:00",
+      "summary": "https://ykilcher.com/discord Links: TabNine Code Completion (Referral): http://bit.ly/tabnine-yannick YouTube: https://www.youtube.com/c/yannickilcher Twitter: https://twitter.com/ykilcher Discord: https://discord.gg/4H8xxDF BitChute: https://www.bitchute.com/channel/yannic-kilcher Minds: https://www.minds.com/ykilcher Parler: https://parler.com/profile/Yan…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-fe8d26bc54029c9a",
+      "video_id": "3spXRAGnVq8",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/3spXRAGnVq8/hqdefault.jpg",
+      "title": "Chunking with Generative Feedback Loops",
+      "url": "https://www.youtube.com/watch?v=3spXRAGnVq8",
+      "source": "Henry AI Labs",
+      "published": "2024-08-12T14:00:04+00:00",
+      "summary": "Hey everyone! I am super excited to share a quick notebook on using Generative Feedback Loops to chunk code files and better structure how they are indexed in the Weaviate Vector Database! Chunking is one of the key topics in Vector Search. We need to break up long documents into smaller parts that we can encode with a pre-trained embedding model and index…",
+      "tags": [
+        "nlp",
+        "rag",
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-104e788eb1554931",
+      "video_id": "l8pRSuU81PU",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
+      "title": "Let's reproduce GPT-2 (124M)",
+      "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+      "source": "Andrej Karpathy",
+      "published": "2024-06-09T23:31:35+00:00",
+      "summary": "We reproduce the GPT-2 (124M) from scratch. This video covers the whole process: First we build the GPT-2 network, then we optimize its training to be really fast, then we set up the training run following the GPT-2 and GPT-3 paper and their hyperparameters, then we hit run, and come back the next morning to see our results, and enjoy some amusing model gen…",
+      "tags": [
+        "llm",
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-ffe3f4c4f9f8baab",
+      "video_id": "3N-_lLMDcbs",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/3N-_lLMDcbs/hqdefault.jpg",
+      "title": "Google Gemini 1.5 Pro and Flash - Demo of Long Context LLMs!",
+      "url": "https://www.youtube.com/watch?v=3N-_lLMDcbs",
+      "source": "Henry AI Labs",
+      "published": "2024-05-17T19:04:09+00:00",
+      "summary": "Hey everyone! Thanks so much for watching this video exploring Gemini Pro 1.5 and Gemini Flash! Long Context LLMs!! This video covers 3 key tests, the classic \"Lost in the Middle\" exploration, using Long Context LLMs as Re-rankers in Search, and finally, testing Many-Shot In-Context Learning! I am really excited about the potential of Many-Shot In-Context L…",
+      "tags": [
+        "llm",
+        "rag"
+      ]
+    },
+    {
+      "id": "video-0bc6ee163544a9ff",
+      "video_id": "1h3_h8t3L14",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/1h3_h8t3L14/hqdefault.jpg",
+      "title": "Llama 3 RAG Demo with DSPy Optimization, Ollama, and Weaviate!",
+      "url": "https://www.youtube.com/watch?v=1h3_h8t3L14",
+      "source": "Henry AI Labs",
+      "published": "2024-04-18T22:18:51+00:00",
+      "summary": "Hey everyone! Thank you so much for watching this overview of Llama 3 looking at the release notes and seeing a demo of how to integrate it with DSPy through Ollama and how to use DSPy's MIPRO to find the optimal prompt when using this new large language model for RAG! We are hosting an event in San Francisco on May 1st with Arize AI and Cohere, featuring a…",
+      "tags": [
+        "large language model",
+        "llm",
+        "rag",
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-2e016b0117c01773",
+      "video_id": "6dgXALb_5Ag",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/6dgXALb_5Ag/hqdefault.jpg",
+      "title": "Building RAG with Command R+ from Cohere, DSPy, and Weaviate!",
+      "url": "https://www.youtube.com/watch?v=6dgXALb_5Ag",
+      "source": "Henry AI Labs",
+      "published": "2024-04-04T23:00:26+00:00",
+      "summary": "Hey everyone! Thank you so much for watching this overview of Command R+ showing you how you can use the new model in DSPy and a quick RAG demo, as well as walking through the details of the release post! Congratulations to the Cohere team! Super exciting times to be working with LLM systems! Introducing Command R+: A Scalable LLM Built for Business - https…",
+      "tags": [
+        "llm",
+        "rag"
+      ]
+    },
+    {
+      "id": "video-a4fb7b5302dcbbc9",
+      "video_id": "tVw3CwrN5-8",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/tVw3CwrN5-8/hqdefault.jpg",
+      "title": "Structured Outputs with DSPy",
+      "url": "https://www.youtube.com/watch?v=tVw3CwrN5-8",
+      "source": "Henry AI Labs",
+      "published": "2024-04-01T14:00:33+00:00",
+      "summary": "The code for this notebook can be found here! - https://github.com/weaviate/recipes/blob/main/integrations/llm-frameworks/dspy/4.Structured-Outputs-with-DSPy.ipynb Unfortunately, Large Language Models will not consistently follow the instructions that you give them. This is a massive problem when you are building AI systems that require a particular type of…",
+      "tags": [
+        "large language model",
+        "llm"
+      ]
+    },
+    {
+      "id": "video-4c38053ef7265a80",
+      "video_id": "0c7Ksd6BG88",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/0c7Ksd6BG88/hqdefault.jpg",
+      "title": "Adding Depth to DSPy Programs",
+      "url": "https://www.youtube.com/watch?v=0c7Ksd6BG88",
+      "source": "Henry AI Labs",
+      "published": "2024-03-04T15:05:08+00:00",
+      "summary": "Hey everyone! Thank you so much for watching the 3rd edition of the DSPy series, Adding Depth to DSPy Programs!! This video begins with some DSPy news such as STORM, DSPy Assertions, and Typed Signatures! We then dive into the concept of adding depth to DSPy programs, taking a further look at what it means to have unique input-output examples for each compo…",
+      "tags": [
+        "llm",
+        "rag"
+      ]
+    },
+    {
+      "id": "video-dd42f56e498c004b",
+      "video_id": "zduSFxRajkE",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
+      "title": "Let's build the GPT Tokenizer",
+      "url": "https://www.youtube.com/watch?v=zduSFxRajkE",
+      "source": "Andrej Karpathy",
+      "published": "2024-02-20T17:11:35+00:00",
+      "summary": "The Tokenizer is a necessary and pervasive component of Large Language Models (LLMs), where it translates between strings and tokens (text chunks). Tokenizers are a completely separate stage of the LLM pipeline: they have their own training sets, training algorithms (Byte Pair Encoding), and after training implement two fundamental functions: encode() from…",
+      "tags": [
+        "large language model",
+        "llm",
+        "multimodal",
+        "transformer"
+      ]
+    },
+    {
+      "id": "video-d931d57e71224b22",
+      "video_id": "CEuUG4Umfxs",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/CEuUG4Umfxs/hqdefault.jpg",
+      "title": "Getting Started with RAG in DSPy!",
+      "url": "https://www.youtube.com/watch?v=CEuUG4Umfxs",
+      "source": "Henry AI Labs",
+      "published": "2024-02-12T15:00:38+00:00",
+      "summary": "Hey everyone! Thank you so much for watching this tutorial on getting started with RAG programming in DSPy! This video will take you through 4 major aspects of building DSPy programs (1) Installation, settings, and Datasets with dspy.Example, (2) LLM Metrics, (3) The DSPy programming model, and (4) Optimization!! The notebook used in the video can be found…",
+      "tags": [
+        "llm",
+        "nlp",
+        "rag",
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-ef896742fd76f2b3",
+      "video_id": "41EfOY0Ldkc",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/41EfOY0Ldkc/hqdefault.jpg",
+      "title": "DSPy Explained!",
+      "url": "https://www.youtube.com/watch?v=41EfOY0Ldkc",
+      "source": "Henry AI Labs",
+      "published": "2024-01-29T15:29:44+00:00",
+      "summary": "Hey everyone! Thank you so much for watching this explanation of DSPy! DSPy is a super exciting new framework for developing LLM programs! Pioneered by frameworks such as LangChain and LlamaIndex, we can build much more powerful systems by chaining together LLM calls! This means that the output of one call to an LLM is the input to the next, and so on. We c…",
+      "tags": [
+        "llm",
+        "nlp",
+        "rag"
+      ]
+    },
+    {
+      "id": "video-64296c96efa1a804",
+      "video_id": "zjkBMFhNj_g",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/zjkBMFhNj_g/hqdefault.jpg",
+      "title": "[1hr Talk] Intro to Large Language Models",
+      "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "source": "Andrej Karpathy",
+      "published": "2023-11-23T02:27:48+00:00",
+      "summary": "This is a 1 hour general-audience introduction to Large Language Models: the core technical component behind systems like ChatGPT, Claude, and Bard. What they are, where they are headed, comparisons and analogies to present-day operating systems, and some of the security-related challenges of this new computing paradigm. As of November 2023 (this field move…",
+      "tags": [
+        "neural network",
+        "large language model",
+        "llm",
+        "multimodal",
+        "transformer"
+      ]
+    },
+    {
+      "id": "video-3ecc13ff4eadbb38",
+      "video_id": "kCc8FmEb1nY",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/kCc8FmEb1nY/hqdefault.jpg",
+      "title": "Let's build GPT: from scratch, in code, spelled out.",
+      "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+      "source": "Andrej Karpathy",
+      "published": "2023-01-17T16:33:27+00:00",
+      "summary": "We build a Generatively Pretrained Transformer (GPT), following the paper \"Attention is All You Need\" and OpenAI's GPT-2 / GPT-3. We talk about connections to ChatGPT, which has taken the world by storm. We watch GitHub Copilot, itself a GPT, help us write a GPT (meta :D!) . I recommend people watch the earlier makemore videos to get comfortable with the au…",
+      "tags": [
+        "transformer",
+        "rag"
+      ]
+    },
+    {
+      "id": "video-8ec764e045784dc0",
+      "video_id": "t3YJ5hKiMQ0",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/t3YJ5hKiMQ0/hqdefault.jpg",
+      "title": "Building makemore Part 5: Building a WaveNet",
+      "url": "https://www.youtube.com/watch?v=t3YJ5hKiMQ0",
+      "source": "Andrej Karpathy",
+      "published": "2022-11-21T00:32:48+00:00",
+      "summary": "We take the 2-layer MLP from previous video and make it deeper with a tree-like structure, arriving at a convolutional neural network architecture similar to the WaveNet (2016) from DeepMind. In the WaveNet paper, the same hierarchical architecture is implemented more efficiently using causal dilated convolutions (not yet covered). Along the way we get a be…",
+      "tags": [
+        "deep learning",
+        "neural network"
+      ]
+    },
+    {
+      "id": "video-5c9285879aae1339",
+      "video_id": "q8SA3rM6ckI",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/q8SA3rM6ckI/hqdefault.jpg",
+      "title": "Building makemore Part 4: Becoming a Backprop Ninja",
+      "url": "https://www.youtube.com/watch?v=q8SA3rM6ckI",
+      "source": "Andrej Karpathy",
+      "published": "2022-10-11T17:56:19+00:00",
+      "summary": "We take the 2-layer MLP (with BatchNorm) from the previous video and backpropagate through it manually without using PyTorch autograd's loss.backward(): through the cross entropy loss, 2nd linear layer, tanh, batchnorm, 1st linear layer, and the embedding table. Along the way, we get a strong intuitive understanding about how gradients flow backwards throug…",
+      "tags": [
+        "neural network"
+      ]
+    },
+    {
+      "id": "video-311147c61de1b061",
+      "video_id": "P6sfmUTpUmc",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/P6sfmUTpUmc/hqdefault.jpg",
+      "title": "Building makemore Part 3: Activations & Gradients, BatchNorm",
+      "url": "https://www.youtube.com/watch?v=P6sfmUTpUmc",
+      "source": "Andrej Karpathy",
+      "published": "2022-10-04T16:41:03+00:00",
+      "summary": "We dive into some of the internals of MLPs with multiple layers and scrutinize the statistics of the forward pass activations, backward pass gradients, and some of the pitfalls when they are improperly scaled. We also look at the typical diagnostic tools and visualizations you'd want to use to understand the health of your deep network. We learn why trainin…",
+      "tags": [
+        "rag"
+      ]
+    },
+    {
+      "id": "video-13319de7dcd54c08",
+      "video_id": "TCH_1BHY58I",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/TCH_1BHY58I/hqdefault.jpg",
+      "title": "Building makemore Part 2: MLP",
+      "url": "https://www.youtube.com/watch?v=TCH_1BHY58I",
+      "source": "Andrej Karpathy",
+      "published": "2022-09-12T14:43:06+00:00",
+      "summary": "We implement a multilayer perceptron (MLP) character-level language model. In this video we also introduce many basics of machine learning (e.g. model training, learning rate tuning, hyperparameters, evaluation, train/dev/test splits, under/overfitting, etc.). Links: - makemore on github: https://github.com/karpathy/makemore - jupyter notebook I built in th…",
+      "tags": [
+        "machine learning",
+        "neural network",
+        "rag"
+      ]
+    },
+    {
+      "id": "video-331ef2d508c7b1c2",
+      "video_id": "PaCmpygFfXo",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/PaCmpygFfXo/hqdefault.jpg",
+      "title": "The spelled-out intro to language modeling: building makemore",
+      "url": "https://www.youtube.com/watch?v=PaCmpygFfXo",
+      "source": "Andrej Karpathy",
+      "published": "2022-09-07T19:14:47+00:00",
+      "summary": "We implement a bigram character-level language model, which we will further complexify in followup videos into a modern Transformer language model, like GPT. In this video, the focus is on (1) introducing torch.Tensor and its subtleties and use in efficiently evaluating neural networks and (2) the overall framework of language modeling that includes model t…",
+      "tags": [
+        "neural network",
+        "nlp",
+        "transformer"
+      ]
+    },
+    {
+      "id": "video-0cfa5e0f2f7f2ba2",
+      "video_id": "kVpDARqZdrQ",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/kVpDARqZdrQ/hqdefault.jpg",
+      "title": "Stable diffusion dreams of psychedelic faces",
+      "url": "https://www.youtube.com/watch?v=kVpDARqZdrQ",
+      "source": "Andrej Karpathy",
+      "published": "2022-08-19T18:32:25+00:00",
+      "summary": "Prompt: \"psychedelic faces\" Stable diffusion takes a noise vector as input and samples an image. To create this video I smoothly (spherically) interpolate between randomly chosen noise vectors and render frames along the way. This video was produced by one A100 GPU taking about 10 tabs and dreaming about the prompt overnight (~8 hours). While I slept and dr…",
+      "tags": [
+        "diffusion"
+      ]
+    },
+    {
+      "id": "video-202a1767ce9e922a",
+      "video_id": "2oKjtvYslMY",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/2oKjtvYslMY/hqdefault.jpg",
+      "title": "Stable diffusion dreams of steampunk brains",
+      "url": "https://www.youtube.com/watch?v=2oKjtvYslMY",
+      "source": "Andrej Karpathy",
+      "published": "2022-08-17T16:58:01+00:00",
+      "summary": "Prompt: \"ultrarealistic steam punk neural network machine in the shape of a brain, placed on a pedestal, covered with neurons made of gears. dramatic lighting. #unrealengine\" Stable diffusion takes a noise vector as input and samples an image. To create this video I smoothly (spherically) interpolate between randomly chosen noise vectors and render frames a…",
+      "tags": [
+        "neural network",
+        "diffusion"
+      ]
+    },
+    {
+      "id": "video-96cd3f8e89b0408d",
+      "video_id": "sM9bozW295Q",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/sM9bozW295Q/hqdefault.jpg",
+      "title": "Stable diffusion dreams of tattoos",
+      "url": "https://www.youtube.com/watch?v=sM9bozW295Q",
+      "source": "Andrej Karpathy",
+      "published": "2022-08-16T23:02:58+00:00",
+      "summary": "Dreams of tattoos. (There are a few discrete jumps in the video because I had to erase portions that got just a little 🌶️, believe I got most of it) Links - Stable diffusion: https://stability.ai/blog - Code used to make this video: https://gist.github.com/karpathy/00103b0037c5aaea32fe1da1af553355 - My twitter: https://twitter.com/karpathy",
+      "tags": [
+        "diffusion"
+      ]
+    },
+    {
+      "id": "video-d2839bc4c10e3296",
+      "video_id": "VMj-3S1tku0",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "thumbnail": "https://i.ytimg.com/vi/VMj-3S1tku0/hqdefault.jpg",
+      "title": "The spelled-out intro to neural networks and backpropagation: building micrograd",
+      "url": "https://www.youtube.com/watch?v=VMj-3S1tku0",
+      "source": "Andrej Karpathy",
+      "published": "2022-08-16T22:44:26+00:00",
+      "summary": "This is the most step-by-step spelled-out explanation of backpropagation and training of neural networks. It only assumes basic knowledge of Python and a vague recollection of calculus from high school. Links: - micrograd on github: https://github.com/karpathy/micrograd - jupyter notebooks I built in this video: https://github.com/karpathy/nn-zero-to-hero/t…",
+      "tags": [
+        "neural network",
+        "optimization"
+      ]
+    },
+    {
+      "id": "video-2e7916739e8cb7ff",
+      "video_id": "P3UPe-xLXYc",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/P3UPe-xLXYc/hqdefault.jpg",
+      "title": "Approximate Nearest Neighbor Benchmarks - Weaviate Podcast Recap",
+      "url": "https://www.youtube.com/watch?v=P3UPe-xLXYc",
+      "source": "Henry AI Labs",
+      "published": "2022-05-30T15:30:41+00:00",
+      "summary": "Please check out the full podcast here: https://www.youtube.com/watch?v=kG3ji89AFyQ This video is a commentary on the latest Weaviate Podcast with Etienne Dilocker on ANN Benchmarks. ANN search -- short for Approximate Nearest Neighbors -- describes algorithms that enable efficient distance comparison between an encoded query vector and a vector database. F…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-b5899966012e3503",
+      "video_id": "TD20r9Z8LQo",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/TD20r9Z8LQo/hqdefault.jpg",
+      "title": "Search through Y Combinator startups with Weaviate!",
+      "url": "https://www.youtube.com/watch?v=TD20r9Z8LQo",
+      "source": "Henry AI Labs",
+      "published": "2022-04-03T19:22:41+00:00",
+      "summary": "Please check out Eric Jang's article \"Ranking YC Companies with a Neural Net\": https://evjang.com/2022/04/02/yc-rank.html Please subscribe to SeMI Technologies on YouTube! https://www.youtube.com/c/SeMI-and-Weaviate Timecodes 0:00 Introduction 0:58 Weaviate Demo 3:40 Article Overview 10:45 NLP for Venture Capital and Data-Centric AI",
+      "tags": [
+        "nlp"
+      ]
+    },
+    {
+      "id": "video-a6f117d876d296e1",
+      "video_id": "Xi_5wq2MpOw",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/Xi_5wq2MpOw/hqdefault.jpg",
+      "title": "MosaicML Composer for faster and cheaper Deep Learning!",
+      "url": "https://www.youtube.com/watch?v=Xi_5wq2MpOw",
+      "source": "Henry AI Labs",
+      "published": "2022-03-28T14:31:56+00:00",
+      "summary": "Please leave a star! https://github.com/mosaicml/composer Thank you so much for watching! This video presents some details of MosaicML's Composer launch and how to use it in Python. I am really excited about this company and their mission to deliver faster and cheaper Deep Learning training! I hope you find this video useful, happy to answer any questions y…",
+      "tags": [
+        "deep learning"
+      ]
+    },
+    {
+      "id": "video-e530df85033e59b0",
+      "video_id": "Ii4uCcjfrgY",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/Ii4uCcjfrgY/hqdefault.jpg",
+      "title": "Jina AI DocArray - Documentation Overview",
+      "url": "https://www.youtube.com/watch?v=Ii4uCcjfrgY",
+      "source": "Henry AI Labs",
+      "published": "2022-03-19T12:35:39+00:00",
+      "summary": "I hope you found this useful, please let me know if you have any questions or ideas! Docarray Documentation: https://docarray.jina.ai/ Full-Length Podcast: https://www.youtube.com/watch?v=HIGAQAE_xaI Code Tutorial (Weaviate + Jina AI for Image Search): https://www.youtube.com/watch?v=rBKvoIGihnY Please check out Jina AI on YouTube: https://www.youtube.com/c…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-ab9bd3f62550a6f5",
+      "video_id": "f9WQPx8J3rI",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/f9WQPx8J3rI/hqdefault.jpg",
+      "title": "What lead Jina AI CEO Han Xiao to Neural Search?",
+      "url": "https://www.youtube.com/watch?v=f9WQPx8J3rI",
+      "source": "Henry AI Labs",
+      "published": "2022-03-17T23:12:39+00:00",
+      "summary": "This video explains one of the biggest lessons for me in interviewing Han Xiao from Jina AI. I hope this was a good explanation of the preprocessing / granularity of embeddings and how that can enable different kinds of search applications. Full-Length Podcast: https://www.youtube.com/watch?v=HIGAQAE_xaI Code Tutorial (Weaviate + Jina AI for Image Search):…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-1b53a6ca03ad7a42",
+      "video_id": "4Huw6rQQDC4",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/4Huw6rQQDC4/hqdefault.jpg",
+      "title": "Full Stack Neural Search",
+      "url": "https://www.youtube.com/watch?v=4Huw6rQQDC4",
+      "source": "Henry AI Labs",
+      "published": "2022-03-17T13:12:35+00:00",
+      "summary": "This video explains one of the biggest lessons for me in interviewing Han Xiao from Jina AI. I hope this was a good explanation of the preprocessing / granularity of embeddings and how that can enable different kinds of search applications. Full-Length Podcast: https://www.youtube.com/watch?v=HIGAQAE_xaI Code Tutorial (Weaviate + Jina AI for Image Search):…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
+      "id": "video-e83af4ad2230e16c",
+      "video_id": "g7qXpsNZ94I",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "thumbnail": "https://i.ytimg.com/vi/g7qXpsNZ94I/hqdefault.jpg",
+      "title": "Python Tutorial: How to use Weaviate and Jina AI for Image Search!",
+      "url": "https://www.youtube.com/watch?v=g7qXpsNZ94I",
+      "source": "Henry AI Labs",
+      "published": "2022-03-16T15:07:53+00:00",
+      "summary": "I hope this video helps you get started with Image Search using Weaviate and Jina AI - happy to answer any questions / help solve problems! Check out the full tutorial explanation from Laura Ham: https://www.youtube.com/watch?v=rBKvoIGihnY New podcast with Jina AI CEO Han Xiao! https://www.youtube.com/watch?v=HIGAQAE_xaI Full notebook code: https://github.c…",
+      "tags": [
+        "technical video"
+      ]
+    }
+  ]
 }
