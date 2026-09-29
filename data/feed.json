@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T18:03:55.428231+00:00",
+  "generated_at": "2026-09-29T23:41:13.102365+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -191,6 +191,33 @@
       "pdf_url": null
     },
     {
+      "id": "paper-9a5ab2638847dc03",
+      "title": "Calibration of material models applied to impact mechanics using a new statistical approach.",
+      "url": "https://zenodo.org/record/3935803",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2029-07-01T00:00:00+00:00",
+      "summary": "Calibration of material models applied to impact mechanics using a new statistical approach. Congresso de Metodos Numericos em Engenharia. 1-3 July 2019. Guimaraes, Portugal",
+      "authors": [
+        "J. de Pablos",
+        "E. Menga",
+        "I. Romero"
+      ],
+      "tags": [
+        "High-Velocity Impact and Material Behavior",
+        "Granular flow and fluidized beds"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.3935803"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://zenodo.org/record/3935803"
+    },
+    {
       "id": "paper-bfe132c06eff2be9",
       "title": "A UAV-Based Framework for Community-Scale Residential Building Energy Modelling in China",
       "url": "https://doi.org/10.17638/03195460",
@@ -264,6 +291,34 @@
       ],
       "external_ids": {
         "doi": "10.7273/000008355"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-cf8f79c79cb2d0c0",
+      "title": "DEVELOPMENT AND COMMERCIALIZATION OF COMPUTATIONAL METHODS TO ACCELERATE DERMATOLOGICAL DISCOVERY",
+      "url": "https://doi.org/10.7273/000008421",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2028-02-26T00:00:00+00:00",
+      "summary": "The skin is the largest and outermost organ that surrounds the human body and provides a physical barrier that protects the more delicate internal tissues from the harsh surrounding environment. Over the course of evolution, specialized structures have also arisen in the skin, including sweat and sebaceous glands, nails and claws, and hair follicles. The hair follicle is a multi-lineage mini-organ that is a critical component…",
+      "authors": [
+        "Jasson Makkar"
+      ],
+      "tags": [
+        "deep learning",
+        "computer vision",
+        "Hair Growth and Disorders",
+        "Hearing, Cochlea, Tinnitus, Genetics",
+        "Skin and Cellular Biology Research"
+      ],
+      "external_ids": {
+        "doi": "10.7273/000008421"
       },
       "metrics": {
         "citation_count": 0
@@ -711,6 +766,34 @@
       "pdf_url": null
     },
     {
+      "id": "paper-59fd29ff27e2d955",
+      "title": "From Sparse to Dense: Label-Efficient Weakly Supervised Segmentation for Images and Videos",
+      "url": "https://doi.org/10.17638/03195330",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "Obtaining high-quality annotated data has become a primary bottleneck for training deep learning models, particularly for dense prediction tasks like semantic segmentation and video salient object segmentation. The demand for meticulous, pixel-level labeling makes fully-supervised approaches prohibitively expensive and limits their scalability. This thesis directly confronts this issue by proposing and systematically investig…",
+      "authors": [
+        "Wang, Jian"
+      ],
+      "tags": [
+        "deep learning",
+        "neural network",
+        "computer vision",
+        "transformer",
+        "foundation model"
+      ],
+      "external_ids": {
+        "doi": "10.17638/03195330"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
       "id": "paper-269a9ea96d21f14f",
       "title": "Development of a New Intelligent Algorithm to Improve Autonomous Car Operation",
       "url": "http://orcid.org/0000-0002-6865-1315>",
@@ -1013,30 +1096,6 @@
       "pdf_url": "https://philpapers.org/archive/LIFLDC.pdf"
     },
     {
-      "id": "paper-52bf71aeef57d463",
-      "title": "Data-driven Shielding of Online Reinforcement Learning: a Stormwater Pond case study (extension)",
-      "url": "https://doi.org/10.5281/zenodo.21327144",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-12-31T00:00:00+00:00",
-      "summary": "source code and model for reproducing the experiments.",
-      "authors": [
-        "Kim Esther Hahyeon"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.21327144"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
       "id": "paper-64f653a682c0b14f",
       "title": "A Study on the Mechanism and Ways to Improve New-Quality Productivity of Enterprises Driven by AI and the Digital Economy",
       "url": "https://philpapers.org/rec/DONASO-4",
@@ -1094,6 +1153,30 @@
       "pdf_url": "https://philpapers.org/archive/XIADPM.pdf"
     },
     {
+      "id": "paper-52bf71aeef57d463",
+      "title": "Data-driven Shielding of Online Reinforcement Learning: a Stormwater Pond case study (extension)",
+      "url": "https://doi.org/10.5281/zenodo.21327144",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-31T00:00:00+00:00",
+      "summary": "source code and model for reproducing the experiments.",
+      "authors": [
+        "Kim Esther Hahyeon"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.21327144"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
       "id": "paper-b1058e47eae2c8b8",
       "title": "Optimizing Resource Allocation in Cloud Computing Environments using Reinforcement Learning",
       "url": "https://www.semanticscholar.org/paper/92272e32fb47e498b520b79fa4c4c1b56fcc799c",
@@ -1120,6 +1203,52 @@
         "citation_count": 0
       },
       "pdf_url": ""
+    },
+    {
+      "id": "paper-9991c7e03207b2c5",
+      "title": "18th Asian Conference on Computer Vision",
+      "url": "https://doi.org/10.25798/kbf3-tt92",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-14T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Asian Federation of Computer Vision"
+      ],
+      "tags": [
+        "computer vision"
+      ],
+      "external_ids": {
+        "doi": "10.25798/kbf3-tt92"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-5d4736dc713fa3c6",
+      "title": "Bridge Crack Dataset",
+      "url": "https://doi.org/10.5281/zenodo.17905739",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-12T00:00:00+00:00",
+      "summary": "This dataset contains crack images and their corresponding annotations collected from the wooden structural components of the Lingyan Wind and Rain Bridge, located in Gantang River Park, Lingchuan County, Guilin City, Guangxi Zhuang Autonomous Region. The dataset covers four common types of cracks observed in wooden bridge structures: split cracks, tearing cracks, linear cracks, and shrinkage cracks. All images were captured…",
+      "authors": [
+        "Crack Detection Research Team"
+      ],
+      "tags": [],
+      "external_ids": {
+        "doi": "10.5281/zenodo.17905738"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
     },
     {
       "id": "paper-dfed4fd42b117054",
@@ -1875,7 +2004,7 @@
       "authors": [
         "Chen Yang",
         "Sheng-Li Fan",
-        "Pei-Zheng He",
+        "Pei-Zhen He",
         "Xin-Li Ma",
         "Lang Wang",
         "Michel Dossou",
@@ -4907,7 +5036,7 @@
       "summary": "",
       "authors": [
         "Shu-Xia Li",
-        "Hui Jiang",
+        "Hui-Zeng Jiang",
         "Li-Ping Liu",
         "Rui-Hong Situ",
         "Ti-Jun Fan"
@@ -4949,153 +5078,6 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.1016/j.catena.2026.110650"
-    },
-    {
-      "id": "paper-d41dae774cefb29e",
-      "title": "Interface management in relationships between systems",
-      "url": "https://www.semanticscholar.org/paper/50a25baed9ab7db130ad60ba1e5d3171b9821a00",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "Modeling of complex systems is based on established theories and concepts, but also on innovative constructions that harmonize the system with the requirements foreseen for its operating life. The problems of system interaction are concentrated at each coupling interface between them, where the harmonization of inputs and outputs of matter, energy and information, the management of coupling variables, the mutual compatibility…",
-      "authors": [
-        "Ioan Cuncev"
-      ],
-      "tags": [
-        "artificial intelligence",
-        "probabilistic",
-        "Journal of Engineering Sciences and Innovation"
-      ],
-      "external_ids": {
-        "doi": "10.56958/jesi.2026.11.1.125"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.56958/jesi.2026.11.1.125"
-    },
-    {
-      "id": "paper-28be26aa3504a255",
-      "title": "Framework for Bridge Maintenance Decision-Making Based on Improved Deep Q-Networks",
-      "url": "https://www.semanticscholar.org/paper/4e8d2318e8df79089835b3074c2e64a5263fa990",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "Balancing economy and safety is critical in bridge maintenance decision-making. This study proposes a deep reinforcement learning framework for bridge maintenance decision-making. An evaluation system using economic loss metrics is developed to resolve dimensional inconsistencies between economic and safety measurement units. Prioritized experience replay (PER) Deep Q-Networks (DQN) are first introduced to bridge maintenance…",
-      "authors": [
-        "Li-Zhao Dai",
-        "Zhi-Ke Zhu",
-        "Zi-Hao Gong",
-        "Lei Wang"
-      ],
-      "tags": [
-        "reinforcement learning",
-        "rag",
-        "Journal of Bridge Engineering"
-      ],
-      "external_ids": {
-        "doi": "10.1061/jbenf2.beeng-7964"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-f785f93ccbea800e",
-      "title": "Knowledge graph and large language model-enhanced approach for process knowledge reasoning of complex parts",
-      "url": "https://www.semanticscholar.org/paper/4bf0eea0a2740d0f81f26c0f074fd52b76aa79de",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Xiao-Gui Tian",
-        "Jian-Xin Xu",
-        "Zhen-Ming Zhang"
-      ],
-      "tags": [
-        "large language model",
-        "knowledge graph",
-        "reasoning",
-        "CIRP - Journal of Manufacturing Science and Technology"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.cirpj.2026.09.013"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.1016/j.cirpj.2026.09.013"
-    },
-    {
-      "id": "paper-4d966ba3e9b9dd97",
-      "title": "A knowledge-guided machine learning framework for cross-scale wheat harvest monitoring via sample augmentation",
-      "url": "https://www.semanticscholar.org/paper/4b2d31603b2eb8f680761ce57ab268ca57e4e72e",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Ming-Chao Shao",
-        "Chongya Jiang",
-        "Jing-Wei An",
-        "Hao-Kai Zhu",
-        "Yue Li",
-        "Xia Yao",
-        "T. Cheng",
-        "Hengbiao Zheng",
-        "Wei-Xing Cao",
-        "Yan Zhu"
-      ],
-      "tags": [
-        "machine learning",
-        "Remote Sensing of Environment"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.rse.2026.115671"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.1016/j.rse.2026.115671"
-    },
-    {
-      "id": "paper-c920dba9ea45287d",
-      "title": "CTSC-Reg: Unsupervised multimodal medical image registration via cross-task structural consistency",
-      "url": "https://www.semanticscholar.org/paper/4acafdaaf36c3d3f004fbb74b2768630b728d940",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Zi-Chen Wang",
-        "Yu Wang",
-        "Caiyi Bao",
-        "Yu-Peng Shi",
-        "Jianlan Yang"
-      ],
-      "tags": [
-        "multimodal",
-        "Biomedical Signal Processing and Control"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.bspc.2026.111288"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1746809426018422/pdf"
     }
   ],
   "blogs": [
@@ -5122,12 +5104,34 @@
       ]
     },
     {
-      "id": "blog-cfe8e900401f31bb",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "id": "blog-dd66acaed2a04b44",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "source": "OpenAI",
-      "published": "2026-09-28T19:00:00+00:00",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "published": "2026-09-29T10:00:00+00:00",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-19db7cc5ca5cc5ea",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI",
+      "published": "2026-09-29T10:00:00+00:00",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-884977ecb8004cb3",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "source": "OpenAI",
+      "published": "2026-09-29T00:00:00+00:00",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "tags": [
         "AI/ML"
       ]
@@ -5141,6 +5145,17 @@
       "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
       "tags": [
         "alignment"
+      ]
+    },
+    {
+      "id": "blog-cfe8e900401f31bb",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "tags": [
+        "AI/ML"
       ]
     },
     {
@@ -5265,28 +5280,6 @@
       ]
     },
     {
-      "id": "blog-7357353a1f1d61a6",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-7cff1964bf19497f",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
       "id": "blog-01d4e543c9419cea",
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
@@ -5304,6 +5297,28 @@
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
       "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-7cff1964bf19497f",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "blog-7357353a1f1d61a6",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "tags": [
         "AI/ML"
       ]
@@ -5515,39 +5530,6 @@
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "tags": [
         "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-363bbead77de9f9f",
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI",
-      "published": "2026-09-17T00:00:00+00:00",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-027811ca1632d0f5",
-      "title": "Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI",
-      "published": "2026-09-16T16:00:00+00:00",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-52752974efc060af",
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI",
-      "published": "2026-09-16T13:00:00+00:00",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "tags": [
-        "agent"
       ]
     },
     {
