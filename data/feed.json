@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:25:43.159974+00:00",
+  "generated_at": "2026-10-01T21:00:57.153515+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -2362,6 +2362,33 @@
       "pdf_url": ""
     },
     {
+      "id": "paper-00b2f016b70247f6",
+      "title": "DHF-Net: Multimodal fake news detection via dual-path hierarchical feature fusion",
+      "url": "https://www.semanticscholar.org/paper/d825944de8f0d6a0a50f30aa26ee33bd95e2e2bc",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Qiu-Mei Pu",
+        "Jinlei Ming",
+        "Min-Chao Zhang"
+      ],
+      "tags": [
+        "multimodal",
+        "Pattern Recognition Letters"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.patrec.2026.09.046"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-1f730d350d5ab76c",
       "title": "Network analysis and GMM-informed machine learning for scale-dependent soil quality assessment in a Mollisol watershed",
       "url": "https://www.semanticscholar.org/paper/d688f8670e059d4ade1c0992228910bd1c4435c6",
@@ -2508,6 +2535,60 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.2139/ssrn.6248881"
+    },
+    {
+      "id": "paper-8c150e8a0d77372c",
+      "title": "Enhancing cultural heritage accessibility through 3D modelling and multimodal access: The Golden Hall recovery project",
+      "url": "https://www.semanticscholar.org/paper/d2d645e8a3fe2be1615af022c4a40af405351865",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "J. A. Martínez-Moya",
+        "Jaume Gual-Ortí",
+        "Alba Soler Estrela"
+      ],
+      "tags": [
+        "multimodal",
+        "Digital Applications in Archaeology and Cultural Heritage"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.daach.2026.e00596"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.daach.2026.e00596"
+    },
+    {
+      "id": "paper-f5719b1a9d898842",
+      "title": "A robust and trustable approach to incorporate medical domain knowledge in machine learning models for diabetic retinopathy screening using routine lab results",
+      "url": "https://www.semanticscholar.org/paper/d2043e36f24185aa5503d1cc467c2bc271deb22e",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "E. Laoh",
+        "Oday Bani Ahmad",
+        "Tie-Ming Liu"
+      ],
+      "tags": [
+        "machine learning",
+        "Smart Health"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.smhl.2026.100724"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
     },
     {
       "id": "paper-c4ecbc0763ce4be8",
@@ -2850,6 +2931,37 @@
       "pdf_url": "https://doi.org/10.1016/j.advengsoft.2026.104316"
     },
     {
+      "id": "paper-29fcf07643c2f3e8",
+      "title": "Modelling the predictability of Upper Palaeolithic sites in the Bistrița Basin (Eastern Carpathians) through GIS and machine learning",
+      "url": "https://www.semanticscholar.org/paper/bf27ff6816d838a0cb97803026a53fd3d980928f",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "G. Murătoreanu",
+        "M. Anghelinu",
+        "Valentin Georgescu",
+        "M. Händel",
+        "D. Veres",
+        "Roxana Cuculici",
+        "F. Lehmkuhl"
+      ],
+      "tags": [
+        "machine learning",
+        "Quaternary International"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.quaint.2026.110481"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.quaint.2026.110481"
+    },
+    {
       "id": "paper-4bdf5564a667efbd",
       "title": "GACF: Graph augmentation and co-awareness fusion for multimodal recommendation",
       "url": "https://www.semanticscholar.org/paper/bd273ed5342e708e3b1a696c2aefa92e5da4f276",
@@ -3129,6 +3241,35 @@
       "pdf_url": ""
     },
     {
+      "id": "paper-cd2247254e75b830",
+      "title": "Machine learning-guided first-principles screening of halide double perovskites for optoelectronic applications",
+      "url": "https://www.semanticscholar.org/paper/b4afacad0497abfff0f124f5b49521a6d86fc1d0",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Noor Fatima",
+        "Wasif ur Rehman",
+        "Umar Farooq",
+        "Yang-Yang Wang",
+        "Yong-Long Wang"
+      ],
+      "tags": [
+        "machine learning",
+        "Physica. B, Condensed matter"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.physb.2026.419436"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-5fd6725fc9c13f23",
       "title": "Beyond exposure: Understanding household vulnerability configurations in semi-arid agroforestry systems through interpretable machine learning",
       "url": "https://www.semanticscholar.org/paper/b350895ac991804d1cd41ab3bd0eecfcf0dd4ca0",
@@ -3159,6 +3300,37 @@
         "citation_count": 0
       },
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2590291126011812/pdf"
+    },
+    {
+      "id": "paper-9912f0a7001b1b5e",
+      "title": "MXene-integrated Cs2AgBiBr6 perovskite solar absorber for ultrabroadband energy harvesting: Finite element modelling and machine learning optimization",
+      "url": "https://www.semanticscholar.org/paper/b22c74d5acff4b01d7475e586e3bc62d659ca0eb",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Krunal Patel",
+        "Vishal Sorathiya",
+        "Sunil P. Lavadiya",
+        "Amar Y. Jaffar",
+        "K. M. Jamil Khayyat",
+        "Abdullah G. Alharbi"
+      ],
+      "tags": [
+        "machine learning",
+        "optimization",
+        "Micro and Nanostructures"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.micrna.2026.208950"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
     },
     {
       "id": "paper-7e04956078fc071b",
@@ -3438,6 +3610,35 @@
         "citation_count": 0
       },
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2666149726000290/pdf"
+    },
+    {
+      "id": "paper-996690f54d616257",
+      "title": "Impact of Subway Passenger Flow–Built Environment Interaction on Road Congestion around Subway Stations Using Machine-Learning Models",
+      "url": "https://www.semanticscholar.org/paper/a7016a50fb59ac250b3a60ec461ede2e88ddb05b",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "To alleviate urban traffic congestion, metro systems have become critical urban transportation infrastructure. While effectively relieving pressure on long-distance commutes, the areas surrounding metro stations often emerge as congestion-sensitive zones due to the transient aggregation of feeder traffic and the high-density land use patterns concentrated there. This study focuses on road networks within a 500 m radius of sta…",
+      "authors": [
+        "Miao Guo",
+        "Yao-Guang Yang",
+        "Xiang Zhang",
+        "Ya-Qin Qin",
+        "Si-Yang Liu",
+        "Hao-Dong Sun"
+      ],
+      "tags": [
+        "Journal of Transportation Engineering Part A Systems"
+      ],
+      "external_ids": {
+        "doi": "10.1061/jtepbs.teeng-9550"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
     },
     {
       "id": "paper-7baaee21e197717e",
@@ -3727,6 +3928,33 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.1016/j.epsr.2026.113456"
+    },
+    {
+      "id": "paper-7f14f712cac94e37",
+      "title": "Geometry-aware deep reinforcement learning for real-time integrated scheduling and nesting in additive manufacturing",
+      "url": "https://www.semanticscholar.org/paper/9309ba6872bb257256c2a0444e1f21d7f8ac3432",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Qing-Yan Wang",
+        "Zi-Mo Zhang",
+        "Da-Qiang Guo"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Journal of manufacturing systems"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.jmsy.2026.09.007"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.jmsy.2026.09.007"
     },
     {
       "id": "paper-c6e981948a6a5756",
@@ -4721,6 +4949,38 @@
       "pdf_url": ""
     },
     {
+      "id": "paper-63535631a31e7b87",
+      "title": "Multiscale defect structure design and strength-ductility synergistic optimization of 6082 aluminum alloy based on machine learning and non-equilibrium processing",
+      "url": "https://www.semanticscholar.org/paper/634b245dbb04a1650e62c848c2802f87c65bf9d0",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Wen-Jie Zhong",
+        "Li-Yuan Wang",
+        "Gang Xu",
+        "Xin-Long Li",
+        "Wen-Gang Sheng",
+        "Hua-Guo Tang",
+        "Zhu-Hui Qiao"
+      ],
+      "tags": [
+        "machine learning",
+        "optimization",
+        "Applied Materials Today"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.apmt.2026.103436"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.apmt.2026.103436"
+    },
+    {
       "id": "paper-a26934da62acccaa",
       "title": "Erratum to “The Impact of the \"Broadband China\" Strategy on China's Digital-Real Integration: An Empirical Analysis Based on Double Machine Learning” [Measurement: Digitalization 6 (2026) 100028]",
       "url": "https://www.semanticscholar.org/paper/62b1a9ec49f28bca0e92832d9b78b583a12360db",
@@ -4807,273 +5067,31 @@
         "citation_count": 0
       },
       "pdf_url": ""
-    },
-    {
-      "id": "paper-42a58a6d0b5ca192",
-      "title": "A comparative study of machine learning and conventional methods for determining the dead layer thickness of an HPGe detector",
-      "url": "https://www.semanticscholar.org/paper/60f294f3bc9114849c6863f8e2f2948d68676de1",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "N. D. Thong",
-        "N. Vi",
-        "L. Uyen",
-        "N. V. Thiem",
-        "T. T. Thanh",
-        "V. Minh",
-        "P. Ho",
-        "Chia-Yi Tai",
-        "Congcong Tao"
-      ],
-      "tags": [
-        "machine learning",
-        "Radiation Physics and Chemistry"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.radphyschem.2026.114162"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-be9f96cbfe3df3b5",
-      "title": "A novel hybrid Elk-Eel and grouper optimizer coupled with machine learning for integrated irrigation water quality index prediction and Pareto-optimal monitoring cost reduction",
-      "url": "https://www.semanticscholar.org/paper/5fbcf090ab00c799ea11da28a718a07390ccfce2",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Mahmoud E. Abd-Elmaboud",
-        "Youssef M. Youssef",
-        "Mohamed Abdellatief",
-        "Mohamed Elkollaly",
-        "Mohsen Sherif",
-        "Ahmed El-Shafie",
-        "A. M. Saqr"
-      ],
-      "tags": [
-        "machine learning",
-        "Journal of Hydrology: Regional Studies"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.ejrh.2026.104014"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.1016/j.ejrh.2026.104014"
-    },
-    {
-      "id": "paper-2f14beaa2195ccd3",
-      "title": "Disentangling nonlinear and context-contingent built environment effects on social encounter opportunities: Evidence from explainable spatial machine learning in 15-min community life circles",
-      "url": "https://www.semanticscholar.org/paper/5dbbdcd71bb313eacba7f92b387b95fbebbb5b8b",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Man Zhang",
-        "Yu-Wei Wu",
-        "Qian-Qian Li",
-        "Pei-Qing Cao",
-        "Tao Shen"
-      ],
-      "tags": [
-        "machine learning",
-        "Computers, Environment and Urban Systems"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.compenvurbsys.2026.102514"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-8bbbcfdcb0f4b610",
-      "title": "Interpretable machine‑learning classification of TBM types: a comparative study of eleven algorithms using geological and project parameters",
-      "url": "https://www.semanticscholar.org/paper/5c6d300708c7221b2e1464786a5e8bcaf82b4dbc",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "E. Farrokh",
-        "Davood Lotfi"
-      ],
-      "tags": [
-        "Tunnelling and Underground Space Technology"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.tust.2026.108016"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-5fc1326f11db72c1",
-      "title": "Deep reinforcement learning for optimizing mobile depots allocation and hybrid order dispatch in last-mile delivery under multi-participants behavioral uncertainty",
-      "url": "https://www.semanticscholar.org/paper/5be770da9e984f52033365f0c71d6206ddb0158c",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Shixuan Hou",
-        "Cheng-Ming Hu",
-        "Annabathuni Sandeep Chowdary",
-        "Bissan Ghaddar",
-        "Joe Naoum-Sawaya",
-        "Jie Gao"
-      ],
-      "tags": [
-        "reinforcement learning",
-        "Transportation Research Part E: Logistics and Transportation Review"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.tre.2026.105170"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1366554526005089/pdf"
-    },
-    {
-      "id": "paper-5098d17ea9f23c48",
-      "title": "Trust, empowerment, and anxiety in the GenAI-enabled workplace: How generative AI in human resource management shapes employee outcomes in an emerging economy",
-      "url": "https://www.semanticscholar.org/paper/5ad9f031a24fd2eb631f2ed00431b52df64d0639",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Naphat Thipsri"
-      ],
-      "tags": [
-        "Computers in Human Behavior Reports"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.chbr.2026.101346"
-      },
-      "metrics": {
-        "citation_count": 1
-      },
-      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2451958826004203/pdf"
-    },
-    {
-      "id": "paper-0c06ed7ca4b43e2a",
-      "title": "Improving five-axis machine tool accuracy (PIGEs) through physics-informed machine learning models",
-      "url": "https://www.semanticscholar.org/paper/5a25c781164af088c06d4d083779638aebf3a18b",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Seth Osei",
-        "Wei Wang",
-        "Jia-Ying Wang",
-        "Jia-Hao Yu",
-        "Debora Nkhata",
-        "Qi-Chen Ding",
-        "Francis Kumi"
-      ],
-      "tags": [
-        "machine learning",
-        "Measurement"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.measurement.2026.123313"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-029cc87a79e72bd4",
-      "title": "A physics-guided machine learning approach to screening spectral induced polarization measurements",
-      "url": "https://www.semanticscholar.org/paper/58b78a4de2dc5e4987b38de7949117116bf39965",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Klaudio Peshtani",
-        "Addison Goeker",
-        "Hardik A. Gohel",
-        "Zoe Vincent",
-        "Chao Zeng",
-        "Katherine A. Muller",
-        "Lee Slater",
-        "N. Qafoku",
-        "H. Emerson"
-      ],
-      "tags": [
-        "machine learning",
-        "Applied Computing and Geosciences"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.acags.2026.100414"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2590197426000984/pdf"
-    },
-    {
-      "id": "paper-82258f32503de234",
-      "title": "Direct DC motor speed control using Soft Actor–Critic reinforcement learning",
-      "url": "https://www.semanticscholar.org/paper/56fac2685e4e273ba07b35b3d0ec098f6ef4fe63",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Abubakar Mohammed Sheriff",
-        "Sani Suleiman Sulen-Jebu",
-        "M. Shahab",
-        "Aamer Iqbal Bhatti"
-      ],
-      "tags": [
-        "reinforcement learning",
-        "Franklin Open"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.fraope.2026.100768"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2773186326002835/pdf"
     }
   ],
   "blogs": [
+    {
+      "id": "blog-7e67b43cf9d0e609",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI",
+      "published": "2026-10-01T17:00:00+00:00",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-a80484c2d5849bdb",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI",
+      "published": "2026-10-01T16:00:00+00:00",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "id": "blog-0bf00b70dbd762e2",
       "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
@@ -5163,23 +5181,23 @@
       ]
     },
     {
-      "id": "blog-dd66acaed2a04b44",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-19db7cc5ca5cc5ea",
       "title": "DevDay 2026 Recap",
       "url": "https://openai.com/index/devday-2026-recap",
       "source": "OpenAI",
       "published": "2026-09-29T10:00:00+00:00",
       "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-dd66acaed2a04b44",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
+      "published": "2026-09-29T10:00:00+00:00",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "tags": [
         "AI/ML"
       ]
@@ -5196,17 +5214,6 @@
       ]
     },
     {
-      "id": "blog-cfe8e900401f31bb",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI",
-      "published": "2026-09-28T19:00:00+00:00",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-cf468ec39dd67f09",
       "title": "Towards safety cases for frontier AI training",
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
@@ -5215,6 +5222,17 @@
       "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
       "tags": [
         "alignment"
+      ]
+    },
+    {
+      "id": "blog-cfe8e900401f31bb",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "tags": [
+        "AI/ML"
       ]
     },
     {
@@ -5339,17 +5357,6 @@
       ]
     },
     {
-      "id": "blog-7357353a1f1d61a6",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-7cff1964bf19497f",
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
       "url": "https://openai.com/index/ringg",
@@ -5378,6 +5385,17 @@
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
       "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-7357353a1f1d61a6",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "tags": [
         "AI/ML"
       ]
@@ -5534,28 +5552,6 @@
       "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
       "tags": [
         "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-530db518a73a5717",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "source": "OpenAI",
-      "published": "2026-09-21T07:00:00+00:00",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-d1749ba76a98e7a5",
-      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-      "url": "https://openai.com/index/v7",
-      "source": "OpenAI",
-      "published": "2026-09-21T00:00:00+00:00",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "tags": [
-        "agent"
       ]
     },
     {
