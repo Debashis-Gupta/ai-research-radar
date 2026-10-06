@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T11:14:29.335497+00:00",
+  "generated_at": "2026-10-06T18:19:35.028517+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -17,9 +17,9 @@
       "tags": [
         "machine learning",
         "artificial intelligence",
-        "Plant and Biological Electrophysiology Studies",
-        "Plant Molecular Biology Research",
-        "Smart Agriculture and AI"
+        "Smart Agriculture and AI",
+        "Artificial Intelligence Applications",
+        "Artificial Intelligence in Healthcare and Education"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.17036034"
@@ -45,10 +45,9 @@
       "tags": [
         "reinforcement learning",
         "alignment",
-        "Aesthetic Perception and Analysis",
-        "Embodied and Extended Cognition",
+        "Ethics and Social Impacts of AI",
         "Art, Technology, and Culture",
-        "Creativity in Education and Neuroscience"
+        "Aesthetic Perception and Analysis"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.19542109"
@@ -73,7 +72,10 @@
         "Li, Mengzhen"
       ],
       "tags": [
-        "machine learning"
+        "machine learning",
+        "Bioinformatics and Genomic Networks",
+        "Gene expression and cancer classification",
+        "Single-cell and spatial transcriptomics"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.17288329"
@@ -98,7 +100,10 @@
       ],
       "tags": [
         "machine learning",
-        "neural network"
+        "neural network",
+        "Machine Learning in Materials Science",
+        "Silicon Carbide Semiconductor Technologies",
+        "Data Mining and Machine Learning Applications"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.19103128"
@@ -124,8 +129,8 @@
       "tags": [
         "machine learning",
         "Stock Market Forecasting Methods",
-        "Complex Systems and Time Series Analysis",
-        "Financial Distress and Bankruptcy Prediction"
+        "Financial Markets and Investment Strategies",
+        "Complex Systems and Time Series Analysis"
       ],
       "external_ids": {
         "doi": "10.17638/03195315"
@@ -150,9 +155,9 @@
       ],
       "tags": [
         "machine learning",
-        "Single-cell and spatial transcriptomics",
         "Chronic Lymphocytic Leukemia Research",
-        "Digital Imaging for Blood Diseases"
+        "Single-cell and spatial transcriptomics",
+        "Lymphoma Diagnosis and Treatment"
       ],
       "external_ids": {
         "doi": "10.17638/03192789"
@@ -180,7 +185,7 @@
         "rag",
         "Cancer Genomics and Diagnostics",
         "Epigenetics and DNA Methylation",
-        "Microtubule and mitosis dynamics"
+        "Genomics and Chromatin Dynamics"
       ],
       "external_ids": {
         "doi": "10.5526/err-00042900"
@@ -206,8 +211,10 @@
         "I. Romero"
       ],
       "tags": [
+        "probabilistic",
         "High-Velocity Impact and Material Behavior",
-        "Granular flow and fluidized beds"
+        "Mechanical Behavior of Composites",
+        "Probabilistic and Robust Engineering Design"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.3935803"
@@ -235,7 +242,7 @@
         "deep learning",
         "optimization",
         "3D Surveying and Cultural Heritage",
-        "Remote Sensing and LiDAR Applications"
+        "Building Energy and Comfort Optimization"
       ],
       "external_ids": {
         "doi": "10.17638/03195460"
@@ -259,7 +266,12 @@
         "Zhe Zhang",
         "Junhong Chen"
       ],
-      "tags": [],
+      "tags": [
+        "neural network",
+        "Topic Modeling",
+        "Domain Adaptation and Few-Shot Learning",
+        "Advanced Neural Network Applications"
+      ],
       "external_ids": {
         "doi": "10.5281/zenodo.20710385"
       },
@@ -282,7 +294,10 @@
         "Rama Alkhtiar"
       ],
       "tags": [
-        "machine learning"
+        "machine learning",
+        "High voltage insulation and dielectric phenomena",
+        "Machine Learning in Materials Science",
+        "Plasma Applications and Diagnostics"
       ],
       "external_ids": {
         "doi": "10.17632/hxgnpm3xsg.1"
@@ -307,10 +322,9 @@
       ],
       "tags": [
         "machine learning",
-        "diffusion",
-        "Auction Theory and Applications",
+        "COVID-19 Pandemic Impacts",
         "Aviation Industry Analysis and Trends",
-        "Innovation Diffusion and Forecasting"
+        "Auction Theory and Applications"
       ],
       "external_ids": {
         "doi": "10.7273/000008355"
@@ -337,8 +351,8 @@
         "deep learning",
         "computer vision",
         "Hair Growth and Disorders",
-        "Hearing, Cochlea, Tinnitus, Genetics",
-        "Skin and Cellular Biology Research"
+        "Cell Image Analysis Techniques",
+        "Smart Agriculture and AI"
       ],
       "external_ids": {
         "doi": "10.7273/000008421"
@@ -363,9 +377,9 @@
       ],
       "tags": [
         "large language model",
-        "Embodied and Extended Cognition",
-        "Origins and Evolution of Life",
-        "Plant and Biological Electrophysiology Studies"
+        "Philosophy and Theoretical Science",
+        "Philosophy and History of Science",
+        "Embodied and Extended Cognition"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.18676720"
@@ -393,10 +407,9 @@
       ],
       "tags": [
         "neural network",
-        "optimization",
-        "Neural Networks and Applications",
         "Image Processing and 3D Reconstruction",
-        "Stochastic Gradient Optimization Techniques"
+        "Pleistocene-Era Hominins and Archaeology",
+        "Archaeological and Geological Studies"
       ],
       "external_ids": {
         "doi": "10.13140/rg.2.2.12669.63201"
@@ -421,9 +434,9 @@
       ],
       "tags": [
         "machine learning",
-        "Single-cell and spatial transcriptomics",
         "Cell Image Analysis Techniques",
-        "Digital Holography and Microscopy"
+        "Advanced Fluorescence Microscopy Techniques",
+        "Microfluidic and Bio-sensing Technologies"
       ],
       "external_ids": {
         "doi": "10.14288/1.0451480"
@@ -449,9 +462,9 @@
       "tags": [
         "machine learning",
         "artificial intelligence",
-        "neural network",
         "optimization",
-        "Advanced Control Systems Optimization"
+        "Explainable Artificial Intelligence (XAI)",
+        "Advanced Optimization Algorithms Research"
       ],
       "external_ids": {
         "doi": "10.14288/1.0452516"
@@ -477,9 +490,9 @@
       "tags": [
         "machine learning",
         "multimodal",
+        "Action Observation and Synchronization",
         "Emotion and Mood Recognition",
-        "Face Recognition and Perception",
-        "Action Observation and Synchronization"
+        "Emotions and Moral Behavior"
       ],
       "external_ids": {
         "doi": "10.48617/etd.1584"
@@ -503,7 +516,10 @@
         "di di"
       ],
       "tags": [
-        "machine learning"
+        "machine learning",
+        "Schizophrenia research and treatment",
+        "Epigenetics and DNA Methylation",
+        "Bioinformatics and Genomic Networks"
       ],
       "external_ids": {
         "doi": "10.17632/ntt4dkkwhk.1"
@@ -527,11 +543,11 @@
         "Anonymous Anonymous"
       ],
       "tags": [
-        "artificial intelligence",
         "llm",
         "agent",
         "Software Engineering Research",
-        "Model-Driven Software Engineering Techniques"
+        "Topic Modeling",
+        "Software Engineering Techniques and Practices"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.22893746"
@@ -555,7 +571,11 @@
         "育智 张"
       ],
       "tags": [
-        "large language model"
+        "large language model",
+        "natural language processing",
+        "Natural Language Processing Techniques",
+        "Topic Modeling",
+        "Translation Studies and Practices"
       ],
       "external_ids": {
         "doi": "10.17632/8yfdvcfwsf"
@@ -580,7 +600,10 @@
       ],
       "tags": [
         "llm",
-        "agent"
+        "natural language processing",
+        "agent",
+        "Natural Language Processing Techniques",
+        "Topic Modeling"
       ],
       "external_ids": {
         "doi": "10.17632/b7tg2rtxwj"
@@ -605,7 +628,11 @@
         "Silvestro Vespoli"
       ],
       "tags": [
-        "reinforcement learning"
+        "reinforcement learning",
+        "optimization",
+        "Scheduling and Optimization Algorithms",
+        "Reinforcement Learning in Robotics",
+        "Reliability and Maintenance Optimization"
       ],
       "external_ids": {
         "doi": "10.17632/t73ckh3f7k.1"
@@ -629,7 +656,10 @@
         "Paulo Arevalo"
       ],
       "tags": [
-        "machine learning"
+        "machine learning",
+        "Remote-Sensing Image Classification",
+        "Remote Sensing and Land Use",
+        "Remote Sensing in Agriculture"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.15843715"
@@ -654,7 +684,10 @@
         "Yang, Xiangmin"
       ],
       "tags": [
-        "reinforcement learning"
+        "reinforcement learning",
+        "Autonomous Vehicle Technology and Safety",
+        "Reinforcement Learning in Robotics",
+        "Evacuation and Crowd Dynamics"
       ],
       "external_ids": {
         "doi": "10.17632/c2hndp9wys"
@@ -678,7 +711,10 @@
         "Renyu Liang"
       ],
       "tags": [
-        "machine learning"
+        "machine learning",
+        "Bone Metabolism and Diseases",
+        "Bone health and osteoporosis research",
+        "Inflammatory Bowel Disease"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.19982496"
@@ -704,7 +740,9 @@
       "tags": [
         "artificial intelligence",
         "large language model",
-        "rag"
+        "rag",
+        "Ethics and Social Impacts of AI",
+        "Cybernetics and Technology in Society"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.18908883"
@@ -728,7 +766,10 @@
         "Anonymous"
       ],
       "tags": [
-        "reinforcement learning"
+        "reinforcement learning",
+        "Reinforcement Learning in Robotics",
+        "Advanced Software Engineering Methodologies",
+        "AI-based Problem Solving and Planning"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.22168077"
@@ -849,6 +890,36 @@
       ],
       "external_ids": {
         "doi": "10.1016/j.nedt.2026.107448"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-314f74ab353cb68c",
+      "title": "Machine learning for risk prediction of infectious diseases: a scoping review of application, predictive performance, and reporting gaps",
+      "url": "https://www.semanticscholar.org/paper/dd8bf9857c223c43adf70f52280639621302c370",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Lala Foresta Valentine Gunasari",
+        "Ting-Wu Chuang",
+        "B. S. Wiratama",
+        "A. Rahmanti",
+        "Dian Nurmansyah",
+        "Tri Baskoro Tunggul Satoto"
+      ],
+      "tags": [
+        "machine learning",
+        "International Journal of Medical Informatics"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.ijmedinf.2026.106720"
       },
       "metrics": {
         "citation_count": 0
@@ -1027,6 +1098,32 @@
       "pdf_url": "https://doi.org/10.1016/j.bspc.2026.111428"
     },
     {
+      "id": "paper-1450abb30bc4aa4d",
+      "title": "SPVLG: A visual-language-grasping model based on multimodal fusion and parameter-efficient fine-tuning",
+      "url": "https://www.semanticscholar.org/paper/47653d06682a58c5b6ab9d28013bfc64df8c75ab",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Jiang-Tao Xu",
+        "Tao Zhang"
+      ],
+      "tags": [
+        "multimodal",
+        "Neurocomputing"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.neucom.2026.135284"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-0174d685a7d74bd3",
       "title": "History-Aware Deep Reinforcement Learning for real-time robot navigation in dynamic industrial environments",
       "url": "https://www.semanticscholar.org/paper/3f6ad291295057b8a0f9a488c6bef5ad96af596d",
@@ -1070,9 +1167,9 @@
         "Kiran Kaur Sunar"
       ],
       "tags": [
+        "Postcolonial and Cultural Literary Studies",
         "South Asian Studies and Diaspora",
-        "South Asian Studies and Conflicts",
-        "South Asian Cinema and Culture"
+        "Literature: history, themes, analysis"
       ],
       "external_ids": {
         "doi": "10.14288/1.0105084"
@@ -1097,7 +1194,7 @@
       ],
       "tags": [
         "Urban Planning and Governance",
-        "Asian Studies and History",
+        "Urban Development and Cultural Heritage",
         "Cultural Heritage Management and Preservation"
       ],
       "external_ids": {
@@ -1122,11 +1219,11 @@
         "Cihan Demir"
       ],
       "tags": [
+        "artificial intelligence",
         "large language model",
         "natural language processing",
         "transformer",
-        "Intelligent Tutoring Systems and Adaptive Learning",
-        "Psychometric Methodologies and Testing"
+        "Online Learning and Analytics"
       ],
       "external_ids": {
         "doi": "10.7273/000007859"
@@ -1150,7 +1247,10 @@
         "Emel Tahir"
       ],
       "tags": [
-        "llm"
+        "llm",
+        "Speech Recognition and Synthesis",
+        "Music and Audio Processing",
+        "Speech and Audio Processing"
       ],
       "external_ids": {
         "doi": "10.17632/s3wy23bkdd.1"
@@ -1174,8 +1274,12 @@
         "Anonymous"
       ],
       "tags": [
+        "artificial intelligence",
         "llm",
-        "agent"
+        "agent",
+        "Ethics and Social Impacts of AI",
+        "Software Testing and Debugging Techniques",
+        "Explainable Artificial Intelligence (XAI)"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.21032824"
@@ -1229,7 +1333,10 @@
         "Jens Pöppelbuß"
       ],
       "tags": [
-        "artificial intelligence"
+        "artificial intelligence",
+        "Information Technology Governance and Strategy",
+        "Artificial Intelligence Applications",
+        "Corporate Management and Leadership"
       ],
       "external_ids": {
         "doi": "10.23728/b2share.xgk82-9rd16"
@@ -1282,9 +1389,10 @@
       ],
       "tags": [
         "reinforcement learning",
+        "optimization",
         "Robotic Path Planning Algorithms",
-        "Autonomous Vehicle Technology and Safety",
-        "Reinforcement Learning in Robotics"
+        "Metaheuristic Optimization Algorithms Research",
+        "Autonomous Vehicle Technology and Safety"
       ],
       "external_ids": {
         "doi": "10.17030/uclan.thesis.00057777"
@@ -1308,7 +1416,10 @@
         "Ahmed İhsan Şimşek"
       ],
       "tags": [
-        "reinforcement learning"
+        "reinforcement learning",
+        "Multi-Criteria Decision Making",
+        "Reinforcement Learning in Robotics",
+        "AI-based Problem Solving and Planning"
       ],
       "external_ids": {
         "doi": "10.17632/smbzhvhs3k"
@@ -1332,7 +1443,11 @@
         "Ryan David Oates Ryan David Oates"
       ],
       "tags": [
-        "llm"
+        "machine learning",
+        "llm",
+        "natural language processing",
+        "Topic Modeling",
+        "Natural Language Processing Techniques"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.18113554"
@@ -1359,9 +1474,9 @@
       ],
       "tags": [
         "artificial intelligence",
-        "Digital Transformation in Industry",
-        "Economic and Technological Innovation",
-        "Economic Development and Digital Transformation"
+        "Digital Economy and Transformation",
+        "Impact of AI and Big Data on Business and Society",
+        "Digital Transformation in Industry"
       ],
       "external_ids": {
         "doi": "10.17613/v53h3-s4978"
@@ -1388,8 +1503,8 @@
         "reinforcement learning",
         "probabilistic",
         "Machine Fault Diagnosis Techniques",
-        "Vehicle Dynamics and Control Systems",
-        "Gear and Bearing Dynamics Analysis"
+        "Sensorless Control of Electric Motors",
+        "Electric Motor Design and Analysis"
       ],
       "external_ids": {
         "doi": "10.17613/nzwnm-xe989"
@@ -1413,11 +1528,11 @@
         "Guangni Li"
       ],
       "tags": [
-        "artificial intelligence",
         "large language model",
         "llm",
+        "natural language processing",
         "reasoning",
-        "Artificial Intelligence in Healthcare and Education"
+        "Ethics and Social Impacts of AI"
       ],
       "external_ids": {
         "doi": "10.17613/fdwhn-ejz93"
@@ -1441,7 +1556,11 @@
         "Kim Esther Hahyeon"
       ],
       "tags": [
-        "reinforcement learning"
+        "machine learning",
+        "reinforcement learning",
+        "Privacy-Preserving Technologies in Data",
+        "Reinforcement Learning in Robotics",
+        "Adversarial Robustness in Machine Learning"
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.21327144"
@@ -1479,6 +1598,33 @@
         "citation_count": 0
       },
       "pdf_url": ""
+    },
+    {
+      "id": "paper-aa7808de1ead3b53",
+      "title": "The trajectory of educational justice in Zimbabwe's post-independence education policies and reforms (1980-2026): Implications for future educational reforms",
+      "url": "https://jcdee.com/index.php/jcdee/article/view/71",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-30T00:00:00+00:00",
+      "summary": "Purpose This study examines the evolution of Zimbabwe’s post-independence education policies through the lens of educational justice. Drawing on Rawls’ theories of distributive justice and equality of opportunity, and Fraser’s theories of recognition and participatory parity, the study explains how conceptions of educational justice and corresponding policy priorities evolved over time. Methodology Situated within interpretiv…",
+      "authors": [
+        "Angellar Manguvo"
+      ],
+      "tags": [
+        "artificial intelligence",
+        "African studies and sociopolitical issues",
+        "African Education and Politics",
+        "Global Educational Policies and Reforms"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.22768513"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://jcdee.com/index.php/jcdee/article/download/71/60"
     },
     {
       "id": "paper-b1058e47eae2c8b8",
@@ -1523,7 +1669,12 @@
         "Hao Wang",
         "Qidong Han"
       ],
-      "tags": [],
+      "tags": [
+        "optimization",
+        "Vehicle Routing Optimization Methods",
+        "Facility Location and Emergency Management",
+        "Transportation Planning and Optimization"
+      ],
       "external_ids": {
         "doi": "10.17632/xtjwcm7yg2"
       },
@@ -1573,9 +1724,10 @@
         "University of Auckland"
       ],
       "tags": [
+        "neural network",
+        "Advanced Neural Network Applications",
         "Advanced Vision and Imaging",
-        "CCD and CMOS Imaging Sensors",
-        "Robotics and Sensor-Based Localization"
+        "Video Surveillance and Tracking Methods"
       ],
       "external_ids": {
         "doi": "10.25798/0pqb-6x51"
@@ -1622,7 +1774,11 @@
       "authors": [
         "Crack Detection Research Team"
       ],
-      "tags": [],
+      "tags": [
+        "Infrastructure Maintenance and Monitoring",
+        "Structural Health Monitoring Techniques",
+        "Industrial Vision Systems and Defect Detection"
+      ],
       "external_ids": {
         "doi": "10.5281/zenodo.17905738"
       },
@@ -1990,6 +2146,39 @@
       ],
       "external_ids": {
         "doi": "10.1061/jcrgei.creng-1266"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-37bc8a2538a3adc6",
+      "title": "Explainable machine-learning predicts non-polar organic solvent nanofiltration performance for the n-hexane system",
+      "url": "https://www.semanticscholar.org/paper/f2b3e2afccab949c47bda131cc64de465613c79a",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Jian Li",
+        "Bao Huang",
+        "Song-Chen Li",
+        "Song-Hui Zhi",
+        "Zi-Meng Xu",
+        "Lu-Nan Zhong",
+        "Chi Zhang",
+        "Pan-Pan Zhang",
+        "Ming Xue",
+        "Yi Li"
+      ],
+      "tags": [
+        "Journal of Membrane Science"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.memsci.2026.126241"
       },
       "metrics": {
         "citation_count": 0
@@ -3708,7 +3897,7 @@
         "Dawood Dilmy",
         "Vahid Nasrollahi",
         "Reza Nekouie Esfahani",
-        "Stefan Dimov"
+        "S. Dimov"
       ],
       "tags": [
         "machine learning",
@@ -4887,120 +5076,31 @@
         "citation_count": 0
       },
       "pdf_url": ""
-    },
-    {
-      "id": "paper-bdc47a816e1471af",
-      "title": "Multimodal fusion of candlestick visuals and sector-level relational trends for stock price prediction",
-      "url": "https://www.semanticscholar.org/paper/8b8418f10c8efa1d2937227c721cc71b44d84efa",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Manali Patel",
-        "Shreya Goyal",
-        "K. Jariwala",
-        "C. Chattopadhyay",
-        "Sandeep Khanna"
-      ],
-      "tags": [
-        "multimodal",
-        "Pattern Recognition Letters"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.patrec.2026.09.030"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.1016/j.patrec.2026.09.030"
-    },
-    {
-      "id": "paper-d708a1445d53d124",
-      "title": "An analytics framework for multimodal fusion of cardiac signals and recurrence images in arrhythmia classification",
-      "url": "https://www.semanticscholar.org/paper/8ae4e2561a7f57b23f32ad7e710a01e39ba0b72f",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Zeinab Ibrahim",
-        "N. Ghatwary",
-        "Hesham H. Aly",
-        "M. A. Aboul-Dahab"
-      ],
-      "tags": [
-        "multimodal",
-        "Healthcare Analytics"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.health.2026.100490"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.1016/j.health.2026.100490"
-    },
-    {
-      "id": "paper-0f9f713fadbb8168",
-      "title": "A Trajectory Prediction Approach Incorporating Spatial-Temporal Safety Features for Autonomous Vehicles",
-      "url": "https://www.semanticscholar.org/paper/8941954361978b98a45f51d0eae7ccb47fd9227f",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "Trajectory prediction is essential for autonomous driving in complex traffic environments. However, existing methods mainly focus on accuracy while paying limited attention to safety considerations. This paper proposes a multimodal trajectory prediction approach that integrates safety features in both spatial and temporal perspectives. By introducing safety indicators from these two perspectives, the proposed approach utilize…",
-      "authors": [
-        "Qi-Lei Ran",
-        "Ci Liang",
-        "Y. Ci"
-      ],
-      "tags": [
-        "multimodal",
-        "rag",
-        "Journal of Transportation Engineering Part A Systems"
-      ],
-      "external_ids": {
-        "doi": "10.1061/jtepbs.teeng-9829"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-99294b021a1ca550",
-      "title": "Beyond single-membrane models: An explainable machine learning framework for cross-membrane comparison",
-      "url": "https://www.semanticscholar.org/paper/88f885cbde399e223137bb97bc95803bb91d47b4",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Hamdi A. Al-Jamimi",
-        "T. Saleh"
-      ],
-      "tags": [
-        "machine learning",
-        "Results in Engineering"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.rineng.2026.113204"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.1016/j.rineng.2026.113204"
     }
   ],
   "blogs": [
+    {
+      "id": "blog-60ef2af305e795fe",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI",
+      "published": "2026-10-06T16:00:00+00:00",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-9964af802e9c5fde",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI",
+      "published": "2026-10-06T10:00:00+00:00",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "tags": [
+        "agent"
+      ]
+    },
     {
       "id": "blog-085f7195b66fbb80",
       "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
@@ -5200,23 +5300,23 @@
       ]
     },
     {
-      "id": "blog-19db7cc5ca5cc5ea",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "source": "OpenAI",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-dd66acaed2a04b44",
       "title": "Introducing GPT-6.1 Sol",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "source": "OpenAI",
       "published": "2026-09-29T10:00:00+00:00",
       "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-19db7cc5ca5cc5ea",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI",
+      "published": "2026-09-29T10:00:00+00:00",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "tags": [
         "AI/ML"
       ]
@@ -5233,17 +5333,6 @@
       ]
     },
     {
-      "id": "blog-cfe8e900401f31bb",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI",
-      "published": "2026-09-28T19:00:00+00:00",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-cf468ec39dd67f09",
       "title": "Towards safety cases for frontier AI training",
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
@@ -5252,6 +5341,17 @@
       "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
       "tags": [
         "alignment"
+      ]
+    },
+    {
+      "id": "blog-cfe8e900401f31bb",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "tags": [
+        "AI/ML"
       ]
     },
     {
@@ -5398,14 +5498,14 @@
       ]
     },
     {
-      "id": "blog-7cff1964bf19497f",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
+      "id": "blog-7357353a1f1d61a6",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "tags": [
-        "agent"
+        "AI/ML"
       ]
     },
     {
@@ -5431,14 +5531,14 @@
       ]
     },
     {
-      "id": "blog-7357353a1f1d61a6",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "id": "blog-7cff1964bf19497f",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "tags": [
-        "AI/ML"
+        "agent"
       ]
     },
     {
@@ -5470,28 +5570,6 @@
       "source": "OpenAI",
       "published": "2026-09-23T01:00:00+00:00",
       "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-09a0c6dbf1c6c00d",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "source": "OpenAI",
-      "published": "2026-09-23T00:00:00+00:00",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-b6b1e4118cdbb529",
-      "title": "Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI",
-      "published": "2026-09-22T21:00:00+00:00",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
       "tags": [
         "AI/ML"
       ]
