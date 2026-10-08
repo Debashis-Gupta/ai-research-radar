@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:33:52.476908+00:00",
+  "generated_at": "2026-10-08T21:17:30.262884+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -4927,6 +4927,28 @@
   ],
   "blogs": [
     {
+      "id": "blog-112b5f00879d4fef",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "source": "OpenAI",
+      "published": "2026-10-08T16:00:00+00:00",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-ca1ec6c6a1a1314d",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI",
+      "published": "2026-10-08T12:00:00+00:00",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
       "id": "blog-077dea1e8a7adb2e",
       "title": "Disrupting AI-enabled “false front” operations",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
@@ -5235,23 +5257,23 @@
       ]
     },
     {
-      "id": "blog-dd66acaed2a04b44",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-19db7cc5ca5cc5ea",
       "title": "DevDay 2026 Recap",
       "url": "https://openai.com/index/devday-2026-recap",
       "source": "OpenAI",
       "published": "2026-09-29T10:00:00+00:00",
       "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-dd66acaed2a04b44",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
+      "published": "2026-09-29T10:00:00+00:00",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "tags": [
         "AI/ML"
       ]
@@ -5312,23 +5334,23 @@
       ]
     },
     {
-      "id": "blog-bf0fe8cc388a3447",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-914f14710638400c",
       "title": "Are you a Codex Original?",
       "url": "https://openai.com/form/codex-originals",
       "source": "OpenAI",
       "published": "2026-09-28T00:00:00+00:00",
       "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-bf0fe8cc388a3447",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
       "tags": [
         "AI/ML"
       ]
@@ -5406,28 +5428,6 @@
       "source": "Google DeepMind",
       "published": "2026-09-23T15:25:14+00:00",
       "summary": "",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-1d77064cbebb782f",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI",
-      "published": "2026-09-23T13:00:00+00:00",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-7357353a1f1d61a6",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "tags": [
         "AI/ML"
       ]
