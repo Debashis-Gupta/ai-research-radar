@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T14:53:55.904592+00:00",
+  "generated_at": "2026-10-11T20:13:53.811855+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -504,6 +504,35 @@
       "pdf_url": null
     },
     {
+      "id": "paper-0416e977c86e848a",
+      "title": "Cost-Grounded Reward Scaling for Deep Reinforcement Learning in Zero-Buffer Flow-Shop Maintenance - DATA",
+      "url": "https://doi.org/10.17632/t73ckh3f7k",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-07-09T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Valentina Popolo",
+        "Silvestro Vespoli"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "optimization",
+        "Scheduling and Optimization Algorithms",
+        "Reinforcement Learning in Robotics",
+        "Reliability and Maintenance Optimization"
+      ],
+      "external_ids": {
+        "doi": "10.17632/t73ckh3f7k"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
       "id": "paper-06050e8f71314127",
       "title": "Annual land cover maps for the Colombian Caribbean and Andean regions (1997 - 2024)",
       "url": "https://doi.org/10.5281/zenodo.15843714",
@@ -524,6 +553,34 @@
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.15843714"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-7031e70e0a80d0c1",
+      "title": "Dataset for: Inferring pedestrian decision-making through inverse reinforcement learning",
+      "url": "https://doi.org/10.17632/c2hndp9wys",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-06-29T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Liu Yang",
+        "Yang, Xiangmin"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Autonomous Vehicle Technology and Safety",
+        "Reinforcement Learning in Robotics",
+        "Evacuation and Crowd Dynamics"
+      ],
+      "external_ids": {
+        "doi": "10.17632/c2hndp9wys"
       },
       "metrics": {
         "citation_count": 0
@@ -632,6 +689,60 @@
       ],
       "external_ids": {
         "doi": "10.17632/zf9bykrkn7"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-e3519cb89980b121",
+      "title": "An Approach for Specifying Reinforcement Learning Systems",
+      "url": "https://doi.org/10.5281/zenodo.22168076",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-02-28T00:00:00+00:00",
+      "summary": "This repository contains the research artifacts produced as part of a master's dissertation proposal on the specification of systems incorporating Reinforcement Learning components.",
+      "authors": [
+        "Anonymous"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Reinforcement Learning in Robotics",
+        "Advanced Software Engineering Methodologies",
+        "AI-based Problem Solving and Planning"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.22168076"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-8d40c152b625976c",
+      "title": "Reinforcement learning drives task-relevant synaptic representation within cortical ensembles",
+      "url": "https://doi.org/10.5281/zenodo.22803274",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-02-28T00:00:00+00:00",
+      "summary": "This repository contains the model simulation, analysis, and figure-generation code accompanying the paper \"Reinforcement learning drives task-relevant synaptic representation within cortical ensembles\" (2025) by Martha B. Canto-Bustos, F. Kathryn Friason, Ziqi Wang, Satchal Postlewaite, Constanza Bassi, Changyu Sun, Christoph Miehl, Brent Doiron and Anne-Marie M. Oswald. Each directory contains code that can be run independe…",
+      "authors": [
+        "Satchal Postlewaite"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Neural dynamics and brain function",
+        "Memory and Neural Mechanisms",
+        "Neuroscience and Neuropharmacology Research"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.22803274"
       },
       "metrics": {
         "citation_count": 0
@@ -937,6 +1048,61 @@
       ],
       "external_ids": {
         "doi": "10.17638/03195330"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-269a9ea96d21f14f",
+      "title": "Development of a New Intelligent Algorithm to Improve Autonomous Car Operation",
+      "url": "http://orcid.org/0000-0002-6865-1315>",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "Autonomous Driving Systems (ADS) are transforming modern transportation by enabling safer, more efficient vehicle operation. Among their core components, local path planning remains a significant challenge due to the need for optimal navigation decisions in complex environments while balancing safety, smoothness, and computational efficiency. Existing methods suffer several drawbacks, including generating non-smooth paths, vu…",
+      "authors": [
+        "Mohamed Reda"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "optimization",
+        "Robotic Path Planning Algorithms",
+        "Metaheuristic Optimization Algorithms Research",
+        "Autonomous Vehicle Technology and Safety"
+      ],
+      "external_ids": {
+        "doi": "10.17030/uclan.thesis.00057777"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-e3c8ac426d7496d0",
+      "title": "An Interpretable State-Conditioned Multi-Criteria Decision-Making Layer for Reward Shaping in Deep Reinforcement Learning: Dynamic TOPSIS Weighting Applied to Disaster Response",
+      "url": "https://doi.org/10.17632/smbzhvhs3k",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Ahmed İhsan Şimşek"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Multi-Criteria Decision Making",
+        "Reinforcement Learning in Robotics",
+        "AI-based Problem Solving and Planning"
+      ],
+      "external_ids": {
+        "doi": "10.17632/smbzhvhs3k"
       },
       "metrics": {
         "citation_count": 0
@@ -1277,6 +1443,35 @@
       "pdf_url": "https://jcdee.com/index.php/jcdee/article/download/71/60"
     },
     {
+      "id": "paper-a30d0d1d9e0a833a",
+      "title": "RBVM Xi'an Replication Dataset for Dynamic Risk-Constrained Routing",
+      "url": "https://doi.org/10.17632/xtjwcm7yg2",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-18T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Shuo Feng",
+        "Hao Wang",
+        "Qidong Han"
+      ],
+      "tags": [
+        "optimization",
+        "Vehicle Routing Optimization Methods",
+        "Facility Location and Emergency Management",
+        "Transportation Planning and Optimization"
+      ],
+      "external_ids": {
+        "doi": "10.17632/xtjwcm7yg2"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
       "id": "paper-2cbfe280191fa0f3",
       "title": "CREATIVE LEADERSHIP AS A COGNITIVE-SOCIAL BUFFER AGAINST RUMINATION AND ORGANIZATIONAL ANOMIE: THE FULL MEDIATION ROLE OF EMOTIONAL INTELLIGENCE AND EMOTIONAL CAPACITY",
       "url": "https://tpmap.org/submission/index.php/tpm/article/view/3464",
@@ -1381,6 +1576,38 @@
       "pdf_url": null
     },
     {
+      "id": "paper-dbca167ff1ad3e5a",
+      "title": "Application of machine learning to reduce model uncertainty and enable resource-efficient design of flat slabs",
+      "url": "https://doi.org/10.17877/tudobooks-11.182",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "The construction sector has a significant share of global CO₂ emissions due to its high material and resource consumption. Since material and resource consumption can be significantly influenced by the structural design of components, strategies to promote resource-efficient and optimised designs are required providing that the target reliability levels of structures prescribed in building design codes (e.g., DIN EN 1990+NA)…",
+      "authors": [
+        "Til Lux",
+        "Johannes Sundheim",
+        "Tania Feiri",
+        "Udo Wiens",
+        "Marcus Ricker"
+      ],
+      "tags": [
+        "machine learning",
+        "probabilistic",
+        "Structural Behavior of Reinforced Concrete",
+        "Structural Engineering and Materials Analysis",
+        "Probabilistic and Robust Engineering Design"
+      ],
+      "external_ids": {
+        "doi": "10.17877/tudobooks-11.182"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
       "id": "paper-aaa2293bc47d4d47",
       "title": "Designing a Model for Enhancing the Skills of Primary School Principals with an Emphasis on STEAM Education",
       "url": "https://journals.kmanpub.com/index.php/ijimob/article/view/5820",
@@ -1406,6 +1633,58 @@
         "citation_count": 0
       },
       "pdf_url": "https://journals.kmanpub.com/index.php/ijimob/article/download/5820/11240"
+    },
+    {
+      "id": "paper-bf6a10f336398515",
+      "title": "Factors Influencing the Decision to Have Children in Iranian Military Families: A Qualitative Study",
+      "url": "https://journals.kmanpub.com/index.php/aftj/article/view/5495",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "summary": "Objective: The present study was conducted to explain the dynamics of military families and the factors influencing childbearing within the context of Iranian society. Methods and Materials: This study was conducted using a qualitative approach based on grounded theory, employing the Strauss and Corbin paradigmatic model. The participants were selected from military families residing in Tehran, Iran. Data were collected throu…",
+      "authors": [
+        "Nima Saberi",
+        "Davoud Nodehi",
+        "Ahmad Salami"
+      ],
+      "tags": [
+        "rag",
+        "Family Dynamics and Relationships",
+        "Social Policies and Family",
+        "Demographic Trends and Gender Preferences"
+      ],
+      "external_ids": {},
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://journals.kmanpub.com/index.php/aftj/article/download/5495/9926"
+    },
+    {
+      "id": "paper-30441d848f001f31",
+      "title": "Identifying the Dimensions and Components of Organizational Infrastructure Development in the Field of Human Capital in Mahshahr Gas Company",
+      "url": "https://journalfwdmj.com/index.php/fwdmj/article/view/270",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "summary": "The present study aimed to identify the dimensions and components of organizational infrastructure development in the field of human capital in Mahshahr Gas Company using a qualitative thematic analysis approach. This study was conducted using a qualitative applied-developmental design. The statistical population consisted of experts, managers, supervisors, and senior specialists of Mahshahr Gas Company who possessed substant…",
+      "authors": [
+        "Davod Golehdari",
+        "Mohammad Ali Nikbakhsh"
+      ],
+      "tags": [
+        "Leadership and Management in Organizations",
+        "Management and Organizational Practices",
+        "Human Resource and Talent Management"
+      ],
+      "external_ids": {},
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://journalfwdmj.com/index.php/fwdmj/article/download/270/299"
     },
     {
       "id": "paper-0c8045e267b7634a",
@@ -1493,6 +1772,61 @@
       "pdf_url": null
     },
     {
+      "id": "paper-5956595608e788ed",
+      "title": "Recent advancements in AI-assisted tool path generation for CNC machining",
+      "url": "https://real.mtak.hu/247720/1/Recent%20advancements%20in%20AI-assisted%20tool%20path%20generation%20for%20CNC%20machining.pdf",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-10-28T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Ádám Jacsó",
+        "Viktor Tancsa",
+        "Gerardo Hurtado Hurtado"
+      ],
+      "tags": [
+        "optimization",
+        "Advanced machining processes and optimization",
+        "Engineering Technology and Methodologies",
+        "Manufacturing Process and Optimization"
+      ],
+      "external_ids": {},
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://real.mtak.hu/247720/1/Recent%20advancements%20in%20AI-assisted%20tool%20path%20generation%20for%20CNC%20machining.pdf"
+    },
+    {
+      "id": "paper-50c4ba15fa389f6d",
+      "title": "Stability-Aware Multi-Agent Reinforcement Learning for Dynamic Resource Management in Vehicular Edge Networks",
+      "url": "https://hal.science/hal-05739313v1",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-10-26T00:00:00+00:00",
+      "summary": "International audience",
+      "authors": [
+        "Ali Bouriga",
+        "Rahim Kacimi",
+        "Riadh Dhaou"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "agent",
+        "IoT and Edge/Fog Computing",
+        "Vehicular Ad Hoc Networks (VANETs)",
+        "Software-Defined Networks and 5G"
+      ],
+      "external_ids": {},
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
       "id": "paper-5d37da05b3ca34a4",
       "title": "Neuromorphic Computing Architectures for Low-Power Edge Inference in IoT Applications",
       "url": "https://ecejournals.in/index.php/PECE/article/view/431",
@@ -1519,6 +1853,61 @@
         "citation_count": 0
       },
       "pdf_url": "https://ecejournals.in/index.php/PECE/article/download/431/681"
+    },
+    {
+      "id": "paper-b9c9c9af11bdf836",
+      "title": "PELAKSANAAN PEMBELAJARAN SENI BUDAYA (SENI MUSIK) MENGGUNAKAN METODE DEMONSTRASI DI KELAS XI F1 SMA NEGERI 1 2 X 11 ENAM LINGKUNG",
+      "url": "https://avant-garde.ppj.unp.ac.id/index.php/avant-garde/article/view/352",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-10-24T00:00:00+00:00",
+      "summary": "This study aims to describe the implementation of music education using the demonstration method for the topic of musical transposition in class XI F1 at SMA Negeri 1 2×11 Enam Lingkung. Studying employs a qualitative approach with a descriptive method. The research subjects were the Arts and Culture (Music) teacher and the students of class XI F1 at SMA Negeri 1 2×11 Enam Lingkung. The object of the study was the implementat…",
+      "authors": [
+        "Chenia Muspika",
+        "Irdhan Epria Darma Putra"
+      ],
+      "tags": [
+        "Diverse Music Education Insights",
+        "Music Education and Analysis",
+        "Art Education and Development"
+      ],
+      "external_ids": {
+        "doi": "10.24036/ag.v4i3.352"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://avant-garde.ppj.unp.ac.id/index.php/avant-garde/article/download/352/305"
+    },
+    {
+      "id": "paper-9edf58cf32f5ff25",
+      "title": "Empowerment of Islamic Religious Education Teachers through Generative AI Training for the Development of Islamic Value-Based Learning Media at SMP Negeri 35 Medan",
+      "url": "https://ejurnalilmiah.com/index.php/Maslahah/article/view/13721",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-10-20T00:00:00+00:00",
+      "summary": "The development of artificial intelligence (AI) technology, particularly Generative AI, has created new opportunities for developing innovative, interactive, and contextual learning media. However, many Islamic Religious Education (IRE) teachers still have limited competencies in utilizing this technology as a learning medium while maintaining Islamic values. This Community Service Program (PKM) aimed to improve the competenc…",
+      "authors": [
+        "Marhan Hasibuan",
+        "Muhammad Arif Hidayat"
+      ],
+      "tags": [
+        "artificial intelligence",
+        "Artificial Intelligence in Education",
+        "Education and Islamic Studies",
+        "Education and Character Development"
+      ],
+      "external_ids": {
+        "doi": "10.56114/maslahah.v7i3.13721"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://ejurnalilmiah.com/index.php/Maslahah/article/download/13721/1044"
     },
     {
       "id": "paper-0e4f1082f34bc180",
@@ -1553,6 +1942,67 @@
         "citation_count": 0
       },
       "pdf_url": null
+    },
+    {
+      "id": "paper-7db30eead67334ba",
+      "title": "Apprentissage de Fonctions de Transfert pour des Interactions Efficaces et Accessibles avec la Souris via l'Apprentissage par Renforcement",
+      "url": "https://hal.science/hal-05776334",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-10-19T00:00:00+00:00",
+      "summary": "International audience",
+      "authors": [
+        "Joao Martin-Saquet",
+        "Adrien Dorise",
+        "Edouard Villain",
+        "Vinicius Beltram Tergolina",
+        "Stéphane Sanchez",
+        "David Panzoli"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Interactive and Immersive Displays",
+        "Gaze Tracking and Assistive Technology",
+        "Reinforcement Learning in Robotics"
+      ],
+      "external_ids": {},
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-403fdc5da5bacfa2",
+      "title": "Online Learning-Based Adaptive Hybrid Benders Decomposition for Risk-Averse Optimal Sizing",
+      "url": "https://arxiv.org/abs/2609.26364",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "summary": "Optimal sizing problem (OSP) under uncertainty is often formulated as two-stage stochastic programming (2SP). However, this formulation typically introduces significant computational and RAM (memory) bottlenecks as the scenario size grows. Benders Decomposition (BD) is a popular approach to tackle this problem, but it suffers from slow convergence to the exact solution. To address this problem, we propose an accelerated onlin…",
+      "authors": [
+        "Saif Ahmad",
+        "Seifeddine Ben Elghali",
+        "Hafiz Ahmed"
+      ],
+      "tags": [
+        "machine learning",
+        "rag",
+        "optimization",
+        "Optimal Power Flow Distribution",
+        "Electric Power System Optimization"
+      ],
+      "external_ids": {
+        "arxiv": "2609.26364",
+        "doi": "10.5281/zenodo.22159462"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://arxiv.org/pdf/2609.26364"
     },
     {
       "id": "paper-fd450352eb08ce03",
@@ -1851,6 +2301,30 @@
       ],
       "external_ids": {
         "arxiv": "2610.12464"
+      }
+    },
+    {
+      "id": "paper-4d7224f1e2812e48",
+      "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+      "url": "https://arxiv.org/abs/2610.12459v1",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "published": "2026-10-08T17:59:31+00:00",
+      "summary": "Video generators and video-based world models can synthesize plausible visual trajectories, but long-horizon procedural tasks require generation to adapt to what has actually been produced. A model must determine the next action from its generated state, execute that action, and recognize when the task is complete. Open-loop generation cannot adapt to execution outcomes, while existing closed-loop systems often rely on pretra…",
+      "authors": [
+        "Ankan Deria",
+        "Komal Kumar",
+        "Hisham Cholakkal",
+        "Fahad Shahbaz Khan",
+        "Salman Khan"
+      ],
+      "tags": [
+        "cs.CV"
+      ],
+      "external_ids": {
+        "arxiv": "2610.12459"
       }
     },
     {
@@ -4505,444 +4979,6 @@
       "external_ids": {
         "arxiv": "2610.12247"
       }
-    },
-    {
-      "id": "paper-2efda66034f065d0",
-      "title": "Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation",
-      "url": "https://arxiv.org/abs/2610.12245v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:23:25+00:00",
-      "summary": "Social and service robots in public spaces need to anticipate which nearby person is about to approach and touch them, so that a response can be prepared before contact. It is largely unknown which cues support this anticipation when a model trained with one robot is used on another robot at a different site. We study this question with a fixed-reference pose residual (FRPR) model: a geometry predictor built from the person's…",
-      "authors": [
-        "Bowen Yang",
-        "Xinliang Xiao",
-        "Wenjing Zhang",
-        "Li Yang",
-        "Wei Zhou"
-      ],
-      "tags": [
-        "rag",
-        "cs.RO"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12245"
-      }
-    },
-    {
-      "id": "paper-8cbcb9e43b776850",
-      "title": "RIFT: Relative Isolation From Trees For Anomaly Detection",
-      "url": "https://arxiv.org/abs/2610.12244v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:22:42+00:00",
-      "summary": "Isolation Forest (IF) is a widely used baseline for unsupervised anomaly detection. Recent studies provide a closed-form expression for the infinite-forest limit for one-dimensional data. Inspired by the geometric interpretation of this formula, we introduce RIFT (Relative Isolation From Trees), a deterministic anomaly detection method that generates the minimum spanning tree and scores each point by the sum of the apparent s…",
-      "authors": [
-        "Mark Daniel Szalai",
-        "Gabor Horvath"
-      ],
-      "tags": [
-        "cs.LG"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12244"
-      }
-    },
-    {
-      "id": "paper-fcd3e742b301a019",
-      "title": "NativeScope: Relation-Localized Retrieval over Native Topology with a Correct Anchor",
-      "url": "https://arxiv.org/abs/2610.12243v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:21:51+00:00",
-      "summary": "Dense retrieval usually ranks text chunks by their semantic similarity to a question. This ignores structure that many data systems already store, including section membership, session boundaries, and native order. We propose NativeScope, a scope-then-rank method for queries with a known anchor and relation. It represents a query as q -> (A, r, B). The anchor A and relation r select native units through belonging, before, or…",
-      "authors": [
-        "Long Wang"
-      ],
-      "tags": [
-        "rag",
-        "cs.IR",
-        "cs.CL"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12243"
-      }
-    },
-    {
-      "id": "paper-60782ab97957afed",
-      "title": "From Language to Motion: Task-Conditioned Focal-Stack Trajectory Integration for Microscopic Robots",
-      "url": "https://arxiv.org/abs/2610.12241v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:21:42+00:00",
-      "summary": "Microscopic robots require accurate task geometry despite changes in language, parts, and focus. We present a semantic-to-physical framework that maps instructions to constrained geometric operators, reuses frozen open-vocabulary perception, and integrates locally reliable focal-plane trajectories by confidence weighting and dynamic programming. Calibrated multi-view geometry connects 2-D paths to physical execution. Prompt,…",
-      "authors": [
-        "Junjie Xie",
-        "Chuxuan He",
-        "Junkai Huang",
-        "Heng Zhang",
-        "Angen Ye",
-        "Yujia Song",
-        "Yuqing Li",
-        "Pengsong Zhang",
-        "Dapeng Zhang"
-      ],
-      "tags": [
-        "rag",
-        "cs.RO"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12241"
-      }
-    },
-    {
-      "id": "paper-79338d33e8d1d54f",
-      "title": "AdaCast: Conditional Parameter Generation for Adaptive Time Series Forecasting",
-      "url": "https://arxiv.org/abs/2610.12240v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:21:19+00:00",
-      "summary": "Time-series foundation models (TSFMs) have achieved strong forecasting performance across domains. However, most adaptation methods remain static. Existing all-in-one methods learn a single set of dataset-level parameter updates and apply the same adapted model to every input. As a result, they cannot adapt the model parameters to the temporal patterns, seasonality and dynamics of each input time series. This limits their abi…",
-      "authors": [
-        "Darahaas Nallagatla",
-        "Darryl Cherian Jacob",
-        "Pan He"
-      ],
-      "tags": [
-        "foundation model",
-        "cs.LG",
-        "cs.AI"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12240"
-      }
-    },
-    {
-      "id": "paper-9fa2c1e0221c00c8",
-      "title": "La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching",
-      "url": "https://arxiv.org/abs/2610.12236v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:19:07+00:00",
-      "summary": "RNA function arises from the coupling of nucleotide sequence and three-dimensional structure, motivating their joint design. Coordinating global folding with nucleotide-level detail remains challenging under limited structural supervision. We introduce La-Ribo, a generative framework for RNA sequence-structure co-design via geometry-latent flow matching. La-Ribo retains a sparse phosphate-sugar--base scaffold and encodes nucl…",
-      "authors": [
-        "Runze Ma",
-        "Will Hua",
-        "Shuangjia Zheng"
-      ],
-      "tags": [
-        "q-bio.BM",
-        "cs.AI"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12236"
-      }
-    },
-    {
-      "id": "paper-09dd8584fc77f0b9",
-      "title": "Language Models as AI Research World Models",
-      "url": "https://arxiv.org/abs/2610.12235v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:18:54+00:00",
-      "summary": "AI research agents automate the cycle of proposing, implementing, and evaluating experiments, opening a path toward recursive self-improvement. Yet their ability to propose experiments outpaces their capacity to execute them in real environments, making outcome prediction a key capability for sustained self-improvement under limited experimental budgets. We investigate language models as Research World Models (RWMs), which pr…",
-      "authors": [
-        "Zijun Wang",
-        "Zewen Liu",
-        "Minhua Lin",
-        "Zhaotian Weng",
-        "Zhan Shi",
-        "Bing He",
-        "Yisi Sang",
-        "Dakuo Wang",
-        "Benoit Dumoulin",
-        "Wei Jin",
-        "Yuyin Zhou",
-        "Cihang Xie",
-        "Hanqing Lu"
-      ],
-      "tags": [
-        "reasoning",
-        "agent",
-        "cs.CL"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12235"
-      }
-    },
-    {
-      "id": "paper-f983504debb2d814",
-      "title": "ReSI: Recursive Safety Improvement toward Resistant and Resilient AI",
-      "url": "https://arxiv.org/abs/2610.12233v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:17:21+00:00",
-      "summary": "Recursive self-improvement, the participation of AI systems in improving their own capabilities, is beginning to move from theoretical prospect to practice, posing both challenges and opportunities for safety alignment. Models evolve through frequent updates, and their safety alignment requires continual adaptation to each new checkpoint. Meanwhile, with evolving red-teaming methods exposing new vulnerabilities, safety improv…",
-      "authors": [
-        "Jingnan Zheng",
-        "Dongcheng Zhang",
-        "Yi Zhang",
-        "Ming Zhang",
-        "Qiaosheng Zhang",
-        "Youbang Sun",
-        "An Zhang",
-        "Xiangnan He",
-        "Tat-Seng Chua",
-        "Xia Hu",
-        "Bowen Zhou",
-        "Chaochao Lu",
-        "Xiang Wang"
-      ],
-      "tags": [
-        "alignment",
-        "cs.CR",
-        "cs.AI"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12233"
-      }
-    },
-    {
-      "id": "paper-0244513467c186a4",
-      "title": "Training on the Future: A Delay-Aware Audit of Test-Time Adaptation for Time-Series Forecasting",
-      "url": "https://arxiv.org/abs/2610.12232v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:16:58+00:00",
-      "summary": "Test-time adaptation (TTA) methods for time-series forecasting update a deployed model, or a small adapter around it, from incoming ground truth. But the label of an $H$-step forecast exists only $H$ steps later, and real data pipelines add further delay. We build a leakage-free harness in which the label of forecast origin $s$ is released for updates only at step $s+d$ with $d \\ge H$, and enforce this rule inside the release…",
-      "authors": [
-        "Mohamed Readh Fentazi",
-        "Mazene Ameur",
-        "Adlen Ksentini"
-      ],
-      "tags": [
-        "cs.LG"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12232"
-      }
-    },
-    {
-      "id": "paper-e1bbf6783abba95b",
-      "title": "Residual Modeling Closes the Regression and Generative Policy Gap in Robot Learning",
-      "url": "https://arxiv.org/abs/2610.12231v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:16:09+00:00",
-      "summary": "Learning from demonstration has enabled impressive robot behaviors. A common choice for policy learning is to use diffusion or flow matching (Flow-Policies), which often outperforms direct action regression trained with mean squared error (MSE-Policies). This gap is commonly attributed to multimodal demonstrations. We revisit this gap from the perspective of statistical modeling: how action-prediction residuals shape policy o…",
-      "authors": [
-        "Yuchen Zhou",
-        "Jiacheng You",
-        "Weikang Wan",
-        "Weijun Dong",
-        "Yang Gao",
-        "Jiayuan Mao"
-      ],
-      "tags": [
-        "multimodal",
-        "diffusion",
-        "optimization",
-        "cs.RO"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12231"
-      }
-    },
-    {
-      "id": "paper-7f86186845cfba81",
-      "title": "From Prompting to Composing: A Spatial Canvas Interface for Poster Generation",
-      "url": "https://arxiv.org/abs/2610.12230v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:16:06+00:00",
-      "summary": "Text prompting is an indirect interface for poster generation, requiring users to encode inherently two-dimensional composition intent into a one-dimensional sequence of words. We introduce a Spatial Canvas Interface that enables users to directly compose generation intent in space through four complementary binding types: semantic, identity, text, and pixel, together with Text Specifications for individual elements and globa…",
-      "authors": [
-        "Yitong Wang",
-        "Fangyun Wei",
-        "Jinjing Zhao",
-        "Sirui Zhang",
-        "Hongyang Zhang",
-        "Dong Chen",
-        "Bo Dai",
-        "Yan Lu"
-      ],
-      "tags": [
-        "agent",
-        "cs.CV",
-        "cs.AI"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12230"
-      }
-    },
-    {
-      "id": "paper-c7dc12c12826cf80",
-      "title": "VibeEdit: Image Editing with Canvas Instructions",
-      "url": "https://arxiv.org/abs/2610.12229v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:15:46+00:00",
-      "summary": "In text-guided image editing, describing the desired change is often straightforward, but identifying the intended object or region can be cumbersome, especially when several objects look alike. We introduce a new image editing interface that lets users place spatial marks and optional short notes directly on the image. Together, these annotations form a canvas instruction that specifies where to edit and what to change. Our…",
-      "authors": [
-        "Jinjing Zhao",
-        "Fangyun Wei",
-        "Yitong Wang",
-        "Xiuyu Wu",
-        "Yunuo Chen",
-        "Yang Yue",
-        "Sirui Zhang",
-        "Wenbo Wang",
-        "Hongyang Zhang",
-        "Dong Chen",
-        "Yan Lu",
-        "Chang Xu"
-      ],
-      "tags": [
-        "reinforcement learning",
-        "cs.CV",
-        "cs.AI"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12229"
-      }
-    },
-    {
-      "id": "paper-b1b7c2333c4ba1ae",
-      "title": "Stride Independent Patching for Deep Learning",
-      "url": "https://arxiv.org/abs/2610.12216v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:02:48+00:00",
-      "summary": "This paper presents semi-automatic stride-independent patching (SSP) as an alternative to automatic stride-dependent patching techniques. SSP uses user or expert input to position predefined patches over one or more objects of interest. To evaluate its effectiveness, three patch-based datasets were created using SSP, overlapping patching (Overlap), and non-overlapping patching (Noverlap). DeepLabV3+ models with ResNet50, ResN…",
-      "authors": [
-        "Olivier Rukundo"
-      ],
-      "tags": [
-        "deep learning",
-        "rag",
-        "cs.CV"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12216"
-      }
-    },
-    {
-      "id": "paper-b975ac90fc8dc8b4",
-      "title": "ISBO: Scalable Spatio-Temporal Bayesian Optimization with Log Gaussian Cox Process Models via the INLA-SPDE Approach",
-      "url": "https://arxiv.org/abs/2610.12213v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:01:37+00:00",
-      "summary": "Bayesian Optimization (BO) is a popular method for efficiently optimizing expensive black-box objectives. However, BO utilizing standard Gaussian Processes is ill-suited for doubly stochastic Cox Processes that are often used in spatio-temporal problem spaces. We introduce INLA-SPDE Spatio-Temporal Bayesian Optimization (ISBO): the first scalable BO framework for spatio-temporal data, that models the log-intensity with a Log-…",
-      "authors": [
-        "Kaichuang Yang",
-        "Håvard Rue",
-        "Jakob Zeitler"
-      ],
-      "tags": [
-        "optimization",
-        "stat.ML",
-        "cs.LG"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12213"
-      }
-    },
-    {
-      "id": "paper-d6c73d1768575500",
-      "title": "DiffuPlex: Accelerating Full-Duplex Spoken Dialog Models via Rolling Masked Diffusion",
-      "url": "https://arxiv.org/abs/2610.12214v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:01:37+00:00",
-      "summary": "Recent full-duplex spoken dialog models enable simultaneous listening and speaking, but fine-grained models still advance their backbone autoregressively at every interaction frame. We introduce DiffuPlex, a rolling masked diffusion framework that reduces this sequential computation by predicting multiple future user and assistant frames in a single backbone wake. DiffuPlex consumes only a confident prefix of each predicted f…",
-      "authors": [
-        "Heeseung Kim"
-      ],
-      "tags": [
-        "diffusion",
-        "cs.SD",
-        "cs.CL"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12214"
-      }
-    },
-    {
-      "id": "paper-0f45058abae6575f",
-      "title": "When Has a Bayesian Neural Network Sampled Enough? Adaptive Inference Time with Statistical Guarantees",
-      "url": "https://arxiv.org/abs/2610.12212v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:01:08+00:00",
-      "summary": "Bayesian neural network predictions are commonly approximated using a fixed number of Monte Carlo samples per input, without controlling the resulting error that comes from this finite sample. We propose the use of confidence sequences to dynamically determine how many samples are needed while maintaining statistical guarantees. We consider several ways in which predictive probabilities are used, including identifying the mos…",
-      "authors": [
-        "Fabian Denoodt",
-        "Sibylle Hess"
-      ],
-      "tags": [
-        "neural network",
-        "cs.AI"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12212"
-      }
-    },
-    {
-      "id": "paper-e7498933d01f6db0",
-      "title": "Verification with Transfer: Exact Information Frontiers and Their Price in Calls",
-      "url": "https://arxiv.org/abs/2610.12211v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-08T16:00:23+00:00",
-      "summary": "A verifier that accepts or rejects whole answers reveals little: under a flat prior over $k$-bit answers, zero error needs $2^k-1$ verifications. The usual remedy is to solve related source tasks, either all first, as a curriculum does, or interleaved with verification. We price this remedy in information and in calls. With an exact verifier, the least causal information that any interleaving of source calls and $n$ verificat…",
-      "authors": [
-        "Hazar Yueksel"
-      ],
-      "tags": [
-        "transformer",
-        "cs.LG",
-        "cs.CR",
-        "cs.IT",
-        "stat.ML"
-      ],
-      "external_ids": {
-        "arxiv": "2610.12211"
-      }
     }
   ],
   "blogs": [
@@ -5609,6 +5645,20 @@
   ],
   "videos": [
     {
+      "id": "video-b35e5f2d2ecb4812",
+      "video_id": "4fLVq6HJsKc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
+      "title": "DeepSeek Solved AI’s Memory Problem",
+      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+      "source": "Two Minute Papers",
+      "published": "2026-10-11T16:53:17+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek OCR paper is available here: https://github.com/deepseek-ai/DeepSeek-OCR 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald,…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
       "id": "video-b84db886329170af",
       "video_id": "Wkaw03p3BrM",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -5912,20 +5962,6 @@
       "source": "3Blue1Brown",
       "published": "2026-08-18T14:54:17+00:00",
       "summary": "Part of a series of monthly puzzles with MoMath.",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-5ac4def88eb52249",
-      "video_id": "QnGNF8k_uoc",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
-      "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
-      "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
-      "source": "Two Minute Papers",
-      "published": "2026-08-14T08:42:07+00:00",
-      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://www.anthropic.com/research/riemann-zeta Source: https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/ 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers pos…",
       "tags": [
         "technical video"
       ]
@@ -6468,6 +6504,20 @@
   ],
   "channel_videos": [
     {
+      "id": "video-b35e5f2d2ecb4812",
+      "video_id": "4fLVq6HJsKc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
+      "title": "DeepSeek Solved AI’s Memory Problem",
+      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+      "source": "Two Minute Papers",
+      "published": "2026-10-11T16:53:17+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek OCR paper is available here: https://github.com/deepseek-ai/DeepSeek-OCR 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald,…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
       "id": "video-b84db886329170af",
       "video_id": "Wkaw03p3BrM",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -6771,20 +6821,6 @@
       "source": "3Blue1Brown",
       "published": "2026-08-18T14:54:17+00:00",
       "summary": "Part of a series of monthly puzzles with MoMath.",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-5ac4def88eb52249",
-      "video_id": "QnGNF8k_uoc",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
-      "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
-      "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
-      "source": "Two Minute Papers",
-      "published": "2026-08-14T08:42:07+00:00",
-      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://www.anthropic.com/research/riemann-zeta Source: https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/ 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers pos…",
       "tags": [
         "technical video"
       ]
