@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:43:53.750402+00:00",
+  "generated_at": "2026-10-13T19:14:14.838582+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -1037,6 +1037,35 @@
       "pdf_url": "https://doi.org/10.1016/j.apenergy.2026.128970"
     },
     {
+      "id": "paper-b38345a4af10ea1f",
+      "title": "Enhancing Knowledge Management in Green Building Engineering: A Hybrid Retrieval-Augmented Generation Approach to Support Project Assessment",
+      "url": "https://www.semanticscholar.org/paper/d0e4d0642d66dd4a855ae8c11f225426fc2f5b31",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "Green building assessment relies heavily on manual queries of complex engineering regulations, making the introduction of knowledge management theories crucial for improving assessment efficiency. However, the inherent characteristics of engineering regulations—dense terminology, complex clause dependencies, and frequent revisions—limit the effectiveness of traditional knowledge engineering. This study aims to explore the uti…",
+      "authors": [
+        "Yi-Xin Li",
+        "Ding-Yuan Ma",
+        "Chang-Jun Wang",
+        "Xiao-Dong Li"
+      ],
+      "tags": [
+        "large language model",
+        "llm",
+        "Journal of Management in Engineering"
+      ],
+      "external_ids": {
+        "doi": "10.1061/jmenea.meeng-7764"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-ad691ea7001324b1",
       "title": "Offline-to-online reinforcement learning with triple-intensity policy constraints",
       "url": "https://www.semanticscholar.org/paper/c6f8e5beafd4e8fde6d5b1bf0cf38dd13f534e5f",
@@ -1238,6 +1267,33 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.1016/j.aei.2026.105349"
+    },
+    {
+      "id": "paper-61e94de761c4ed57",
+      "title": "Efficient ANN conceived machine learning approach via metasurface loaded antenna design and optimization for MIMO 6G potent cmWave applications",
+      "url": "https://www.semanticscholar.org/paper/731b677ba24c1cfac6383892b720f6fea01b4ff9",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Asutosh Mohanty",
+        "Sudhakar Sahu"
+      ],
+      "tags": [
+        "machine learning",
+        "optimization",
+        "AEU - International Journal of Electronics and Communications"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.aeue.2026.156659"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
     },
     {
       "id": "paper-0cf79979a072a614",
@@ -5013,66 +5069,31 @@
         "citation_count": 0
       },
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2590174526007671/pdf"
-    },
-    {
-      "id": "paper-f8cb8937db8888f5",
-      "title": "User preference generation and recommendation of new energy vehicles based on diffusion model and multimodal knowledge graph",
-      "url": "https://www.semanticscholar.org/paper/b508cb0026609926e6cde602355ec2049672b655",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Shuangbao Zhang",
-        "Quan Cheng"
-      ],
-      "tags": [
-        "multimodal",
-        "diffusion",
-        "knowledge graph",
-        "Computer Science",
-        "Information Sciences"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.ins.2026.123919"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-2d45457426925d5a",
-      "title": "Energy-based prediction of blast-induced rock fragmentation using interpretable machine learning",
-      "url": "https://www.semanticscholar.org/paper/b4dacf9ebf3ba64043242b3195f902a0fa646fb2",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "C. Behera",
-        "Subhamoy Ghosh",
-        "Manoj Kumar Mishra"
-      ],
-      "tags": [
-        "machine learning",
-        "rag",
-        "International Journal of Rock Mechanics And Mining Sciences"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.ijrmms.2026.106707"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
     }
   ],
   "blogs": [
+    {
+      "id": "blog-550c4c02e9ff21a9",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face",
+      "published": "2026-10-13T17:05:48+00:00",
+      "summary": "",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "blog-ffc748cb8d88a919",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI",
+      "published": "2026-10-13T12:00:00+00:00",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "id": "blog-43ef54e74d276082",
       "title": "Impactful scheduling for GPU clusters",
@@ -5159,17 +5180,6 @@
       "summary": "",
       "tags": [
         "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-0825a4897dea2e82",
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "Hugging Face",
-      "published": "2026-10-07T16:54:33+00:00",
-      "summary": "",
-      "tags": [
-        "multimodal"
       ]
     },
     {
@@ -5536,17 +5546,6 @@
       ]
     },
     {
-      "id": "blog-bf0fe8cc388a3447",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-a30a6af008def6d3",
       "title": "Welcome RL Environments to the hub",
       "url": "https://huggingface.co/blog/rl-environments",
@@ -5740,7 +5739,7 @@
       "video_id": "z_sXLlLVUls",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
       "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-      "title": "OpenAI Just Changed What It Means To Do Math",
+      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
       "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
       "source": "Two Minute Papers",
       "published": "2026-10-13T08:56:12+00:00",
@@ -6599,7 +6598,7 @@
       "video_id": "z_sXLlLVUls",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
       "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-      "title": "OpenAI Just Changed What It Means To Do Math",
+      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
       "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
       "source": "Two Minute Papers",
       "published": "2026-10-13T08:56:12+00:00",
