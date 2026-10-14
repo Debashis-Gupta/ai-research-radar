@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:41:14.239586+00:00",
+  "generated_at": "2026-10-14T20:11:11.962443+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -985,6 +985,35 @@
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S037877532602330X/pdf"
     },
     {
+      "id": "paper-78691cd3d4e40244",
+      "title": "Verifier-guided knowledge distillation of large language models for auditable thermal comfort reasoning",
+      "url": "https://www.semanticscholar.org/paper/da77cf189be46eb16e772e1d1518f34bc7d63673",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Moein Younesi Heravi",
+        "Inbae Jeong",
+        "You-Jin Jang",
+        "Hyosoo Moon"
+      ],
+      "tags": [
+        "large language model",
+        "reasoning",
+        "Advanced Engineering Informatics"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.aei.2026.105371"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.aei.2026.105371"
+    },
+    {
       "id": "paper-bf98893d6475e7b9",
       "title": "Evac‑cast: an interpretable machine‑learning framework for evacuation prediction across hurricanes and wildfires",
       "url": "https://www.semanticscholar.org/paper/d830850fe83df02fc6507006bc1b5e8185c245e1",
@@ -1066,6 +1095,32 @@
       "pdf_url": ""
     },
     {
+      "id": "paper-c6d500d49e6d76ef",
+      "title": "Machine learning-based prediction of pipeline incidents characteristics: Insights from natural gas distribution systems and implications for hydrogen infrastructure",
+      "url": "https://www.semanticscholar.org/paper/ca37619c0a87091e0c583afc4241405d8a669265",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Marco A. B. Zanoni",
+        "Zhe Liang"
+      ],
+      "tags": [
+        "machine learning",
+        "Journal of Loss Prevention in the Process Industries"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.jlp.2026.106207"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-ad691ea7001324b1",
       "title": "Offline-to-online reinforcement learning with triple-intensity policy constraints",
       "url": "https://www.semanticscholar.org/paper/c6f8e5beafd4e8fde6d5b1bf0cf38dd13f534e5f",
@@ -1120,6 +1175,39 @@
         "citation_count": 0
       },
       "pdf_url": ""
+    },
+    {
+      "id": "paper-d76cf69e8819d895",
+      "title": "Effects of straw return on soil salinity and crop yield in salt-affected soils across Asia: A meta-analysis combined with machine learning",
+      "url": "https://www.semanticscholar.org/paper/b3bd5368fcf0d257d282a25687175b4d41ed2b44",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Hao-Hao Bo",
+        "Chao Zhang",
+        "Zhen-Yang Lin",
+        "M. Tang",
+        "Zhi-Jun Jia",
+        "Shao-Yuan Feng",
+        "Ziang Xie",
+        "Huai-Liang Wang",
+        "Lei Xie"
+      ],
+      "tags": [
+        "machine learning",
+        "European Journal of Agronomy"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.eja.2026.128368"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.eja.2026.128368"
     },
     {
       "id": "paper-ed1199b0f2959dcf",
@@ -1267,6 +1355,34 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.1016/j.aei.2026.105349"
+    },
+    {
+      "id": "paper-e245733ab641cc6f",
+      "title": "Interpretable machine learning-assisted prediction and atomistic analysis of dual-phase FeNiCrMn medium-entropy alloys",
+      "url": "https://www.semanticscholar.org/paper/7af37ffed4222eeb4b1c3971ed523c53517a510c",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Hang Chen",
+        "Yong-Chao Liang",
+        "Fang-Dong Cheng",
+        "Qian Chen"
+      ],
+      "tags": [
+        "machine learning",
+        "Physica. B, Condensed matter"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.physb.2026.419504"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
     },
     {
       "id": "paper-61e94de761c4ed57",
@@ -1706,6 +1822,38 @@
       "pdf_url": "https://doi.org/10.1016/j.trc.2026.106054"
     },
     {
+      "id": "paper-fbcdbb4d6768ae89",
+      "title": "Lightweight, interpretable acoustic emission diagnostics for multi-mode damage in bonded CFRP joints using consensus-guided machine learning",
+      "url": "https://www.semanticscholar.org/paper/0dcb15d01c308ac06d759c2951539d7da3a47333",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Ying-Shi Hu",
+        "Qian Li",
+        "Wen-Hao Li",
+        "Zong-Yang Liu",
+        "Ding-Cheng Ji",
+        "Bao-Ning Chang",
+        "M. Yio",
+        "Jing Lin"
+      ],
+      "tags": [
+        "machine learning",
+        "Engineering structures"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.engstruct.2026.123960"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.engstruct.2026.123960"
+    },
+    {
       "id": "paper-e73808f247a17225",
       "title": "MODULATION OF UV-INDUCED DNA DAMAGE FORMATION BY CYTOSINE METHYLATION AND TRANSCRIPTION FACTOR BINDING",
       "url": "https://doi.org/10.7273/000007851",
@@ -1716,7 +1864,7 @@
       "published": "2027-01-01T00:00:00+00:00",
       "summary": "Ultraviolet (UV) light is one of the most ubiquitous exogenous DNA damaging agents and is the primary etiological agent in skin cancers such as melanoma. UV light from the sun can be directly absorbed by DNA to induce helix-distorting lesions between neighboring pyrimidine bases, including cyclobutane pyrimidine dimers (CPDs) and pyrimidine-pyrimidone (6-4) photoproducts (6-4PPs) along with other atypical photoproducts. Mutag…",
       "authors": [
-        "Hannah E. Wilson"
+        "Wilson, Hannah E."
       ],
       "tags": [
         "machine learning",
@@ -2296,7 +2444,7 @@
       "summary": "With the deep development of the digital economy and the accelerated iteration of artificial intelligence (AI) technologies, the formation and development of enterprise new quality productive forces have attracted increasing attention from academia and practice. Based on enterprises as the micro-subject, this paper constructs a theoretical analysis framework for the \"dual-wheel drive of AI and the digital economy\" and explore…",
       "authors": [
         "Changhong Dong",
-        "Songwei Pan",
+        "PAN, Songwei",
         "Jingyao WANG"
       ],
       "tags": [
@@ -2455,6 +2603,86 @@
       "pdf_url": null
     },
     {
+      "id": "paper-cd7c31f84b86d9b4",
+      "title": "Generative Artificial Intelligence and University Students' Critical and Higher-Order Thinking Outcomes: A PRISMA-Based Systematic Review and Thematic Analysis",
+      "url": "https://www.semanticscholar.org/paper/fa66112ab38acf869fa29e790320d1cc661b7d53",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-15T00:00:00+00:00",
+      "summary": "The rapid integration of generative artificial intelligence tools such as ChatGPT, Gemini, and Copilot into higher education has raised urgent questions about their effects on students' higher-order cognitive abilities. While these tools promise unprecedented access to information and cognitive support, growing concerns have emerged regarding the potential erosion of critical thinking skills among university students who adop…",
+      "authors": [
+        "Yunardi Kristian Zega",
+        "Rini Sumanti Sapalakkai",
+        "Yuireishang Shithungdang",
+        "Luiramsing Zimik"
+      ],
+      "tags": [
+        "artificial intelligence",
+        "Jurnal Dunia Pendidikan"
+      ],
+      "external_ids": {
+        "doi": "10.62282/je.v4i1.1-17"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.62282/je.v4i1.1-17"
+    },
+    {
+      "id": "paper-2ec08ee3c6f849f1",
+      "title": "Forecasting of Stock Market Trends Using LSTM Neural Networks",
+      "url": "https://www.semanticscholar.org/paper/e328232db3fff9dc52ca784edb9953c6cb338e33",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-15T00:00:00+00:00",
+      "summary": "One could argue that electronic trading in the financial world was well on its way to development long before the Internet came into being. J. Christopher Westland and Theodore H. Clark note in their work, Global Electronic Commerce: Theory and Case Studies, that the U.S. security markets of the 19th century were the first to see this kind of modernization, the New York Stock Exchange among them. When it comes to making sense…",
+      "authors": [
+        "Alexandru-Ionel Toma"
+      ],
+      "tags": [
+        "machine learning",
+        "neural network",
+        "Scientif Bulletin of Naval Academy"
+      ],
+      "external_ids": {
+        "doi": "10.21279/1454-864x-26-i1-010"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.21279/1454-864x-26-i1-010"
+    },
+    {
+      "id": "paper-dc97881396a27fe7",
+      "title": "AI-Enabled Autonomous Area-Keeping for Underwater Vehicles",
+      "url": "https://www.semanticscholar.org/paper/70ed8e5efe2b37bbc626bd4aee902ad44e46d6ca",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-15T00:00:00+00:00",
+      "summary": "Autonomous Underwater Vehicles (AUVs), commonly known as submarine drones, provide a critical capability for modern naval operations requiring persistent presence in contested and GPS denied environments. This paper addresses autonomous positioning and area keeping of AUVs within predefined underwater zones using integrated inertial, acoustic, and velocity based navigation systems. Artificial intelligence techniques, includin…",
+      "authors": [
+        "M. Rogobete"
+      ],
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "Scientif Bulletin of Naval Academy"
+      ],
+      "external_ids": {
+        "doi": "10.21279/1454-864x-26-i1-007"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.21279/1454-864x-26-i1-007"
+    },
+    {
       "id": "paper-2cbfe280191fa0f3",
       "title": "CREATIVE LEADERSHIP AS A COGNITIVE-SOCIAL BUFFER AGAINST RUMINATION AND ORGANIZATIONAL ANOMIE: THE FULL MEDIATION ROLE OF EMOTIONAL INTELLIGENCE AND EMOTIONAL CAPACITY",
       "url": "https://tpmap.org/submission/index.php/tpm/article/view/3464",
@@ -2526,34 +2754,6 @@
       ],
       "external_ids": {
         "doi": "10.25798/kbf3-tt92"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-107dd1c3143d72c4",
-      "title": "MSA: VP: Off-Road Vanishing Point Detection Framework",
-      "url": "https://doi.org/10.5281/zenodo.23323217",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-12-14T00:00:00+00:00",
-      "summary": "This document presents the Vanishing Point (VP) Detection Module, engineered to identify and track unpaved roads, desert tracks, and snow-covered paths in unstructured off-road environments. Inspired by classic computer vision approaches (such as Rasmussen's vanishing point method), the framework avoids computationally heavy neural networks to achieve ultra-fast execution (~6 ms per frame without visualization), making it ide…",
-      "authors": [
-        "Michal Bugala"
-      ],
-      "tags": [
-        "neural network",
-        "computer vision",
-        "Autonomous Vehicle Technology and Safety",
-        "Robotics and Sensor-Based Localization",
-        "Advanced Vision and Imaging"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.23323217"
       },
       "metrics": {
         "citation_count": 0
@@ -3426,7 +3626,7 @@
       "authors": [
         "Yan-Jie Sun",
         "Hong-Zhou Li",
-        "Xiaohui Tao",
+        "Xiao-Hui Tao",
         "Xu-Juan Zhou",
         "R. Gururajan",
         "Ji Zhang"
@@ -4867,210 +5067,53 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.1016/j.cmpbup.2026.100269"
-    },
-    {
-      "id": "paper-30fe790349898f23",
-      "title": "Application of Retrieval-Augmented Generation Large Language Models in Stomatology: A Scoping Review",
-      "url": "https://www.semanticscholar.org/paper/ba389934617de04d49819a824715acce6383921f",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Jun-Sheng Lao",
-        "Yi-Teng Liang",
-        "Lin-Yong Xu"
-      ],
-      "tags": [
-        "large language model",
-        "International Dental Journal"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.identj.2026.111195"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0020653926017843/pdf"
-    },
-    {
-      "id": "paper-1ea32e78895732e1",
-      "title": "Three-way decision-based adaptive design scheme evaluation: A constrained circular-Fermatean fuzzy model integrating probabilistic dominance and multiple criteria preferences",
-      "url": "https://www.semanticscholar.org/paper/b97332fede284c0ebdf45824a01776a154f5d4cd",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Li-Ming Xiao",
-        "Fu-Xing Li",
-        "Guang-Quan Huang",
-        "Muhammet Deveci",
-        "Taesu Cheong"
-      ],
-      "tags": [
-        "probabilistic",
-        "Engineering applications of artificial intelligence"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.engappai.2026.116429"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.1016/j.engappai.2026.116429"
-    },
-    {
-      "id": "paper-b28a3b774b0c6679",
-      "title": "A Hybrid Quantum–Classical Framework for Synthetic Data-Driven Railway Defect Prediction and Safety Enhancement",
-      "url": "https://www.semanticscholar.org/paper/b8b46882b2dbfc563a7688210cb391b6e884e6db",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "Track geometry defect detection is often limited by the scarcity of defective observations in inspection data sets, which reduces the effectiveness of machine learning models. This study evaluates whether synthetic data can improve defect prediction under such conditions. Classical neural network (CNN) and hybrid classical-quantum neural network (HCQNN) models are trained on data sets where the limited defective samples are s…",
-      "authors": [
-        "Dengimowei D. Alabintei",
-        "Benjamin G. Boateng",
-        "Nii O. Attoh-Okine"
-      ],
-      "tags": [
-        "machine learning",
-        "neural network",
-        "Journal of Transportation Engineering Part A Systems"
-      ],
-      "external_ids": {
-        "doi": "10.1061/jtepbs.teeng-9650"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-9f9e77a7d9fa985e",
-      "title": "Low latency, machine learning-driven acoustic sensing for real-time monitoring of laser cleaning",
-      "url": "https://www.semanticscholar.org/paper/b8861bbc0d952f6fe234a0073cc037a43ef9e94b",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Anvesh Gaddam",
-        "P. Penchev",
-        "Jagdheesh Radhakrishnan",
-        "Dawood Dilmy",
-        "Vahid Nasrollahi",
-        "Reza Nekouie Esfahani",
-        "S. Dimov"
-      ],
-      "tags": [
-        "machine learning",
-        "Optics &amp; Laser Technology"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.optlastec.2026.116482"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.1016/j.optlastec.2026.116482"
-    },
-    {
-      "id": "paper-a2b2f9bb9cb721ab",
-      "title": "Data-driven predictive control for combined-cycle gas turbines by multi-agent reinforcement learning",
-      "url": "https://www.semanticscholar.org/paper/b7afad3f0222c214b205d3744c707ede54867623",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Ren-Duo Liu",
-        "Cong-Zhi Huang",
-        "Hao-Fei Wang",
-        "Chuan-Bin Wang",
-        "S. Ge"
-      ],
-      "tags": [
-        "reinforcement learning",
-        "agent",
-        "Energy Conversion and Management"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.enconman.2026.122188"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.1016/j.enconman.2026.122188"
-    },
-    {
-      "id": "paper-353d5db3efebedc9",
-      "title": "A network-aware hybrid deep reinforcement learning optimization framework for microgrid energy management under uncertainty",
-      "url": "https://www.semanticscholar.org/paper/b53a66332df82e06edbeb98f7f4c170a80c147d3",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "A. Esan",
-        "Hussain Shareef"
-      ],
-      "tags": [
-        "reinforcement learning",
-        "optimization",
-        "Energy Conversion and Management: X"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.ecmx.2026.102284"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2590174526007671/pdf"
-    },
-    {
-      "id": "paper-f8cb8937db8888f5",
-      "title": "User preference generation and recommendation of new energy vehicles based on diffusion model and multimodal knowledge graph",
-      "url": "https://www.semanticscholar.org/paper/b508cb0026609926e6cde602355ec2049672b655",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Shuangbao Zhang",
-        "Quan Cheng"
-      ],
-      "tags": [
-        "multimodal",
-        "diffusion",
-        "knowledge graph",
-        "Computer Science",
-        "Information Sciences"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.ins.2026.123919"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
     }
   ],
   "blogs": [
+    {
+      "id": "blog-672ebf75c430cf70",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face",
+      "published": "2026-10-14T16:12:42+00:00",
+      "summary": "",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-a0e0fec2c2b5f568",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI",
+      "published": "2026-10-14T12:00:00+00:00",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "blog-24cc989c02dbc2a2",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "source": "OpenAI",
+      "published": "2026-10-14T12:00:00+00:00",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-e181547094b0a112",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI",
+      "published": "2026-10-14T07:00:00+00:00",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "tags": [
+        "agent"
+      ]
+    },
     {
       "id": "blog-58e4191fcfe4b88c",
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -5149,14 +5192,14 @@
       ]
     },
     {
-      "id": "blog-43ef54e74d276082",
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face",
-      "published": "2026-10-09T15:20:29+00:00",
-      "summary": "",
+      "id": "blog-90995f7dbc9c2674",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "tags": [
-        "AI/ML"
+        "agent"
       ]
     },
     {
@@ -5168,17 +5211,6 @@
       "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "tags": [
         "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-90995f7dbc9c2674",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "tags": [
-        "agent"
       ]
     },
     {
@@ -5545,28 +5577,6 @@
       ]
     },
     {
-      "id": "blog-cf468ec39dd67f09",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI",
-      "published": "2026-09-28T19:00:00+00:00",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "tags": [
-        "alignment"
-      ]
-    },
-    {
-      "id": "blog-cfe8e900401f31bb",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI",
-      "published": "2026-09-28T19:00:00+00:00",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-9552195c964ddb7b",
       "title": "Holo4: powering generalist computer-use agents",
       "url": "https://huggingface.co/blog/Hcompany/holo4",
@@ -5575,17 +5585,6 @@
       "summary": "",
       "tags": [
         "agent"
-      ]
-    },
-    {
-      "id": "blog-216d56bba26ca458",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "source": "OpenAI",
-      "published": "2026-09-28T07:00:00+00:00",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "tags": [
-        "AI/ML"
       ]
     },
     {
