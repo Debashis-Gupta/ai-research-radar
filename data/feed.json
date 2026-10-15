@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:23:15.057328+00:00",
+  "generated_at": "2026-10-15T19:52:07.139582+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -2545,41 +2545,6 @@
       }
     },
     {
-      "id": "paper-d691f24c2a5509e0",
-      "title": "Player-1: Learning to Play from Synthetic Experience",
-      "url": "https://arxiv.org/abs/2610.20584v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-14T17:57:12+00:00",
-      "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and offer a demanding next step toward general digital control. Current game-agent learning pipelines often rely on large-scale demonstrations with limited coverage of dynamic game states, while scalable environment…",
-      "authors": [
-        "Mingyu Ouyang",
-        "Yiran Wang",
-        "Siyuan Hu",
-        "Xingyilang Yin",
-        "Huiqiang Sun",
-        "Guangzhi Wang",
-        "Junfu Pu",
-        "Cheng Cheng",
-        "Honghao Chen",
-        "Ying Shan",
-        "Mike Zheng Shou",
-        "Hwee Tou Ng"
-      ],
-      "tags": [
-        "reinforcement learning",
-        "reasoning",
-        "agent",
-        "rag",
-        "cs.CV"
-      ],
-      "external_ids": {
-        "arxiv": "2610.20584"
-      }
-    },
-    {
       "id": "paper-871892f20125419f",
       "title": "Latent Compaction with Test-Time Training",
       "url": "https://arxiv.org/abs/2610.20582v1",
@@ -2750,36 +2715,6 @@
       ],
       "external_ids": {
         "arxiv": "2610.20572"
-      }
-    },
-    {
-      "id": "paper-ac306084fe593349",
-      "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
-      "url": "https://arxiv.org/abs/2610.20571v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-14T17:54:18+00:00",
-      "summary": "Long-form agentic video generation must turn a screenplay into shots that remain spatially and temporally consistent across nonconsecutive requests. Passing prompts or recent frames between shots does not provide a shared spatial frame for revisiting a scene or a time-indexed record for replaying an earlier event. We present Any Time, Any Space (ATAS), which compiles a screenplay into shot requests with explicit location, cam…",
-      "authors": [
-        "Weijie Wang",
-        "Haomin Zhang",
-        "Ye Li",
-        "Akide Liu",
-        "Zeyu Zhang",
-        "Haoyu Zhao",
-        "Yefei He",
-        "Donny Y. Chen",
-        "Feng Chen",
-        "Bohan Zhuang"
-      ],
-      "tags": [
-        "agent",
-        "cs.CV"
-      ],
-      "external_ids": {
-        "arxiv": "2610.20571"
       }
     },
     {
@@ -3959,43 +3894,6 @@
       }
     },
     {
-      "id": "paper-733b75a047c0d31f",
-      "title": "Towards Agentic Robots: Model, Data, Environment, and Harness",
-      "url": "https://arxiv.org/abs/2610.20442v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-14T16:32:22+00:00",
-      "summary": "Foundation models are driving a paradigm shift in robotic intelligence, moving beyond low-level action prediction to goal-directed orchestration of data collection, model training, task planning, and real-world execution. We characterize this emerging paradigm as an agentic robots, in which agents reason over human instructions, interact with robotic environments, rectify execution errors autonomously, and dynamically adjust…",
-      "authors": [
-        "Chonghan Qin",
-        "Dongming Wu",
-        "Kaituo Feng",
-        "Jiaxu Wang",
-        "Xinlei Yu",
-        "Peiwen Sun",
-        "Yijia Fan",
-        "Xilin He",
-        "Bingao Chen",
-        "Weitong Lian",
-        "Ryan Ji",
-        "Wenqi Ren",
-        "Xiaobin Hu",
-        "Dahua Lin",
-        "Yu-Gang Jiang",
-        "Xiangyu Yue"
-      ],
-      "tags": [
-        "agent",
-        "foundation model",
-        "cs.RO"
-      ],
-      "external_ids": {
-        "arxiv": "2610.20442"
-      }
-    },
-    {
       "id": "paper-d5207a1351bd8eb3",
       "title": "The Accuracy Well: Nonmonotone Accuracy Dynamics at Vanishing Initialization",
       "url": "https://arxiv.org/abs/2610.20439v1",
@@ -4936,9 +4834,149 @@
       "external_ids": {
         "arxiv": "2610.20349"
       }
+    },
+    {
+      "id": "paper-acd0d55b90b4f6bf",
+      "title": "Non-asymptotic Convergence of Average-reward Q-learning with Options",
+      "url": "https://arxiv.org/abs/2610.20347v1",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "published": "2026-10-14T15:26:23+00:00",
+      "summary": "We study the finite-sample convergence of Q-learning algorithms for the average-reward formulation of Reinforcement Learning (RL) with options. While options allow temporarily extended and hierarchical actions, the average-reward formulation incorporates continual tasks beyond discounted and episodic RL. We establish the first $\\tilde{O}(1/\\text{iterations})$ convergence guarantees, in the mean-square sense, for average-rewar…",
+      "authors": [
+        "Kintan Saha",
+        "Ahana Deb",
+        "Anders Jonsson",
+        "Debabrota Basu"
+      ],
+      "tags": [
+        "llm",
+        "reinforcement learning",
+        "rag",
+        "cs.LG",
+        "cs.AI"
+      ],
+      "external_ids": {
+        "arxiv": "2610.20347"
+      }
+    },
+    {
+      "id": "paper-261929a082473034",
+      "title": "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents",
+      "url": "https://arxiv.org/abs/2610.20344v1",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "published": "2026-10-14T15:24:39+00:00",
+      "summary": "Agents driven by large language models are increasingly deployed on long-horizon tasks, where they use tools and modify real workspaces. How well they perform depends as much on the harness around the model as on the model itself. Existing benchmarks measure downstream task success under a fixed harness, leaving harness engineering itself unexplored. We propose Doc2Harness, a two-stage benchmark that evaluates long-horizon ha…",
+      "authors": [
+        "Yuyao Ge",
+        "Shenghua Liu",
+        "Peizhong Gao",
+        "Chendi Ge",
+        "Chenxu Liu",
+        "Yiwei Wang",
+        "Lingrui Mei",
+        "Baolong Bi",
+        "Jiayu Yao",
+        "Jiafeng Guo",
+        "Xueqi Cheng"
+      ],
+      "tags": [
+        "large language model",
+        "llm",
+        "agent",
+        "cs.SE",
+        "cs.AI"
+      ],
+      "external_ids": {
+        "arxiv": "2610.20344"
+      }
+    },
+    {
+      "id": "paper-81ba39a66585e598",
+      "title": "When Does Task-Aware Imputation Matter? An Analysis of Robustness Under Train-Test Mismatch",
+      "url": "https://arxiv.org/abs/2610.20342v1",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "published": "2026-10-14T15:22:43+00:00",
+      "summary": "Missing data is a pervasive challenge in machine learning, often degrading predictive performance and complicating model deployment. Most existing approaches treat imputation as a preprocessing step independent of the downstream task, a separation that becomes problematic under train-test mismatches in missingness mechanisms or rates. We introduce a unified framework that treats missing entries as variables in a task-conditio…",
+      "authors": [
+        "Maria V. Salvador",
+        "Ana F. Sequeira",
+        "Jaime S. Cardoso"
+      ],
+      "tags": [
+        "machine learning",
+        "optimization",
+        "cs.LG"
+      ],
+      "external_ids": {
+        "arxiv": "2610.20342"
+      }
     }
   ],
   "blogs": [
+    {
+      "id": "blog-996b33c09ad57427",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "published": "2026-10-15T16:08:03+00:00",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-fa14b8f7db4605df",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "OpenAI",
+      "published": "2026-10-15T13:00:00+00:00",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-e3c36d4422c6129b",
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "Hugging Face",
+      "published": "2026-10-15T09:08:45+00:00",
+      "summary": "",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-9d251ac6836a600d",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face",
+      "published": "2026-10-15T00:00:00+00:00",
+      "summary": "",
+      "tags": [
+        "multimodal"
+      ]
+    },
+    {
+      "id": "blog-3733c75a28bf26df",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face",
+      "published": "2026-10-15T00:00:00+00:00",
+      "summary": "",
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "id": "blog-672ebf75c430cf70",
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
@@ -5435,17 +5473,6 @@
       ]
     },
     {
-      "id": "blog-dd66acaed2a04b44",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-9552195c964ddb7b",
       "title": "Holo4: powering generalist computer-use agents",
       "url": "https://huggingface.co/blog/Hcompany/holo4",
@@ -5551,50 +5578,6 @@
       "source": "Google DeepMind",
       "published": "2026-09-15T17:05:57+00:00",
       "summary": "",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-16a7b27ed0ae9a75",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face",
-      "published": "2026-09-15T16:00:44+00:00",
-      "summary": "",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
-      "id": "blog-d4e55a9164f4783e",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "source": "Hugging Face",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-cb50b0c3c8564548",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "Hugging Face",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-80d284f58871ce28",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "source": "Google DeepMind",
-      "published": "2026-09-08T14:00:15+00:00",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
       "tags": [
         "AI/ML"
       ]
