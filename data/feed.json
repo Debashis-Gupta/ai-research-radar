@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T19:52:07.139582+00:00",
+  "generated_at": "2026-10-15T23:03:50.100475+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -4923,6 +4923,28 @@
   ],
   "blogs": [
     {
+      "id": "blog-a01e02239da0a38e",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face",
+      "published": "2026-10-15T20:34:01+00:00",
+      "summary": "",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-a72d1e4da6b0e106",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI",
+      "published": "2026-10-15T19:00:00+00:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
       "id": "blog-996b33c09ad57427",
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
@@ -5110,17 +5132,6 @@
       ]
     },
     {
-      "id": "blog-90995f7dbc9c2674",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
       "id": "blog-edd58468d564448f",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -5129,6 +5140,17 @@
       "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "tags": [
         "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-90995f7dbc9c2674",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "tags": [
+        "agent"
       ]
     },
     {
@@ -5462,17 +5484,6 @@
       ]
     },
     {
-      "id": "blog-19db7cc5ca5cc5ea",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "source": "OpenAI",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-9552195c964ddb7b",
       "title": "Holo4: powering generalist computer-use agents",
       "url": "https://huggingface.co/blog/Hcompany/holo4",
@@ -5570,17 +5581,6 @@
       "tags": [
         "AI/ML"
       ]
-    },
-    {
-      "id": "blog-f4c3141ce9f2ce84",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "source": "Google DeepMind",
-      "published": "2026-09-15T17:05:57+00:00",
-      "summary": "",
-      "tags": [
-        "AI/ML"
-      ]
     }
   ],
   "videos": [
@@ -5649,9 +5649,11 @@
       "url": "https://www.youtube.com/watch?v=u_9OA3WRHgo",
       "source": "StatQuest",
       "published": "2026-09-29T13:29:57+00:00",
-      "summary": "Sign up for FREE Concepts and Code Classes here: https://josh-starmer.mykajabi.com/ You can download the files associated with this concepts and code livestream here: https://github.com/StatQuest/concepts_and_code_naive_bayes In this Concepts and Code Livestream, we go over the theory of Naive Bayes and then build a Naive Bayes Classifier in R and Python. D…",
+      "summary": "Sign up for FREE Concepts and Code Classes at: https://live.statquest.org/masterclasses ALSO, you can download the files associated with this concepts and code livestream here: https://github.com/StatQuest/concepts_and_code_naive_bayes DOUBLE ALSO, enrollment is now OPEN for our first StatQuest Machine Learning Workshop! We'll spend five days diving into th…",
       "tags": [
-        "technical video"
+        "machine learning",
+        "neural network",
+        "llm"
       ]
     },
     {
@@ -6508,9 +6510,11 @@
       "url": "https://www.youtube.com/watch?v=u_9OA3WRHgo",
       "source": "StatQuest",
       "published": "2026-09-29T13:29:57+00:00",
-      "summary": "Sign up for FREE Concepts and Code Classes here: https://josh-starmer.mykajabi.com/ You can download the files associated with this concepts and code livestream here: https://github.com/StatQuest/concepts_and_code_naive_bayes In this Concepts and Code Livestream, we go over the theory of Naive Bayes and then build a Naive Bayes Classifier in R and Python. D…",
+      "summary": "Sign up for FREE Concepts and Code Classes at: https://live.statquest.org/masterclasses ALSO, you can download the files associated with this concepts and code livestream here: https://github.com/StatQuest/concepts_and_code_naive_bayes DOUBLE ALSO, enrollment is now OPEN for our first StatQuest Machine Learning Workshop! We'll spend five days diving into th…",
       "tags": [
-        "technical video"
+        "machine learning",
+        "neural network",
+        "llm"
       ]
     },
     {
