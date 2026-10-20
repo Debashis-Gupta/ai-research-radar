@@ -1,116 +1,6 @@
 {
-  "generated_at": "2026-10-20T19:59:10.872189+00:00",
+  "generated_at": "2026-10-20T23:10:07.872719+00:00",
   "papers": [
-    {
-      "id": "paper-61cf760e039db14f",
-      "title": "Artificial Intelligence in Plant Sciences",
-      "url": "https://doi.org/10.5281/zenodo.17036033",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2045-12-10T00:00:00+00:00",
-      "summary": "Artificial intelligence (AI) may be referred to as a family of technologies which allow computers and other machines to perform the tasks that were previously dependent on human intelligence. In order to perform the tasks autonomously, the machines learn from large volumes of input data and involve the use of machine learning algorithms. It attempts to mimic the process of human learning in which a person gradually develops k…",
-      "authors": [
-        "Dr. Nupur Prasad"
-      ],
-      "tags": [
-        "machine learning",
-        "artificial intelligence",
-        "Smart Agriculture and AI",
-        "Artificial Intelligence Applications",
-        "Artificial Intelligence in Healthcare and Education"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.17036033"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-1c3502461053eb7d",
-      "title": "Essays on Financial Machine Learning: Nonlinearity, Predictability and Data-Theory Integration",
-      "url": "https://doi.org/10.17638/03195315",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2031-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Yinuo Wang"
-      ],
-      "tags": [
-        "machine learning",
-        "Stock Market Forecasting Methods",
-        "Financial Markets and Investment Strategies",
-        "Complex Systems and Time Series Analysis"
-      ],
-      "external_ids": {
-        "doi": "10.17638/03195315"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-669a48e7e125384b",
-      "title": "APPLICATION OF MACHINE LEARNING FOR MASS CYTOMETRY DATA ANALYSIS OF CHRONIC LYMPHOCYTIC LEUKAEMIA",
-      "url": "https://doi.org/10.17638/03192789",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2031-01-01T00:00:00+00:00",
-      "summary": "Mass cytometry is a powerful technique for quantifying intracellular and membrane proteins at single-cell resolution. However, the vast amount of data it generates requires advanced analytical methods to extract meaningful biological insights. While machine learning (ML) has emerged as a key analytical tool in many fields, its application in mass cytometry remains underexplored. In this study, ML was employed to analyse mass…",
-      "authors": [
-        "Muizdeen Raji"
-      ],
-      "tags": [
-        "machine learning",
-        "Chronic Lymphocytic Leukemia Research",
-        "Single-cell and spatial transcriptomics",
-        "Lymphoma Diagnosis and Treatment"
-      ],
-      "external_ids": {
-        "doi": "10.17638/03192789"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-fbb755f0df31ba40",
-      "title": "Analysis of cell-free DNA for cancer diagnostics using liquid biopsies",
-      "url": "https://doi.org/10.5526/ERR-00042900",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2031-01-01T00:00:00+00:00",
-      "summary": "Chromatin organisation influences gene regulation and genome stability, yet its dysregulation in cancer remains incompletely understood. This has become particularly important for patient diagnostics using cell-free DNA (cfDNA) from body fluids, based on computational analyses of nucleosome occupancy landscapes reconstructed from cfDNA. This thesis establishes the first comprehensive atlas of nucleosome positioning signatures…",
-      "authors": [
-        "Negin Behboodi"
-      ],
-      "tags": [
-        "machine learning",
-        "rag",
-        "Cancer Genomics and Diagnostics",
-        "Epigenetics and DNA Methylation",
-        "Genomics and Chromatin Dynamics"
-      ],
-      "external_ids": {
-        "doi": "10.5526/err-00042900"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
     {
       "id": "paper-6a75fb7c7e8d05e7",
       "title": "Calibration of material models applied to impact mechanics using a new statistical approach.",
@@ -141,88 +31,6 @@
       "pdf_url": "https://zenodo.org/record/3935803"
     },
     {
-      "id": "paper-bfe132c06eff2be9",
-      "title": "A UAV-Based Framework for Community-Scale Residential Building Energy Modelling in China",
-      "url": "https://doi.org/10.17638/03195460",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2029-01-01T00:00:00+00:00",
-      "summary": "With increasing emphasis on energy efficiency and carbon emission reduction in the building sector, rapid and scalable energy modelling of existing buildings is critical for retrofit projects and policy development. Conventional surveys, data collection and energy modelling processes remain labour-intensive and impractical for large-scale applications, and energy modelling often dominates project time and cost. Unmanned Aeria…",
-      "authors": [
-        "Mengfan Jin"
-      ],
-      "tags": [
-        "machine learning",
-        "deep learning",
-        "optimization",
-        "3D Surveying and Cultural Heritage",
-        "Building Energy and Comfort Optimization"
-      ],
-      "external_ids": {
-        "doi": "10.17638/03195460"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-bf06bc765a68fed5",
-      "title": "Experimental Data and Machine Learning Code for Flashover Voltage Prediction of Polluted Insulators",
-      "url": "https://doi.org/10.17632/hxgnpm3xsg",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2028-08-28T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Rama Alkhtiar"
-      ],
-      "tags": [
-        "machine learning",
-        "High voltage insulation and dielectric phenomena",
-        "Machine Learning in Materials Science",
-        "Plasma Applications and Diagnostics"
-      ],
-      "external_ids": {
-        "doi": "10.17632/hxgnpm3xsg"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-c61130c4d22d4bd0",
-      "title": "THREE ESSAYS ON EMPIRICAL INDUSTRIAL ORGANIZATION AND MACHINE LEARNING",
-      "url": "https://doi.org/10.7273/000008355",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2028-02-26T00:00:00+00:00",
-      "summary": "This dissertation investigates two critical economic challenges: global public health emergencies and the transformation of the digital economy. Through the development and application of state-of-the-art computational economics and machine learning methodologies, it provides an in-depth analysis of market behavior, policy effectiveness, and mechanism design. The dissertation consists of three independent studies within the d…",
-      "authors": [
-        "Mianfeng Liu"
-      ],
-      "tags": [
-        "machine learning",
-        "COVID-19 Pandemic Impacts",
-        "Aviation Industry Analysis and Trends",
-        "Auction Theory and Applications"
-      ],
-      "external_ids": {
-        "doi": "10.7273/000008355"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
       "id": "paper-cf8f79c79cb2d0c0",
       "title": "DEVELOPMENT AND COMMERCIALIZATION OF COMPUTATIONAL METHODS TO ACCELERATE DERMATOLOGICAL DISCOVERY",
       "url": "https://doi.org/10.7273/000008421",
@@ -244,152 +52,6 @@
       ],
       "external_ids": {
         "doi": "10.7273/000008421"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-6dc0dbed5aec631f",
-      "title": "Virtual Knapping (and Refitting) with Neural Networks: Proofs of Concept",
-      "url": "https://doi.org/10.13140/rg.2.2.12669.63201",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2028-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "F. Jordy Orellana",
-        "Jonathan Scott Reeves",
-        "Shannon Patrick McPherron",
-        "Claudio Tennie"
-      ],
-      "tags": [
-        "neural network",
-        "Image Processing and 3D Reconstruction",
-        "Pleistocene-Era Hominins and Archaeology",
-        "Archaeological and Geological Studies"
-      ],
-      "external_ids": {
-        "doi": "10.13140/rg.2.2.12669.63201"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-f1a31526c923d71d",
-      "title": "Advances in single-cell image cytometry enabled by nanowell imaging plates and machine learning",
-      "url": "https://doi.org/10.14288/1.0451480",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2028-01-01T00:00:00+00:00",
-      "summary": "The full abstract for this thesis is available in the body of the thesis, and will be available when the embargo expires.",
-      "authors": [
-        "Samuel G. Berryman"
-      ],
-      "tags": [
-        "machine learning",
-        "Cell Image Analysis Techniques",
-        "Advanced Fluorescence Microscopy Techniques",
-        "Microfluidic and Bio-sensing Technologies"
-      ],
-      "external_ids": {
-        "doi": "10.14288/1.0451480"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-cb2850399323e73c",
-      "title": "Advanced optimization methods for interpretable machine learning models and their applications in chemical engineering",
-      "url": "http://hdl.handle.net/2429/94391",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2028-01-01T00:00:00+00:00",
-      "summary": "The full abstract for this thesis is available in the body of the thesis, and will be available when the embargo expires.",
-      "authors": [
-        "Jiayang Ren"
-      ],
-      "tags": [
-        "machine learning",
-        "artificial intelligence",
-        "optimization",
-        "Explainable Artificial Intelligence (XAI)",
-        "Advanced Optimization Algorithms Research"
-      ],
-      "external_ids": {
-        "doi": "10.14288/1.0452516"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-06489a57e94fdf9f",
-      "title": "An Integrated Multimodal Approach to Emotion and Empathy",
-      "url": "https://doi.org/10.48617/etd.1584",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2028-01-01T00:00:00+00:00",
-      "summary": "Empathy is a fundamental component of human social life, supporting connection, cooperation, and emotional understanding. Despite its central role in human functioning, empathy remains complex and not fully understood, particularly in dynamic, real-world contexts where emotions unfold across multiple channels simultaneously. Much of the existing literature relies on simplified tasks and single-modality measures, limiting our…",
-      "authors": [
-        "Tong Lin"
-      ],
-      "tags": [
-        "machine learning",
-        "multimodal",
-        "Action Observation and Synchronization",
-        "Emotion and Mood Recognition",
-        "Emotions and Moral Behavior"
-      ],
-      "external_ids": {
-        "doi": "10.48617/etd.1584"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-7684414b3a21f382",
-      "title": "Data and code for: In silico screening of natural compounds targeting outer membrane protein A (OmpA) in Klebsiella pneumoniae",
-      "url": "https://doi.org/10.5281/zenodo.23140529",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-10-10T00:00:00+00:00",
-      "summary": "This dataset contains the data and code supporting an in silico screening study identifying natural compound inhibitors of outer membrane protein A (OmpA) in Klebsiella pneumoniae. It includes the labeled and filtered bioactivity training data used to build machine-learning QSAR models (Random Forest, SVM, KNN, Gaussian Naïve Bayes), the QSAR modeling code, the full SuperNatural 3.0 natural compound library with predicted pMI…",
-      "authors": [
-        "Yasmine El Fathi Lalaoui",
-        "Yassir Boulaamane",
-        "Bothayna Ajmi",
-        "Hassan Nour",
-        "Samir Chtita",
-        "Mohammed Reda Britel",
-        "Younes Smani",
-        "Amal Maurady"
-      ],
-      "tags": [
-        "Computational Drug Discovery Methods",
-        "Synthesis and Characterization of Heterocyclic Compounds",
-        "Synthesis and Biological Evaluation"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.23140529"
       },
       "metrics": {
         "citation_count": 0
@@ -419,33 +81,6 @@
       ],
       "external_ids": {
         "doi": "10.17632/nfmz7fn4g2"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-a0ed8943c5442c71",
-      "title": "Dataset for Acetylation-Related Three-Gene Signature in Schizophrenia: Integrative Transcriptomics, Machine Learning Diagnosis, and Immune Associations",
-      "url": "https://doi.org/10.17632/ntt4dkkwhk",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-09-14T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "di di"
-      ],
-      "tags": [
-        "machine learning",
-        "Schizophrenia research and treatment",
-        "Epigenetics and DNA Methylation",
-        "Bioinformatics and Genomic Networks"
-      ],
-      "external_ids": {
-        "doi": "10.17632/ntt4dkkwhk"
       },
       "metrics": {
         "citation_count": 0
@@ -566,33 +201,6 @@
       "pdf_url": null
     },
     {
-      "id": "paper-06050e8f71314127",
-      "title": "Annual land cover maps for the Colombian Caribbean and Andean regions (1997 - 2024)",
-      "url": "https://doi.org/10.5281/zenodo.15843714",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-07-08T00:00:00+00:00",
-      "summary": "This record contains annual land cover maps covering the Colombian Andean and Caribbean regions for the period 1997 - 2024. The annual maps have been created from a machine learning model that used the outputs of the Continuous Change Detection and Classification Algorithm as features, along with training data, to generate class probability layers that were further post-processed. Legend: 1: Natural forest 2: Tree plantation…",
-      "authors": [
-        "Paulo Arévalo"
-      ],
-      "tags": [
-        "machine learning",
-        "Remote-Sensing Image Classification",
-        "Remote Sensing and Land Use",
-        "Remote Sensing in Agriculture"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.15843714"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
       "id": "paper-7031e70e0a80d0c1",
       "title": "Dataset for: Inferring pedestrian decision-making through inverse reinforcement learning",
       "url": "https://doi.org/10.17632/c2hndp9wys",
@@ -614,114 +222,6 @@
       ],
       "external_ids": {
         "doi": "10.17632/c2hndp9wys"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-741ac89ba327f8c6",
-      "title": "The predictive value of machine learning models based on RANKL and OPG for the risk of bone loss in patients with ulcerative colitis",
-      "url": "https://doi.org/10.5281/zenodo.19982495",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-06-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Renyu Liang"
-      ],
-      "tags": [
-        "machine learning",
-        "Bone Metabolism and Diseases",
-        "Bone health and osteoporosis research",
-        "Inflammatory Bowel Disease"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.19982495"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-f0a0f5dda24f44d8",
-      "title": "Machine learning models incorporating RANKL and OPG to identify prevalent low bone mineral density in patients with ulcerative colitis",
-      "url": "https://doi.org/10.5281/zenodo.23243394",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-05-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Renyu Liang"
-      ],
-      "tags": [
-        "machine learning",
-        "Bone health and osteoporosis research",
-        "Inflammatory Bowel Disease",
-        "Bone Metabolism and Diseases"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.23243394"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-270ff7c89d85dd37",
-      "title": "Predictive Value of Different Machine Learning Models for Clinical Pregnancy Outcomes in Patients with Polycystic Ovary Syndrome Undergoing IVF/ICSI Treatment",
-      "url": "https://doi.org/10.5281/zenodo.19983747",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-03-31T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Guzainuer Ailiniyazi"
-      ],
-      "tags": [
-        "machine learning",
-        "Ovarian function and disorders",
-        "Reproductive Health and Technologies",
-        "Assisted Reproductive Technology and Twin Pregnancy"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.19983747"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-f501cb2cb0c99b35",
-      "title": "Data and Code for Machine Learning-Assisted Automated Kinetic Mechanism Discrimination for Accelerated Population Balance Model Development",
-      "url": "https://doi.org/10.17632/zf9bykrkn7",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-03-22T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Bocheng Ouyang"
-      ],
-      "tags": [
-        "machine learning",
-        "Thermal and Kinetic Analysis",
-        "Machine Learning in Materials Science",
-        "Control Systems and Identification"
-      ],
-      "external_ids": {
-        "doi": "10.17632/zf9bykrkn7"
       },
       "metrics": {
         "citation_count": 0
@@ -776,64 +276,6 @@
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.22803274"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-4e9edcbbc8f86244",
-      "title": "Data & Script for Enhanced Rockburst Hazard Prediction through Generative Data Augmentation and Explainable Machine Learning Frameworks",
-      "url": "https://doi.org/10.17632/7vm635jzd5",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-01-30T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Ibrahim TIjani",
-        "Abiodun Ismail Lawal",
-        "François K. Mulenga",
-        "Sangki Kwon",
-        "Hasan Haroglu"
-      ],
-      "tags": [
-        "machine learning",
-        "Rock Mechanics and Modeling",
-        "Tunneling and Rock Mechanics",
-        "Geotechnical and Geomechanical Engineering"
-      ],
-      "external_ids": {
-        "doi": "10.17632/7vm635jzd5"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-a6b39694f4a243e2",
-      "title": "Supplementary Material 2 for In Situ Longitudinal Assessment of GelMA Hydrogel Mechanical Properties Under Tissue Engineering Conditions Using Near Infrared Spectroscopy and Machine Learning",
-      "url": "https://doi.org/10.17632/5nf2mksv3y",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-01-11T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Omar Anwar Elkadi"
-      ],
-      "tags": [
-        "machine learning",
-        "Hydrogels: synthesis, properties, applications",
-        "Spectroscopy Techniques in Biomedical and Chemical Research",
-        "Spectroscopy and Chemometric Analyses"
-      ],
-      "external_ids": {
-        "doi": "10.17632/5nf2mksv3y"
       },
       "metrics": {
         "citation_count": 0
@@ -5134,6 +4576,561 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.1016/j.jmsy.2026.09.012"
+    },
+    {
+      "id": "paper-a73bb35300eeaa0a",
+      "title": "Reflective freewriting and the irreducibly human in ESL writing pedagogy in the age of generative AI",
+      "url": "https://www.semanticscholar.org/paper/e5b1c5560a75f079aca2edbed844ab7ef491c0b7",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "D. Rothwell"
+      ],
+      "tags": [
+        "Journal of Second Language Writing"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.jslw.2026.101366"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S106037432600086X/pdf"
+    },
+    {
+      "id": "paper-307c5655222845e0",
+      "title": "Heterogeneous urban decarbonization pathways revealed by typological and machine learning frameworks: A global analysis across Annex I cities",
+      "url": "https://www.semanticscholar.org/paper/e3b13fea0aaaaf5f2317c7cb069dd5118df9c1f2",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Yu-Kai Jin",
+        "Ayyoob Sharifi"
+      ],
+      "tags": [
+        "machine learning",
+        "Urban Climate"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.uclim.2026.103160"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2212095526003913/pdf"
+    },
+    {
+      "id": "paper-bb0c6ceeec2d87ab",
+      "title": "A machine learning framework for predicting the fire response of concrete-filled steel plate composite walls",
+      "url": "https://www.semanticscholar.org/paper/e3a52afab9bee03bae484f880664a929b79da449",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "N. Bhatt",
+        "H. Thai",
+        "B. Uy",
+        "Tuan Ngo"
+      ],
+      "tags": [
+        "machine learning",
+        "Structures"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.istruc.2026.113292"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.istruc.2026.113292"
+    },
+    {
+      "id": "paper-9b48fc8beb3ddf66",
+      "title": "An integrated physics-based–machine learning framework for groundwater head prediction in a highly managed multi-aquifer watershed",
+      "url": "https://www.semanticscholar.org/paper/e36c020a156d51c1d7a73a8fe05e0f23f2553709",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Rajesh Khatakho",
+        "E. Tollner",
+        "David Stooksbury",
+        "Adam M. Milewski",
+        "Ritesh Karki",
+        "N. Gaur"
+      ],
+      "tags": [
+        "machine learning",
+        "Journal of Hydrology: Regional Studies"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.ejrh.2026.104052"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.ejrh.2026.104052"
+    },
+    {
+      "id": "paper-bac573d4b919b5f7",
+      "title": "How granular should waste composition predictions be? A compositional machine learning framework",
+      "url": "https://www.semanticscholar.org/paper/e356738d4051bbede9e671fecc78757aabcf9aeb",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Amr Abu Orabi",
+        "Adolfo R. Escobedo",
+        "Osman Y. Özaltın"
+      ],
+      "tags": [
+        "machine learning",
+        "Waste Management Bulletin"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.wmb.2026.100388"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2949750726001094/pdf"
+    },
+    {
+      "id": "paper-2b04869f9b321a68",
+      "title": "Remote sensing-based machine learning and deep learning for agriculture and forestry: Yield estimation, land-cover mapping, and plant stress – A systematic review (2020–2025)",
+      "url": "https://www.semanticscholar.org/paper/e3022f01a910c8aa541e19b0dd1fceb110bd807b",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "David Alejandro Gracia Rojas",
+        "Héctor Javier Gómez Díaz",
+        "Richard de Jesús Gil Herrera"
+      ],
+      "tags": [
+        "machine learning",
+        "deep learning",
+        "Remote Sensing Applications Society and Environment"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.rsase.2026.102279"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S235293852600412X/pdf"
+    },
+    {
+      "id": "paper-deab2c76045681ac",
+      "title": "An Evidence–Conflict Based Uncertainty Quantification Approach for Object Detection of Autonomous Driving",
+      "url": "https://www.semanticscholar.org/paper/e27bcad30f9e7c4680d4c1ef4ebfac29fd7543e9",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "High-confidence false positives (HCFPs) in object detection show a serious threat to autonomous driving (AD) safety, as it is difficult to identify HCFPs using either confidence-thresholding or common entropy-based uncertainty measures due to the high confidence assigned. This study proposes an evidence–conflict based uncertainty quantification approach for object detection in AD—a lightweight post hoc method built on a Diric…",
+      "authors": [
+        "Hao-Yu Xin",
+        "Ci Liang",
+        "Y. Ci"
+      ],
+      "tags": [
+        "transformer",
+        "probabilistic",
+        "Journal of Transportation Engineering Part A Systems"
+      ],
+      "external_ids": {
+        "doi": "10.1061/jtepbs.teeng-9849"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-402ad85124c17265",
+      "title": "Hybrid deep reinforcement learning-assisted adaptive TID controller for sensorless BLDC motor drives with torque ripple minimization and dynamic stability enhancement",
+      "url": "https://www.semanticscholar.org/paper/e1d6b8211b37ab9a472229bd2c4416e823107d1a",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Nanthakumar Venkatachalam",
+        "Vanchinathan Kumarasamy",
+        "Johny Renoald Albert"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Computers & electrical engineering"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.compeleceng.2026.111547"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.compeleceng.2026.111547"
+    },
+    {
+      "id": "paper-2a6fe0e89f6717ec",
+      "title": "How many design storms are needed to train a machine learning flood depth surrogate model?",
+      "url": "https://www.semanticscholar.org/paper/e0cf8db76577af00ac0ad611cdbd10acb409ffa2",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Charalampos Konstantinou",
+        "J. Kountouri",
+        "C. Panagiotou"
+      ],
+      "tags": [
+        "machine learning",
+        "Progress in Disaster Science"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.pdisas.2026.100761"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.pdisas.2026.100761"
+    },
+    {
+      "id": "paper-c489eba792a6d5fe",
+      "title": "Acoustic recognition of tilapia feeding intensity via LoRA-fine-tuned multimodal large language models",
+      "url": "https://www.semanticscholar.org/paper/e0c4cde6f0f7ef1f54f3051e6ca8c2bbf62036fe",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Chen Yang",
+        "Sheng-Li Fan",
+        "Pei-Zhen He",
+        "Xin-Li Ma",
+        "Lang Wang",
+        "Michel Dossou",
+        "Wei-Ming Cai"
+      ],
+      "tags": [
+        "large language model",
+        "multimodal",
+        "Aquaculture Reports"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.aqrep.2026.103857"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2352513426004977/pdf"
+    },
+    {
+      "id": "paper-1b2531a82557e78e",
+      "title": "Hyperspectral imaging in food systems: Machine learning for quality and safety assessment",
+      "url": "https://www.semanticscholar.org/paper/e058c34e72305d366df4443a070b9b07a09c1e4a",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Pratik Madhukar Gorde",
+        "Sushil Kumar Singh"
+      ],
+      "tags": [
+        "machine learning",
+        "Food and Humanity"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.foohum.2026.101480"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-871d8e6277c1f690",
+      "title": "A novel privacy-preserving large language model integrating trust-weighted and ethical gradient masking",
+      "url": "https://www.semanticscholar.org/paper/dfbdf230d06c3da5ffa94cef4edd34fc3848dafd",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "M. Naseem"
+      ],
+      "tags": [
+        "large language model",
+        "Engineering applications of artificial intelligence"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.engappai.2026.115468"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.engappai.2026.115468"
+    },
+    {
+      "id": "paper-ea8731f9a986ed5c",
+      "title": "A knowledge-guided machine learning framework for reconstructing climate-driven subsurface water dynamics from time-lapse electrical resistivity tomography",
+      "url": "https://www.semanticscholar.org/paper/deb347089b4c05c0275c18a1fcd44fbc36a381b2",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Wei-Yu Guo",
+        "Hang Chen"
+      ],
+      "tags": [
+        "machine learning",
+        "Journal of Hydrology"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.jhydrol.2026.136631"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-f5fcd29c687ad526",
+      "title": "Optimizing FeNiCrAlCu high entropy superalloy design: Integrating thermodynamic calculations, first-principles, and machine learning for enhanced stacking fault energy modeling",
+      "url": "https://www.semanticscholar.org/paper/ddeb19b10bdd16931dc52b451ca3af3f469a278b",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Tria Laksana Achmad",
+        "Muhammad Fariz Aulia",
+        "Farrel Faiz Baskara",
+        "Bonita Dilasari",
+        "F. Muhammad",
+        "Zhi-Gang Yang"
+      ],
+      "tags": [
+        "machine learning",
+        "Intermetallics (Barking)"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.intermet.2026.109629"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.intermet.2026.109629"
+    },
+    {
+      "id": "paper-7e1a466801cbf3ad",
+      "title": "Investigation and optimization of heat transfer mechanism of a single droplet in molten PCM based on CFD and Interpretable Machine Learning",
+      "url": "https://www.semanticscholar.org/paper/dd469d05f8535bb31cbf545026e18cc8773aa12f",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Ming-Jian Wang",
+        "Jian-Wei Zhang",
+        "Jian-Xin Xu",
+        "Qiao-Ling Bi",
+        "Hui Sun",
+        "Hua Wang"
+      ],
+      "tags": [
+        "machine learning",
+        "optimization",
+        "International Journal of Heat and Fluid Flow"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.ijheatfluidflow.2026.110666"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-32ed5b84edd2ec1e",
+      "title": "AgroYachay: An open-source IoT and large-language-model platform supporting agronomic and economic decision-making for Andean smallholders",
+      "url": "https://www.semanticscholar.org/paper/dd149bbda370df884b1d57874faa85d79f86a77b",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Fred Torres-Cruz",
+        "Richar Andre Vilca-Solorzano",
+        "Dina Maribel Yana-Yucra",
+        "Vladimiro Ibañez-Quispe",
+        "E. Fuentes-Navarro"
+      ],
+      "tags": [
+        "SoftwareX"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.softx.2026.103037"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.softx.2026.103037"
+    },
+    {
+      "id": "paper-137b8ff79de71148",
+      "title": "Multi-metric evaluation of machine learning models for PM2.5 forecasting in diverse urban regions of Gujarat, India",
+      "url": "https://www.semanticscholar.org/paper/dc5d964443b43941297d1246719cfec990f3b5f1",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Sajeed I. Ghanchi",
+        "Dishant M. Pandya",
+        "M. Shah"
+      ],
+      "tags": [
+        "machine learning",
+        "Next Sustainability"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.nxsust.2026.100533"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.nxsust.2026.100533"
+    },
+    {
+      "id": "paper-ac27fb2b8d83bbf6",
+      "title": "Hierarchical dual-agent reinforcement learning with hybrid LFSR and meta-learning for adaptive fault-tolerant SRAM repair",
+      "url": "https://www.semanticscholar.org/paper/dbce3f8d6415fbab05bcaf21c3e31c4c80768317",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Vijay Murugan Sivagnanam",
+        "Sathiyabhama Balasubramaniam"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "agent",
+        "Ain Shams Engineering Journal"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.asej.2026.104482"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2090447926005137/pdf"
+    },
+    {
+      "id": "paper-b3f6a55f5d0551bd",
+      "title": "Reinforcement learning-based fault-tolerant formation control for multi-hypersonic flight vehicles with prescribed performance shaping",
+      "url": "https://www.semanticscholar.org/paper/db47281db05c4fced534d330dbd80a44ad8b0550",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Yu-Zhu Xiang",
+        "Wen-Jia Deng",
+        "Jian Guo",
+        "Zheng-Rong Xiang"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Aerospace Science and Technology"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.ast.2026.113634"
+      },
+      "metrics": {
+        "citation_count": 1
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-31d67777154c1892",
+      "title": "PPENet: A prior-grounded progressive evidence network for interpretable knowledge graph completion",
+      "url": "https://www.semanticscholar.org/paper/d9ba8058cce971111b0e675eb9838d8f35767677",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Xue-Hui Wang",
+        "Kai-Wen Xu",
+        "Ning-Yuan Zhao",
+        "Nan Jiang",
+        "Pei-Guang Jing",
+        "Yu-Ting Su"
+      ],
+      "tags": [
+        "knowledge graph",
+        "Neurocomputing"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.neucom.2026.134981"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
     }
   ],
   "blogs": [
