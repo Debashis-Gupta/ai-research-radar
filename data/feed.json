@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:10:02.275042+00:00",
+  "generated_at": "2026-10-25T19:01:14.916257+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -4378,6 +4378,31 @@
       }
     },
     {
+      "id": "paper-718da06245ec5fff",
+      "title": "AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark",
+      "url": "https://arxiv.org/abs/2610.31466v1",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "published": "2026-10-22T15:58:39+00:00",
+      "summary": "AI coding agents can now build small playable games in minutes, but the results usually look like programmer art: gray blockouts, colored geometric primitives, and flat semantic blobs. We present AnyGameRenderer, a video-to-video generative renderer that turns such footage into high-quality visuals with characters, motion detail, and effects. Throughout, it keeps the layout, camera, and every entity's position and timing inta…",
+      "authors": [
+        "Ruicong Liu",
+        "Liangyang Ouyang",
+        "Fengbo Lan",
+        "Zhixiang Wang",
+        "Kaipeng Zhang"
+      ],
+      "tags": [
+        "agent",
+        "cs.CV"
+      ],
+      "external_ids": {
+        "arxiv": "2610.31466"
+      }
+    },
+    {
       "id": "paper-8a431c225f17c719",
       "title": "RheOPT: Few-Shot Non-Newtonian Flow Prediction via Newtonian Pretraining of RheOFormer",
       "url": "https://arxiv.org/abs/2610.31465v1",
@@ -4801,31 +4826,6 @@
       ],
       "external_ids": {
         "arxiv": "2610.31420"
-      }
-    },
-    {
-      "id": "paper-8f67f67fc6950609",
-      "title": "SyRA-CS: Synthetic-to-Real Adaptation for Code-Switched ASR with Meta-Learning",
-      "url": "https://arxiv.org/abs/2610.31415v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-22T15:17:10+00:00",
-      "summary": "Code-switched (CS) automatic speech recognition (ASR) remains difficult because real CS speech is scarce and synthetic speech does not fully match it. We investigate whether synthetic CS speech is more useful for learning an adaptation-friendly initialization than for ordinary continual fine-tuning. We propose SyRA-CS, a pair-specific synthetic-to-real adaptation framework based on Reptile meta-learning. For each language pai…",
-      "authors": [
-        "Fadel Thior",
-        "Ahmer Tabassum",
-        "Haania Siddiqui",
-        "Hanan Aldarmaki",
-        "Thamar Solorio"
-      ],
-      "tags": [
-        "llm",
-        "cs.CL"
-      ],
-      "external_ids": {
-        "arxiv": "2610.31415"
       }
     }
   ],
@@ -5493,6 +5493,20 @@
   ],
   "videos": [
     {
+      "id": "video-c49166f03baf9f66",
+      "video_id": "V_uq3v6xK-4",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/V_uq3v6xK-4/hqdefault.jpg",
+      "title": "Sphere Intersection Puzzle Corrected",
+      "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
+      "source": "3Blue1Brown",
+      "published": "2026-10-25T14:30:46+00:00",
+      "summary": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
       "id": "video-a05d4e2dffee38a9",
       "video_id": "AgypoO13DJ0",
       "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
@@ -6038,20 +6052,6 @@
       "source": "3Blue1Brown",
       "published": "2026-03-27T20:56:02+00:00",
       "summary": "On \"The Print Gallery\", by M.C. Escher Full video: https://youtu.be/ldxFjLJ3rVY",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-42879aa306dd5b05",
-      "video_id": "4h5BEALuh44",
-      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
-      "thumbnail": "https://i.ytimg.com/vi/4h5BEALuh44/hqdefault.jpg",
-      "title": "The subset sum puzzle",
-      "url": "https://www.youtube.com/shorts/4h5BEALuh44",
-      "source": "3Blue1Brown",
-      "published": "2026-03-25T20:59:04+00:00",
-      "summary": "Part of a series of monthly puzzlers. Stay subscribed to see the solution",
       "tags": [
         "technical video"
       ]
@@ -6354,6 +6354,20 @@
   ],
   "channel_videos": [
     {
+      "id": "video-c49166f03baf9f66",
+      "video_id": "V_uq3v6xK-4",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/V_uq3v6xK-4/hqdefault.jpg",
+      "title": "Sphere Intersection Puzzle Corrected",
+      "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
+      "source": "3Blue1Brown",
+      "published": "2026-10-25T14:30:46+00:00",
+      "summary": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
       "id": "video-a05d4e2dffee38a9",
       "video_id": "AgypoO13DJ0",
       "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
@@ -6899,20 +6913,6 @@
       "source": "3Blue1Brown",
       "published": "2026-03-27T20:56:02+00:00",
       "summary": "On \"The Print Gallery\", by M.C. Escher Full video: https://youtu.be/ldxFjLJ3rVY",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-42879aa306dd5b05",
-      "video_id": "4h5BEALuh44",
-      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
-      "thumbnail": "https://i.ytimg.com/vi/4h5BEALuh44/hqdefault.jpg",
-      "title": "The subset sum puzzle",
-      "url": "https://www.youtube.com/shorts/4h5BEALuh44",
-      "source": "3Blue1Brown",
-      "published": "2026-03-25T20:59:04+00:00",
-      "summary": "Part of a series of monthly puzzlers. Stay subscribed to see the solution",
       "tags": [
         "technical video"
       ]
