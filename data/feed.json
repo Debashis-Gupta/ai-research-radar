@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T15:09:30.838566+00:00",
+  "generated_at": "2026-10-26T21:00:24.026517+00:00",
   "papers": [
     {
       "id": "paper-61cf760e039db14f",
@@ -4888,12 +4888,45 @@
   ],
   "blogs": [
     {
+      "id": "blog-64d59b55a8fb8666",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
       "id": "blog-eb7708c5f537ab79",
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "url": "https://openai.com/index/fanatics-streamline-fan-experience",
       "source": "OpenAI",
       "published": "2026-10-26T07:00:00+00:00",
       "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-8f2f08b6e197805b",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "source": "OpenAI",
+      "published": "2026-10-26T07:00:00+00:00",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-1758535ac6be3e6b",
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI",
+      "published": "2026-10-26T00:00:00+00:00",
+      "summary": "Bringing fast and capable computer use to everyone",
       "tags": [
         "AI/ML"
       ]
@@ -5262,17 +5295,6 @@
       ]
     },
     {
-      "id": "blog-4a2f3ca18eb9cee6",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-9db4940a53f86840",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
@@ -5281,6 +5303,17 @@
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "tags": [
         "agent"
+      ]
+    },
+    {
+      "id": "blog-4a2f3ca18eb9cee6",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "tags": [
+        "AI/ML"
       ]
     },
     {
@@ -5380,39 +5413,6 @@
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
       "tags": [
         "agent"
-      ]
-    },
-    {
-      "id": "blog-24cc989c02dbc2a2",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "source": "OpenAI",
-      "published": "2026-10-14T12:00:00+00:00",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-e181547094b0a112",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "source": "OpenAI",
-      "published": "2026-10-14T07:00:00+00:00",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
-      "id": "blog-7d10f0ddfecf202c",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "source": "OpenAI",
-      "published": "2026-10-14T07:00:00+00:00",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "tags": [
-        "AI/ML"
       ]
     },
     {
