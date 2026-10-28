@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:05:01.531424+00:00",
+  "generated_at": "2026-10-28T21:01:15.166169+00:00",
   "papers": [
     {
       "id": "paper-7684414b3a21f382",
@@ -1204,6 +1204,34 @@
       "pdf_url": ""
     },
     {
+      "id": "paper-68814d6de239d4f6",
+      "title": "Machine-Learning Models for Predicting Condition Rating of Cast-in-Place and Precast Concrete Bridge Decks",
+      "url": "https://www.semanticscholar.org/paper/bf15cad63f27622eac6e63ade7bf1616329fb265",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "This study presents a comparative evaluation of six machine learning models for predicting the condition ratings of cast-in-place and precast concrete bridge decks using a large-scale nationwide bridge data set. The study combines machine learning techniques with genetic algorithm-based hyperparameter optimization to improve prediction performance and support bridge maintenance and rehabilitation decision-making. The models w…",
+      "authors": [
+        "Hadil Helaly",
+        "Khaled El-Rayes",
+        "Ernest-John Ignacio"
+      ],
+      "tags": [
+        "machine learning",
+        "optimization",
+        "Journal of construction engineering and management"
+      ],
+      "external_ids": {
+        "doi": "10.1061/jcemd4.coeng-19355"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-631891bbf8864162",
       "title": "Comparative Evaluation of CPA and Machine Learning-based power analysis attacks on AES, PRESENT, and ASCON",
       "url": "https://www.semanticscholar.org/paper/bf058d669eb72d27872acd903ad1ed009ef3c6d2",
@@ -1291,6 +1319,35 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.1016/j.bej.2026.110441"
+    },
+    {
+      "id": "paper-1a93a3a949ec50f8",
+      "title": "Large language model-guided multi-agent reinforcement learning for low-carbon data center scheduling considering distribution-network constraint",
+      "url": "https://www.semanticscholar.org/paper/bb9cff04a8477f26df4d0e3e790996fa49f4500e",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Chen-Yue Xia",
+        "Yin-Liang Xu",
+        "Hong-Bin Sun"
+      ],
+      "tags": [
+        "large language model",
+        "reinforcement learning",
+        "agent",
+        "Applied Energy"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.apenergy.2026.129075"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
     },
     {
       "id": "paper-d76cf69e8819d895",
@@ -1551,6 +1608,36 @@
       ],
       "external_ids": {
         "doi": "10.1016/j.enconman.2026.122314"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-14e9381d05f4208e",
+      "title": "HCREA-GRAG: a hierarchical constraint graph retrieval-augmented generation method for traceable knowledge graph question answering service in aviation manufacturing metrology",
+      "url": "https://www.semanticscholar.org/paper/ab2eefceed3b641d040c60a0e1d96ee2ac904287",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Ji-Hang Zou",
+        "Xue-Tao Zhang",
+        "Ya-Hui Wu",
+        "Guo-Yi Hou",
+        "Xiang Huang"
+      ],
+      "tags": [
+        "knowledge graph",
+        "rag",
+        "Advanced Engineering Informatics"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.aei.2026.105398"
       },
       "metrics": {
         "citation_count": 0
@@ -2409,7 +2496,7 @@
       "published": "2027-01-01T00:00:00+00:00",
       "summary": "In the context of dynamic financial markets and the limitations of traditional and existing intelligent methods in balancing risk and return, this study targets the poor generalization and weak risk resistance of investment strategies in dynamic stock market environments. It proposes a Proximal Policy Optimization (PPO)–based investment model that integrates a deep sequence-encoding module and a dynamic, risk-adjusted advanta…",
       "authors": [
-        "Cheng Yang",
+        "C. Yang",
         "Hao-Yang Zeng",
         "Shi-Long Han",
         "Yi-Fan Yu"
@@ -4480,6 +4567,57 @@
       "pdf_url": "https://doi.org/10.66348/spider.books.v1.010.26"
     },
     {
+      "id": "paper-e40061f1afcbbc12",
+      "title": "Predicting Consumer Sentiment Through Natural Language Processing for Strategic Marketing Decisions",
+      "url": "https://www.semanticscholar.org/paper/e0734c189193befdb5b841b6b53c377380aea1ca",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-31T00:00:00+00:00",
+      "summary": "Consumer sentiment expressed in reviews, social posts and support interactions is a leading indicator of demand, yet marketing decisions are usually made on lagging sales data. This paper examines how natural language processing (NLP) converts text into a sentiment index that leads sales, how much the index’s quality depends on the classification method, and what the index is worth for a representative marketing decision. In…",
+      "authors": [
+        "Matqurbonov Omon"
+      ],
+      "tags": [
+        "natural language processing",
+        "nlp",
+        "Journals Fringe Multi-Engineering Proceedings"
+      ],
+      "external_ids": {
+        "doi": "10.69996/fmep.2026047"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-f2d0f6e57a590908",
+      "title": "Machine Learning-Based Customer Segmentation for Sustainable Marketing Strategies",
+      "url": "https://www.semanticscholar.org/paper/d3667248e06097d4101863ca56a461e4cc070069",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-31T00:00:00+00:00",
+      "summary": "Sustainable marketing addresses consumers whose environmental values, willingness to pay a premium and price sensitivity vary widely, and campaigns that treat them uniformly waste effort on the unreceptive and under-serve the committed. This paper applies machine-learning clustering to segment consumers on four attributes, environmental values, willingness to pay a premium, price sensitivity and brand engagement, and evaluate…",
+      "authors": [
+        "Ollonazar Allonazarov"
+      ],
+      "tags": [
+        "machine learning",
+        "Journals Fringe Multi-Engineering Proceedings"
+      ],
+      "external_ids": {
+        "doi": "10.69996/fmep.2026045"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-aa3df1d300bac7d5",
       "title": "Applied Statistics and Machine Learning for Social Science Research",
       "url": "https://www.semanticscholar.org/paper/a5aeeff5a09cef255452f4248ac0b4d3a127ed22",
@@ -4527,6 +4665,30 @@
         "citation_count": 0
       },
       "pdf_url": "https://csbulletin.com/index.php/csb/article/download/228/336"
+    },
+    {
+      "id": "paper-adec43ef40b913b7",
+      "title": "AI-Generated Advertising Content and Brand Authenticity: a Comparative Consumer Study",
+      "url": "https://www.semanticscholar.org/paper/8a2462201b5f9cadfc07e13f8b2e04126164445e",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2026-12-31T00:00:00+00:00",
+      "summary": "Generative AI now produces advertising copy, images and video at a fraction of the cost and time of human creative work, and the quality of its output is often indistinguishable from human-created content. What consumers make of it, once they know, is less clear. This paper examines perceived brand authenticity across three ad-creation conditions, human-created, AI-generated without disclosure and AI-generated with disclosure…",
+      "authors": [
+        "Umrbek Salayev"
+      ],
+      "tags": [
+        "Journals Fringe Multi-Engineering Proceedings"
+      ],
+      "external_ids": {
+        "doi": "10.69996/fmep.2026048"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
     },
     {
       "id": "paper-7b91696ec878b0c1",
@@ -5027,176 +5189,20 @@
         "citation_count": 0
       },
       "pdf_url": "https://jurnal.yayasanyutapendidikancerdas.com/index.php/educatum/article/download/386/177"
-    },
-    {
-      "id": "paper-2ec08ee3c6f849f1",
-      "title": "Forecasting of Stock Market Trends Using LSTM Neural Networks",
-      "url": "https://www.semanticscholar.org/paper/e328232db3fff9dc52ca784edb9953c6cb338e33",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-15T00:00:00+00:00",
-      "summary": "One could argue that electronic trading in the financial world was well on its way to development long before the Internet came into being. J. Christopher Westland and Theodore H. Clark note in their work, Global Electronic Commerce: Theory and Case Studies, that the U.S. security markets of the 19th century were the first to see this kind of modernization, the New York Stock Exchange among them. When it comes to making sense…",
-      "authors": [
-        "Alexandru Toma"
-      ],
-      "tags": [
-        "machine learning",
-        "neural network",
-        "Scientif Bulletin of Naval Academy"
-      ],
-      "external_ids": {
-        "doi": "10.21279/1454-864x-26-i1-010"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.21279/1454-864x-26-i1-010"
-    },
-    {
-      "id": "paper-dc97881396a27fe7",
-      "title": "AI-Enabled Autonomous Area-Keeping for Underwater Vehicles",
-      "url": "https://www.semanticscholar.org/paper/70ed8e5efe2b37bbc626bd4aee902ad44e46d6ca",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-15T00:00:00+00:00",
-      "summary": "Autonomous Underwater Vehicles (AUVs), commonly known as submarine drones, provide a critical capability for modern naval operations requiring persistent presence in contested and GPS denied environments. This paper addresses autonomous positioning and area keeping of AUVs within predefined underwater zones using integrated inertial, acoustic, and velocity based navigation systems. Artificial intelligence techniques, includin…",
-      "authors": [
-        "M. Rogobete"
-      ],
-      "tags": [
-        "machine learning",
-        "artificial intelligence",
-        "Scientif Bulletin of Naval Academy"
-      ],
-      "external_ids": {
-        "doi": "10.21279/1454-864x-26-i1-007"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.21279/1454-864x-26-i1-007"
-    },
-    {
-      "id": "paper-2cbfe280191fa0f3",
-      "title": "CREATIVE LEADERSHIP AS A COGNITIVE-SOCIAL BUFFER AGAINST RUMINATION AND ORGANIZATIONAL ANOMIE: THE FULL MEDIATION ROLE OF EMOTIONAL INTELLIGENCE AND EMOTIONAL CAPACITY",
-      "url": "https://tpmap.org/submission/index.php/tpm/article/view/3464",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-12-15T00:00:00+00:00",
-      "summary": "Purpose – This study aims to investigate the full mediation effect of Creative Leadership (CL) in the relationship between employee Emotional Capacities (Emotional Contagion (EC), Emotional Intelligence (EI), and Emotion Regulation (ER)) and two critical forms of psychological strain: Rumination (R) and organizational Anomie (A). The research addresses the gap in understanding the specific psychological mechanism through whic…",
-      "authors": [
-        "DR. S. ANTONY RAJ AISHWARYA ANANDAVALLI MN"
-      ],
-      "tags": [
-        "rag",
-        "Job Satisfaction and Organizational Behavior",
-        "Emotional Intelligence and Performance",
-        "Employee Performance and Leadership"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.18413682"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://tpmap.org/submission/index.php/tpm/article/download/3464/2573"
-    },
-    {
-      "id": "paper-7340ab6d8f98ade9",
-      "title": "RootDown Benchmark",
-      "url": "https://doi.org/10.5281/zenodo.23558587",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-12-15T00:00:00+00:00",
-      "summary": "RootDown is a dataset to benchmark beet-root detection models on edge devices. It was introduced in the corresponding paper, presented at the MLCSA Workshop at ACCV 2026. Code, models and further documentation are available on GitHub. Data Structure The repository provides the following subdirectories: images: all sampled images labels-manual: manual annotations labels-auto: automatically generated annotations splits: image l…",
-      "authors": [
-        "Gerardus Croonen",
-        "Andreas Trondl",
-        "Julia Simon",
-        "Daniel Steininger"
-      ],
-      "tags": [
-        "neural network",
-        "computer vision",
-        "Smart Agriculture and AI",
-        "Advanced Neural Network Applications",
-        "Industrial Vision Systems and Defect Detection"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.23558587"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-d71efe407af1bdd2",
-      "title": "Bridge Crack Dataset",
-      "url": "https://doi.org/10.5281/zenodo.17905738",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-12-12T00:00:00+00:00",
-      "summary": "This dataset contains crack images and their corresponding annotations collected from the wooden structural components of the Lingyan Wind and Rain Bridge, located in Gantang River Park, Lingchuan County, Guilin City, Guangxi Zhuang Autonomous Region. The dataset covers four common types of cracks observed in wooden bridge structures: split cracks, tearing cracks, linear cracks, and shrinkage cracks. All images were captured…",
-      "authors": [
-        "Crack Detection Research Team"
-      ],
-      "tags": [
-        "Infrastructure Maintenance and Monitoring",
-        "Structural Health Monitoring Techniques",
-        "Industrial Vision Systems and Defect Detection"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.17905738"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-71d0801c876b1b05",
-      "title": "Large Language Models as Diagnostic Tools in Nephrology: Helpful, With Limitations.",
-      "url": "https://www.semanticscholar.org/paper/ca0824c3903442adaea81395eddc7ae58f8d7f64",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-11T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Chalid Hasan",
-        "Göran R. Boeckel",
-        "S. Siam",
-        "A. F. Menke",
-        "H. Pavenstädt",
-        "Stefan Reuter"
-      ],
-      "tags": [
-        "large language model",
-        "Medicine",
-        "Deutsches Ärzteblatt International"
-      ],
-      "external_ids": {
-        "doi": "10.3238/arztebl.m2026.0164"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
     }
   ],
   "blogs": [
+    {
+      "id": "blog-b0da25ea6c1a2967",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind",
+      "published": "2026-10-28T17:00:58+00:00",
+      "summary": "",
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "id": "blog-7ae8eb20550eee76",
       "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
@@ -5209,9 +5215,31 @@
       ]
     },
     {
-      "id": "blog-2fc8e689e413caad",
+      "id": "blog-75e2017ed4c5a2ec",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI",
+      "published": "2026-10-28T13:15:00+00:00",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "blog-0dc3cf0b7c98dcde",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "source": "OpenAI",
+      "published": "2026-10-28T10:00:00+00:00",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-41c97fe8dc29ac4a",
       "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "url": "https://openai.com/index/legora",
       "source": "OpenAI",
       "published": "2026-10-28T09:30:00+00:00",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
@@ -5627,28 +5655,6 @@
       ]
     },
     {
-      "id": "blog-a84b6a7bee5c68a6",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "source": "OpenAI",
-      "published": "2026-10-20T07:00:00+00:00",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
-      "id": "blog-dbaa902542534b3a",
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "source": "OpenAI",
-      "published": "2026-10-20T00:00:00+00:00",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-84cd8d44e9825e73",
       "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
       "url": "https://huggingface.co/blog/hf-torchtpu",
@@ -5845,20 +5851,23 @@
       "tags": [
         "agent"
       ]
-    },
-    {
-      "id": "blog-a885ed61f54a415a",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "published": "2026-10-02T04:01:31+00:00",
-      "summary": "",
-      "tags": [
-        "agent"
-      ]
     }
   ],
   "videos": [
+    {
+      "id": "video-c66d1bea7b6bce13",
+      "video_id": "pryCaGv8wuo",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+      "title": "Deepseek's New AI Has A Secret",
+      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "source": "Two Minute Papers",
+      "published": "2026-10-28T17:32:40+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/ Sources: https://x.com/marcthecreatorr/status/2111427716142571554/video/1 https://x.com/olezhavich/status/2112897791022264814/video/1 https://x.com/notjazii/status/2111432925313179689…",
+      "tags": [
+        "technical video"
+      ]
+    },
     {
       "id": "video-911967c2b3674950",
       "video_id": "Xl-yulnYZmI",
@@ -6197,20 +6206,6 @@
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.ai/blog?id=qwen3.8-flash-next Sources: https://x.com/analogalok/status/2092697021790708148 https://www.reddit.com/r/unsloth/comments…",
       "tags": [
         "llm"
-      ]
-    },
-    {
-      "id": "video-39fab277272e8741",
-      "video_id": "L9mMfAFwbl4",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
-      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-      "source": "Two Minute Papers",
-      "published": "2026-08-26T13:10:13+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.com/cordiverse/paper 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson…",
-      "tags": [
-        "technical video"
       ]
     },
     {
@@ -6722,6 +6717,20 @@
   ],
   "channel_videos": [
     {
+      "id": "video-c66d1bea7b6bce13",
+      "video_id": "pryCaGv8wuo",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+      "title": "Deepseek's New AI Has A Secret",
+      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "source": "Two Minute Papers",
+      "published": "2026-10-28T17:32:40+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/ Sources: https://x.com/marcthecreatorr/status/2111427716142571554/video/1 https://x.com/olezhavich/status/2112897791022264814/video/1 https://x.com/notjazii/status/2111432925313179689…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
       "id": "video-911967c2b3674950",
       "video_id": "Xl-yulnYZmI",
       "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
@@ -7059,20 +7068,6 @@
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.ai/blog?id=qwen3.8-flash-next Sources: https://x.com/analogalok/status/2092697021790708148 https://www.reddit.com/r/unsloth/comments…",
       "tags": [
         "llm"
-      ]
-    },
-    {
-      "id": "video-39fab277272e8741",
-      "video_id": "L9mMfAFwbl4",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
-      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-      "source": "Two Minute Papers",
-      "published": "2026-08-26T13:10:13+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.com/cordiverse/paper 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson…",
-      "tags": [
-        "technical video"
       ]
     },
     {
