@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T14:30:16.341791+00:00",
+  "generated_at": "2026-10-31T19:57:16.506849+00:00",
   "papers": [
     {
       "id": "paper-7684414b3a21f382",
@@ -1643,6 +1643,30 @@
       "pdf_url": "https://eprints.glos.ac.uk/15549/9/15549%20Thompson%2C%20Urquhart%2C%20Maye%2C%20Goodenough%20%282025%29%20Serious%20games%20and%20decision%20support%20tools%20-%20supporting%20farmer%20decision%20making%20for%20land%20use%20net%20zero.pdf"
     },
     {
+      "id": "paper-9bf69ee25a7e40b2",
+      "title": "English as a Foreign Language Instructors’ Professional Identity and Professional Development in Higher Education Institutions",
+      "url": "https://doktori.bibl.u-szeged.hu/id/eprint/13141/1/1.%20H_Qamariah_revised_%20Dissertation_HD.pdf",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-11-23T00:00:00+00:00",
+      "summary": "Teacher Professional identity (TPI) and professional development (PD) are key constructs for the quality of English as a Foreign Language (EFL) instruction in higher education. However, research in non Western contexts often lacks conceptual clarity and methodological depth in explaining how these constructs emerge and interact. Guided by a sociocultural perspective that views identity as socially constructed, negotiated, and…",
+      "authors": [
+        "Hijjatul Qamariah"
+      ],
+      "tags": [
+        "Teacher Education and Leadership Studies",
+        "EFL/ESL Teaching and Learning",
+        "Evaluation of Teaching Practices"
+      ],
+      "external_ids": {},
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doktori.bibl.u-szeged.hu/id/eprint/13141/1/1.%20H_Qamariah_revised_%20Dissertation_HD.pdf"
+    },
+    {
       "id": "paper-954d9999cc8054ba",
       "title": "From Prompt to Pwn: Exploiting GPU Memory Errors During ML Inference",
       "url": "https://lirias.kuleuven.be/handle/20.500.12942/793317",
@@ -2075,33 +2099,6 @@
         "citation_count": 0
       },
       "pdf_url": "https://journalecs.com/index.php/ecs/article/download/425/367"
-    },
-    {
-      "id": "paper-f9b03812feec19a0",
-      "title": "Environmental accounting curriculum construction: a study from environmentally challenging site",
-      "url": "http://repository.ubaya.ac.id/51368/",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-11-01T00:00:00+00:00",
-      "summary": "The demand for the business to engage more into sustainability issues contributes to the increasing challenge in accounting profession to adapt to it. Yet, previous studies that deeply investigate the effort to close the accounting graduates competencies gap through relevant curriculum are limited, especially in the context of environmentally fragile regions. The purpose of this study is to deeply investigate how environmenta…",
-      "authors": [
-        "Fidelis Arastyo Andono",
-        "Ach Maulidi",
-        "Jantje. E Lekatompessy"
-      ],
-      "tags": [
-        "rag",
-        "Sustainability in Higher Education",
-        "Accounting Education and Careers",
-        "Accounting and Financial Management"
-      ],
-      "external_ids": {},
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://repository.ubaya.ac.id/51368/3/1111-4507-2-PB%20lengkap.pdf"
     },
     {
       "id": "paper-ddb0708f275c89d4",
@@ -2656,34 +2653,6 @@
       ],
       "external_ids": {
         "arxiv": "2610.40600"
-      }
-    },
-    {
-      "id": "paper-da8d783a2c9da4b5",
-      "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "url": "https://arxiv.org/abs/2610.40599v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-10-29T17:50:26+00:00",
-      "summary": "The hair of stylized characters in games and avatars is built from hair cards: artist-placed ribbons whose geometry is the visible hair, animated by spring bones. Existing image-based methods produce realistic hair or a single fused mesh, while CHARM, the only generator of stylized hair cards, decodes a hairstyle autoregressively as a long sequence of control points. Observing that a card hairstyle is an unordered set of arti…",
-      "authors": [
-        "Yuze He",
-        "Yixiang Wei",
-        "Wang Zhao",
-        "Chuhao Chen",
-        "Yanning Zhou",
-        "Yong-Jin Liu"
-      ],
-      "tags": [
-        "diffusion",
-        "transformer",
-        "cs.CV",
-        "cs.GR"
-      ],
-      "external_ids": {
-        "arxiv": "2610.40599"
       }
     },
     {
@@ -4935,6 +4904,29 @@
       ],
       "external_ids": {
         "arxiv": "2610.40364"
+      }
+    },
+    {
+      "id": "paper-3af4a5b3bc316b03",
+      "title": "Your LR Schedule May Not Be Principled: Effective Learning Rate Scheduling in Weight-Normalized Training",
+      "url": "https://arxiv.org/abs/2610.40362v1",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "published": "2026-10-29T16:15:08+00:00",
+      "summary": "Weight-normalized (WN) training is emerging as a compelling alternative to conventional weight decay (WD), with recent studies reporting substantial pretraining loss gains. We show that these gains are driven primarily by the induced effective learning rate (ELR) trajectory rather than by normalization alone. Matching ELR trajectories largely collapses the training loss dynamics of WN and WD. Schedule design should therefore…",
+      "authors": [
+        "Qifan Yu",
+        "Xinyu Ma",
+        "Xingyan Bin",
+        "Di He"
+      ],
+      "tags": [
+        "cs.LG"
+      ],
+      "external_ids": {
+        "arxiv": "2610.40362"
       }
     }
   ],
