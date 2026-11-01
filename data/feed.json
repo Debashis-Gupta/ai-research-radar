@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T15:04:25.190696+00:00",
+  "generated_at": "2026-11-01T20:28:26.067590+00:00",
   "papers": [
     {
       "id": "paper-7684414b3a21f382",
@@ -394,6 +394,35 @@
       "pdf_url": null
     },
     {
+      "id": "paper-99e4d9b42875be4f",
+      "title": "Interpretable machine learning for prediction and regulation of bio-oil production, quality, and nitrogen content",
+      "url": "https://www.semanticscholar.org/paper/e7bf2fe280b39ff00ec4d4b369f525a4947e481e",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Chen Hao",
+        "Hong Tian",
+        "Zhang-Jun Huang",
+        "Tie-Yi Li",
+        "Jun Xiong"
+      ],
+      "tags": [
+        "machine learning",
+        "Biomass & Bioenergy"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.biombioe.2026.110104"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-4e9edcbbc8f86244",
       "title": "Data & Script for Enhanced Rockburst Hazard Prediction through Generative Data Augmentation and Explainable Machine Learning Frameworks",
       "url": "https://doi.org/10.17632/7vm635jzd5",
@@ -678,6 +707,40 @@
       ],
       "external_ids": {
         "doi": "10.1016/j.infsof.2026.108351"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-6588f0a5541b47a0",
+      "title": "An impedance cytometry enabled with inertial manipulation and machine learning for phenotyping cells",
+      "url": "https://www.semanticscholar.org/paper/f1d624929a8344a2296e3c5624fbd26df88ec446",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Long-Long Wang",
+        "Zheng Zhou",
+        "Ming Chen",
+        "Jun-Hao Liu",
+        "Yu-Jia Wang",
+        "Feng Yang",
+        "Ji-Quan Yang",
+        "Wen-Lai Tang",
+        "Rining Tang",
+        "Shu Zhu"
+      ],
+      "tags": [
+        "machine learning",
+        "Measurement"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.measurement.2026.123735"
       },
       "metrics": {
         "citation_count": 0
@@ -5180,55 +5243,6 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.66348/spider.books.v1.002.26"
-    },
-    {
-      "id": "paper-103f0d191c80b9d6",
-      "title": "Evaluating Software Quality Through Automated Testing and Predictive Defect Detection Using Machine Learning",
-      "url": "https://www.semanticscholar.org/paper/9e4f1fae3ab377a19b19c1a7c1298c1dd8f4c5dd",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-31T00:00:00+00:00",
-      "summary": "Software quality assurance increasingly depends on the ability to combine automated testing with data-driven estimates of defect risk. Conventional test suites reveal failures in executed scenarios but do not necessarily identify which untested changes are most likely to introduce faults. Machine learning models can prioritize code review and testing by learning associations between historical defect outcomes, code structure,…",
-      "authors": [
-        "F. Doshi-Velez"
-      ],
-      "tags": [
-        "machine learning",
-        "Computer Science Bulletin"
-      ],
-      "external_ids": {
-        "doi": "10.71465/csb228"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://csbulletin.com/index.php/csb/article/download/228/336"
-    },
-    {
-      "id": "paper-adec43ef40b913b7",
-      "title": "AI-Generated Advertising Content and Brand Authenticity: a Comparative Consumer Study",
-      "url": "https://www.semanticscholar.org/paper/8a2462201b5f9cadfc07e13f8b2e04126164445e",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2026-12-31T00:00:00+00:00",
-      "summary": "Generative AI now produces advertising copy, images and video at a fraction of the cost and time of human creative work, and the quality of its output is often indistinguishable from human-created content. What consumers make of it, once they know, is less clear. This paper examines perceived brand authenticity across three ad-creation conditions, human-created, AI-generated without disclosure and AI-generated with disclosure…",
-      "authors": [
-        "Umrbek Salayev"
-      ],
-      "tags": [
-        "Journals Fringe Multi-Engineering Proceedings"
-      ],
-      "external_ids": {
-        "doi": "10.69996/fmep.2026048"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
     }
   ],
   "blogs": [
