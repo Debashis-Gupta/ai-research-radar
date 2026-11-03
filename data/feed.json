@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:53:35.090806+00:00",
+  "generated_at": "2026-11-03T19:28:43.602457+00:00",
   "papers": [
     {
       "id": "paper-7684414b3a21f382",
@@ -488,9 +488,9 @@
         "OpenAlex"
       ],
       "published": "2027-01-01T00:00:00+00:00",
-      "summary": "The full abstract for this thesis is available in the body of the thesis, and will be available when the embargo expires.",
+      "summary": "Despite the rise in vaping, its effect on the lungs is not well characterized. Therefore, we aimed to investigate the effects of vaping on lung structure and vasculature, pulmonary function, and patient-reported respiratory symptom burden in young persons with minimal combustible",
       "authors": [
-        "Schmidt, Alexandra"
+        "Alexandra Schmidt"
       ],
       "tags": [
         "Smoking Behavior and Cessation",
@@ -563,37 +563,6 @@
       ],
       "external_ids": {
         "doi": "10.1016/j.jcis.2026.141499"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-ff3fe45ff7419915",
-      "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42734443",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "Intracerebral hemorrhage is a common and critical neurological emergency, and the inconsistent results of hyperbaric oxygen therapy make predicting outcomes challenging. Therefore, a reliable predictive model for outcomes is needed to improve treatment plans. This study used interpretable machine learning to determine key risk factors linked to adverse outcomes in cerebral hemorrhage patient post-hyperbaric oxygen therapy. To…",
-      "authors": [
-        "Congyi Ding",
-        "Jun Wu",
-        "Guangning Zhang",
-        "Xiaoming Feng",
-        "Jieyang Zhu"
-      ],
-      "tags": [
-        "machine learning",
-        "Intracerebral and Subarachnoid Hemorrhage Research",
-        "Intracranial Aneurysms: Treatment and Complications",
-        "Acute Ischemic Stroke Management"
-      ],
-      "external_ids": {
-        "doi": "10.4103/mgr.medgasres-d-25-00168"
       },
       "metrics": {
         "citation_count": 0
@@ -707,7 +676,7 @@
         "OpenAlex"
       ],
       "published": "2027-01-01T00:00:00+00:00",
-      "summary": "The full abstract for this thesis is available in the body of the thesis, and will be available when the embargo expires.",
+      "summary": "This thesis will examine Sikh diasporic masculine identities in Gautam Malkani'sLondonstani and Ranj Dhaliwal's Daaku and their operations as sites of critical investigation for the resignification of contemporary Sikh masculinities.In these two recent novels, Sikh diasporic masculinities are produced as young urban subcultural performances that are self-identified as rudeboy and gangster respectively.The naming and performan…",
       "authors": [
         "Kiran Kaur Sunar"
       ],
@@ -834,39 +803,6 @@
       "pdf_url": null
     },
     {
-      "id": "paper-e52041b43e13c0f4",
-      "title": "Therapeutic gases and the Nrf2/Keap1 pathway: direct thiol modification vs . indirect modulation.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667377/",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "The nuclear factor erythroid 2-related factor 2/Kelch-like Ech-associated protein 1 (Nrf2/Keap1) pathway is a central homeostatic module that integrates oxidant, electrophilic, inflammatory, and metabolic signals into adaptive transcriptional programs. In parallel, nitric oxide (NO), hydrogen sulfide (H 2 S), and molecular hydrogen (H 2 ) have emerged as therapeutically relevant gaseous mediators with distinct chemical identi…",
-      "authors": [
-        "Te Xiao",
-        "Chao Xia",
-        "Lisha Huang",
-        "Yanqi Li",
-        "Mengyu Liu",
-        "Pengxiang Zhao",
-        "Xuemei Ma",
-        "Fei Xie"
-      ],
-      "tags": [
-        "Genomics, phytochemicals, and oxidative stress",
-        "Sulfur Compounds in Biology",
-        "Redox biology and oxidative stress"
-      ],
-      "external_ids": {
-        "doi": "10.4103/mgr.medgasres-d-26-00086"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667377/pdf/MGR-17-261.pdf"
-    },
-    {
       "id": "paper-da3b6d6d74695561",
       "title": "Supplementary Material for \"Same Same, but Different: How Dedicated AI Leadership Roles Differentiate from Technology Leadership\"",
       "url": "https://doi.org/10.23728/b2share.7qxzn-4tw36",
@@ -894,65 +830,6 @@
         "citation_count": 0
       },
       "pdf_url": null
-    },
-    {
-      "id": "paper-b779f5d2fa3df590",
-      "title": "Hyperbaric oxygen for the treatment of traumatic incomplete spinal cord injury: a systematic review and meta-analysis of randomized controlled trials.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667362/",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "The therapeutic efficacy of hyperbaric oxygen therapy for traumatic incomplete spinal cord injury remains a subject of debate. To comprehensively evaluate the impact of hyperbaric oxygen on motor function, sensory function, and activities of daily living in patients with traumatic incomplete spinal cord injury, we conducted a systematic review and meta-analysis. We performed a comprehensive search across PubMed, Embase, the C…",
-      "authors": [
-        "Jiantao Shi",
-        "Hongfei Ge",
-        "Zhouyang Jiang",
-        "Guangjian He",
-        "Liang Tan",
-        "Rong Hu",
-        "Shengli Hu"
-      ],
-      "tags": [
-        "Spinal Cord Injury Research",
-        "Spinal Fractures and Fixation Techniques",
-        "Spinal Hematomas and Complications"
-      ],
-      "external_ids": {
-        "doi": "10.4103/mgr.medgasres-d-25-00250"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667362/pdf/MGR-17-89.pdf"
-    },
-    {
-      "id": "paper-6ff7a24a93390180",
-      "title": "Nitric oxide signaling and mitophagy in Parkinson's disease: implications for aerobic exercise-related neuroprotection.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667388/",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "Parkinson's disease is strongly associated with mitochondrial dysfunction and impaired mitochondrial quality control, including defective mitophagy. Aerobic exercise is increasingly recognized as a safe and accessible intervention that can improve motor and non-motor outcomes in Parkinson's disease and may also engage mechanisms relevant to disease modification. In this review, we propose a context-dependent framework in whic…",
-      "authors": [
-        "Yang Zhou",
-        "Yongliang Wu"
-      ],
-      "tags": [
-        "Parkinson's Disease Mechanisms and Treatments",
-        "Autophagy in Disease and Therapy",
-        "Nuclear Receptors and Signaling"
-      ],
-      "external_ids": {
-        "doi": "10.4103/mgr.medgasres-d-26-00008"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667388/pdf/MGR-17-129.pdf"
     },
     {
       "id": "paper-59fd29ff27e2d955",
@@ -1177,6 +1054,34 @@
       "pdf_url": "https://pub.respai.de/articles/1-2/is2-4.pdf"
     },
     {
+      "id": "paper-389ef023763cf044",
+      "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
+      "url": "https://pub.respai.de/articles/1-2/5ywu.html",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-31T00:00:00+00:00",
+      "summary": "This conceptual narrative review examines the role of generative artificial intelligence (AI) in Korean language learning. The paper synthesizes recent scholarship on AI-assisted language learning, Korean language education, technology acceptance, and educational ethics to develop an analytical framework for responsible classroom use. The review focuses on four dimensions: Korean language skills, Korean-specific linguistic an…",
+      "authors": [
+        "Yundong Wu"
+      ],
+      "tags": [
+        "artificial intelligence",
+        "rag",
+        "Artificial Intelligence in Education",
+        "EFL/ESL Teaching and Learning",
+        "Mobile Learning in Education"
+      ],
+      "external_ids": {
+        "doi": "10.17613/g7mbr-1s626"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://pub.respai.de/articles/1-2/is2-5.pdf"
+    },
+    {
       "id": "paper-75c7bc58fdd444e5",
       "title": "DYNAMICS OF PORTFOLIO ASSESSMENT STRATEGY IN EVALUATING THE ENGLISH LANGUAGE SKILLS FOR PUPILS WITH HEARING IMPAIRMENTS IN FAKO DIVISION, SOUTH WEST REGION OF CAMEROON",
       "url": "https://ubueajournals.org/index.php/index/article/view/28",
@@ -1233,34 +1138,6 @@
       "pdf_url": "https://pub.respai.de/articles/1-1/is1-10.pdf"
     },
     {
-      "id": "paper-389ef023763cf044",
-      "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
-      "url": "https://pub.respai.de/articles/1-2/5ywu.html",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-12-31T00:00:00+00:00",
-      "summary": "This conceptual narrative review examines the role of generative artificial intelligence (AI) in Korean language learning. The paper synthesizes recent scholarship on AI-assisted language learning, Korean language education, technology acceptance, and educational ethics to develop an analytical framework for responsible classroom use. The review focuses on four dimensions: Korean language skills, Korean-specific linguistic an…",
-      "authors": [
-        "Yundong Wu"
-      ],
-      "tags": [
-        "artificial intelligence",
-        "rag",
-        "Artificial Intelligence in Education",
-        "EFL/ESL Teaching and Learning",
-        "Mobile Learning in Education"
-      ],
-      "external_ids": {
-        "doi": "10.17613/g7mbr-1s626"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://pub.respai.de/articles/1-2/is2-5.pdf"
-    },
-    {
       "id": "paper-b17e10e9dd1537ed",
       "title": "Algorithmic Justice and Responsible AI Journalism: A Comparative Communication Policy Perspective in East Asia",
       "url": "https://philpapers.org/rec/HUAAJA",
@@ -1287,6 +1164,87 @@
         "citation_count": 0
       },
       "pdf_url": "https://philpapers.org/archive/HUAAJA.pdf"
+    },
+    {
+      "id": "paper-84e0eb4b5473f7cc",
+      "title": "From Legal Databases to AI-Assisted Justice: A Risk-Sensitive Framework for the Application of Information Technologies in Law",
+      "url": "https://philpapers.org/rec/LIFLDC",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-31T00:00:00+00:00",
+      "summary": "This paper analyzes information technologies in law and proposes a risk-sensitive framework for responsible digital legal practice. Using EU regulatory developments as the main legal lens, while also referring to international standards and policy materials, the study reviews legal databases, case-management systems, artificial intelligence and natural language processing, electronic identification and signatures, digital evi…",
+      "authors": [
+        "Li Yongxin"
+      ],
+      "tags": [
+        "artificial intelligence",
+        "natural language processing",
+        "Artificial Intelligence in Law",
+        "Digitalization, Law, and Regulation",
+        "Digital Transformation in Law"
+      ],
+      "external_ids": {
+        "doi": "10.17613/zf92n-68j61"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://philpapers.org/archive/LIFLDC.pdf"
+    },
+    {
+      "id": "paper-e96ca61cf7a27e0f",
+      "title": "Fast Solution Methods for the Classical 0–1 Knapsack Problem",
+      "url": "https://refuture.respai.de/articles/1-1/fast-solution-methods-for-the-classical-01-knapsack-problem-20260722-e6b499.html",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-31T00:00:00+00:00",
+      "summary": "The classical 0--1 knapsack problem is among the simplest integer programs to state and among the most instructive problems for understanding why algorithm selection must follow instance structure. An input contains items with positive integer weights and profits, and the task is to choose a maximum-profit subset whose total weight does not exceed a capacity. The problem is weakly NP-hard, yet many large instances are solved…",
+      "authors": [
+        "Hsu Feng"
+      ],
+      "tags": [
+        "optimization",
+        "Optimization and Packing Problems",
+        "Complexity and Algorithms in Graphs",
+        "Metaheuristic Optimization Algorithms Research"
+      ],
+      "external_ids": {
+        "doi": "10.17613/v2gfg-a2445"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://refuture.respai.de/articles/1-1/fast-solution-methods-for-the-classical-01-knapsack-problem-20260722-e6b499.pdf"
+    },
+    {
+      "id": "paper-2fa555daba95c6c2",
+      "title": "Borrowed Shame: Hao Hongmei as a Narrative Resource for Sun Shaoping's Moral Image",
+      "url": "https://refuture.respai.de/articles/1-1/borrowed-shame-hao-hongmei-as-a-narrative-resource-for-sun-shaopings-moral-image-20260722-.html",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-31T00:00:00+00:00",
+      "summary": "This article reconsiders one of the most frequently moralized episodes in Lu Yao's Ordinary World: Hao Hongmei's theft of handkerchiefs at the end of high school and Sun Shaoping's intervention on her behalf. Existing readings often treat the incident as evidence of Hao's vanity, compromised character, or eventual moral education. Such interpretations remain too close to the evaluative grammar supplied by the novel itself. Th…",
+      "authors": [
+        "Khoo-Hong Chang"
+      ],
+      "tags": [
+        "Narrative Theory and Analysis",
+        "Ethics, Aesthetics, and Art",
+        "Literature: history, themes, analysis"
+      ],
+      "external_ids": {
+        "doi": "10.17613/v6wtk-qct45"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://refuture.respai.de/articles/1-1/borrowed-shame-hao-hongmei-as-a-narrative-resource-for-sun-shaopings-moral-image-20260722-.pdf"
     },
     {
       "id": "paper-64f653a682c0b14f",
@@ -1792,6 +1750,139 @@
       "pdf_url": "https://eprints.whiterose.ac.uk/id/eprint/243733/1/ludicdramaturgy.pdf"
     },
     {
+      "id": "paper-a84199d47b013b21",
+      "title": "GDformer: Going Beyond Subsequence Isolation for Multivariate Time Series Anomaly Detection",
+      "url": "https://doi.org/10.1145/3799682.3840644",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": "Unsupervised anomaly detection of multivariate time series is a challenging task, given the requirements of deriving a compact detection criterion without accessing the anomaly points. The existing methods are mainly based on reconstruction error or association divergence, which are both confined to isolated subsequences with limited horizons, hardly promising unified series-level criterion. In this paper, we propose the Glob…",
+      "authors": [
+        "Qingxiang Liu",
+        "Xiaoliang Luo",
+        "Chenghao Liu",
+        "Sheng Sun",
+        "Di Yao",
+        "Lvchun Wang",
+        "Wei Yu",
+        "Yuxuan Liang"
+      ],
+      "tags": [
+        "transformer",
+        "Anomaly Detection Techniques and Applications",
+        "Time Series Analysis and Forecasting",
+        "Software System Performance and Reliability"
+      ],
+      "external_ids": {
+        "doi": "10.1145/3799682.3840644"
+      },
+      "metrics": {
+        "citation_count": 5
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-28268f87a4109ec4",
+      "title": "Large Language Model as Universal Retriever in Industrial-Scale Recommender System",
+      "url": "https://doi.org/10.1145/3799682.3840090",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": "In real-world recommender systems, different retrieval objectives are typically addressed using task-specific datasets with carefully designed model architectures. We demonstrate that Large Language Models (LLMs) can function as universal retrievers, capable of handling multiple objectives within a generative retrieval framework. To model complex user-item relationships within generative retrieval, we propose multi-query repr…",
+      "authors": [
+        "Junguang Jiang",
+        "Yanwen Huang",
+        "Liu Bin",
+        "Xiaoyu Kong",
+        "Xinhang Li",
+        "Ziru Xu",
+        "Han Zhu",
+        "Jian Xu",
+        "Bo Zheng"
+      ],
+      "tags": [
+        "large language model",
+        "llm",
+        "probabilistic",
+        "Recommender Systems and Techniques",
+        "Information Retrieval and Search Behavior"
+      ],
+      "external_ids": {
+        "doi": "10.1145/3799682.3840090"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-dc6a567cc085af2a",
+      "title": "FinMamba: Market-Aware Graph Enhanced Multi-Level Mamba for Stock Movement Prediction",
+      "url": "https://doi.org/10.1145/3799682.3840638",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": "Recently, combining stock features with inter-stock correlations has become a common and effective approach for stock movement prediction. However, financial data presents significant challenges due to its low signal-to-noise ratio and the dynamic complexity of the market, which give rise to two key limitations in existing methods. First, the relationships between stocks are highly influenced by multifaceted factors including…",
+      "authors": [
+        "Yifan Hu",
+        "Peiyuan Liu",
+        "Yijie Li",
+        "Dawei Cheng",
+        "Naiqi Li",
+        "Tao Dai",
+        "Jigang Bao",
+        "Shu‐Tao Xia"
+      ],
+      "tags": [
+        "Stock Market Forecasting Methods",
+        "Time Series Analysis and Forecasting",
+        "Financial Markets and Investment Strategies"
+      ],
+      "external_ids": {
+        "doi": "10.1145/3799682.3840638"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-6b3bb0a5808d685a",
+      "title": "Exploring Model Invariance with Discrete Search for Ultra-Low-Bit Quantization",
+      "url": "https://doi.org/10.1145/3799682.3840768",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": "Large language models have been increasing in size due to their success in a wide range of applications. This calls for a pressing need to reduce memory usage to make them more accessible. Post-training quantization is a popular technique which uses fewer bits (e.g., 4--8 bits) to represent the model without retraining it. However, it remains a challenging task to perform quantization in an ultra-low-bit setup (e.g., 2 bits).…",
+      "authors": [
+        "Yuqiao Wen",
+        "Yanshuai Cao",
+        "Lili Mou"
+      ],
+      "tags": [
+        "neural network",
+        "large language model",
+        "Advanced Neural Network Applications",
+        "Topic Modeling",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "external_ids": {
+        "doi": "10.1145/3799682.3840768"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
       "id": "paper-9db14edabf489bb5",
       "title": "Discovering Hierarchy-Grounded Domains with Adaptive Granularity for Clinical Domain Generalization",
       "url": "https://doi.org/10.1145/3799682.3840625",
@@ -1823,34 +1914,30 @@
       "pdf_url": null
     },
     {
-      "id": "paper-861b060b5a34e3f1",
-      "title": "HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommendation Systems",
-      "url": "https://doi.org/10.1145/3799682.3840124",
+      "id": "paper-6ddab73917cc1c83",
+      "title": "ELBO TDS : Temporal Distribution Shift Generalization for Industry-Scale Recommender Systems",
+      "url": "https://doi.org/10.1145/3799682.3840097",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex"
       ],
       "published": "2026-11-03T00:00:00+00:00",
-      "summary": "Modern recommender systems leverage ultra-long user behavior sequences to capture dynamic preferences, but end-to-end modeling is infeasible in production due to latency and memory constraints. While summarizing history via interest centers offers a practical alternative, existing methods struggle to (1) identify user-specific centers at appropriate granularity and (2) accurately assign behaviors, leading to quantization erro…",
+      "summary": "Temporal distribution shift (TDS) erodes the long-term accuracy of recommender systems, yet industrial practice still relies on periodic incremental training, which struggles to capture both stable and transient patterns. Existing approaches such as invariant learning and self-supervised learning offer partial solutions but often suffer from unstable temporal generalization, representation collapse, or inefficient data utiliz…",
       "authors": [
-        "Kun Yuan",
-        "Junyu Bi",
-        "Daixuan Cheng",
-        "Changfa Wu",
-        "Shuwen Xiao",
-        "Binbin Cao",
-        "Jian Wu",
-        "Yuning Jiang"
+        "Yuxuan Zhu",
+        "Cong Fu",
+        "Yabo Ni",
+        "Anxiang Zeng",
+        "Yuan Fang"
       ],
       "tags": [
-        "agent",
-        "rag",
+        "probabilistic",
         "Recommender Systems and Techniques",
         "Information Retrieval and Search Behavior",
         "Advanced Bandit Algorithms Research"
       ],
       "external_ids": {
-        "doi": "10.1145/3799682.3840124"
+        "doi": "10.1145/3799682.3840097"
       },
       "metrics": {
         "citation_count": 0
@@ -1858,158 +1945,68 @@
       "pdf_url": null
     },
     {
-      "id": "paper-793f95296f8ac335",
-      "title": "Paper Espresso: From Paper Overload to Research Insight",
-      "url": "https://doi.org/10.1145/3799682.3840141",
+      "id": "paper-38c3021cf64cab30",
+      "title": "Stitch the Fragments: One-Shot Hierarchical Federated Clustering",
+      "url": "https://doi.org/10.1145/3799682.3840053",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex"
       ],
       "published": "2026-11-03T00:00:00+00:00",
-      "summary": "The accelerating pace of scientific publishing makes it increasingly difficult for researchers to stay current. We present Paper Espresso, an open-source platform that automatically discovers, summarizes, and analyzes trending arXiv papers. The system uses large language models (LLMs) to generate structured summaries with topical labels and keywords, and provides multi-granularity trend analysis at daily, weekly, and monthly…",
+      "summary": "Federated Clustering (FC) faces a critical bottleneck in real-world scenarios, i.e., global clusters are rarely intact, often fragmenting into incomplete, multi-granular unlabeled ``clusterlets'' distributed across Non-IID clients. Although hierarchical clustering is theoretically well-suited to model such nested distributions, its recursive nature strictly relies on multi-round communication, introducing prohibitive computat…",
       "authors": [
-        "Mingzhe Du",
-        "Luu Anh Tuan",
-        "Dong Huang",
-        "See-Kiong Ng"
+        "Shenghong Cai",
+        "Zihua Yang",
+        "Yang Lu",
+        "Yiqun Zhang",
+        "Yuzhu Ji",
+        "Yang Lu",
+        "Yiu‐ming Cheung"
       ],
       "tags": [
+        "machine learning",
+        "rag",
+        "Privacy-Preserving Technologies in Data",
+        "Advanced Clustering Algorithms Research",
+        "Machine Learning and Data Classification"
+      ],
+      "external_ids": {
+        "doi": "10.1145/3799682.3840053"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-bc29dbb19bee4995",
+      "title": "Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models",
+      "url": "https://doi.org/10.1145/3799682.3840753",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": "Retrieval-Augmented Generation (RAG) is a promising technique for applying LLMs to proprietary domains. However, retrieved documents may contain sensitive knowledge, posing risks of privacy leakage in generative results. Thus, effectively erasing private information from retrieved documents is a key challenge for RAG. Unlike traditional text anonymization, RAG should consider: (1) the inherent multi-document reasoning may fac…",
+      "authors": [
+        "Yujing Wang",
+        "Jinwen Chen",
+        "Hainan Zhang",
+        "Liang Pang",
+        "Yongxin Tong",
+        "Binghui Guo",
+        "Zhiming Zheng",
+        "Zhiming Zheng"
+      ],
+      "tags": [
+        "machine learning",
         "large language model",
         "llm",
-        "reinforcement learning",
-        "reasoning",
-        "Topic Modeling"
+        "knowledge graph",
+        "reasoning"
       ],
       "external_ids": {
-        "doi": "10.1145/3799682.3840141"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-9a71ad9bc3da229c",
-      "title": "Multi-View Hierarchical Graph Neural Network for Sketch-Based 3D Shape Retrieval",
-      "url": "https://doi.org/10.1145/3799682.3840951",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "Sketch-based 3D shape retrieval (SBSR) aims to retrieve 3D shapes that are consistent with the category of the input hand-drawn sketch. The core challenge of this task lies in two aspects: existing methods typically employ simplified aggregation strategies for independently encoded 3D multi-view features, which ignore the geometric relationships between views and multi-level details, resulting in weak 3D representation. Simul…",
-      "authors": [
-        "Hang Cheng",
-        "Muyan He",
-        "Mingyu Fan",
-        "Chengfeng Xie",
-        "Xi Cheng",
-        "Chenxi Zhai",
-        "Long Zeng"
-      ],
-      "tags": [
-        "neural network",
-        "alignment",
-        "rag",
-        "3D Shape Modeling and Analysis",
-        "Advanced Image and Video Retrieval Techniques"
-      ],
-      "external_ids": {
-        "doi": "10.1145/3799682.3840951"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-5d0913dcc96452aa",
-      "title": "ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization",
-      "url": "https://doi.org/10.1145/3799682.3841072",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "For a long time, additive quantizers, such as product quantization, have been considered the gold standard in terms of accuracy and efficiency. Recently, scalar quantization has re-emerged from the depths of history with a new wave of data-agnostic techniques. Inscribed in this general framework, we turn our attention to data-driven methods, showing that new highs in recall and speed can be achieved by reducing the number of…",
-      "authors": [
-        "Mariano Tepper",
-        "Theodore L. Willke"
-      ],
-      "tags": [
-        "Advanced Image and Video Retrieval Techniques",
-        "Advanced Data Compression Techniques",
-        "Image Retrieval and Classification Techniques"
-      ],
-      "external_ids": {
-        "doi": "10.1145/3799682.3841072"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-18c5bc1abced9df6",
-      "title": "Neural Tree Collaborative Filtering: Rethinking Graph Collaborative Filtering as Tree Collaborative Filtering with Curvature-Aware Propagation Depth",
-      "url": "https://doi.org/10.1145/3799682.3839882",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "Graph Collaborative Filtering (GCF) has become the dominant paradigm in modern recommender systems by modeling user-item interactions as a bipartite graph and propagating embeddings through a fixed number of message-passing layers. However, applying a uniform propagation depth to every node ignores a fundamental property of real interaction graphs: nodes differ substantially in their local connectivity, so peripheral nodes qu…",
-      "authors": [
-        "Jinfeng Xu",
-        "Zheyu Chen",
-        "Ziyue Peng",
-        "Shuo Yang",
-        "Jinze Li",
-        "Wenhao Yuan",
-        "Jian Chen",
-        "Shujie Li",
-        "Edith C.‐H. Ngai"
-      ],
-      "tags": [
-        "neural network",
-        "Recommender Systems and Techniques",
-        "Advanced Graph Neural Networks",
-        "Complex Network Analysis Techniques"
-      ],
-      "external_ids": {
-        "doi": "10.1145/3799682.3839882"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-c4e0faee45abd7d8",
-      "title": "FedCGR: Federated Cross-Domain Generative Recommendation",
-      "url": "https://doi.org/10.1145/3799682.3840895",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "Cross-domain recommendation (CDR) transfers preference knowledge across related domains, but federated deployment makes cross-domain alignment difficult because the behavioral anchors that align item spaces, such as overlapping users and shared interaction signals, are often sparse, unavailable, or privacy-sensitive across clients. To address this tension, we revisit federated CDR as generation over a stable semantic item lan…",
-      "authors": [
-        "Zhuodong Liu",
-        "Hugen Lv",
-        "Xiangyu Li",
-        "Bohan Guo",
-        "Peiyu Hu"
-      ],
-      "tags": [
-        "alignment",
-        "rag",
-        "Recommender Systems and Techniques",
-        "Privacy-Preserving Technologies in Data",
-        "Domain Adaptation and Few-Shot Learning"
-      ],
-      "external_ids": {
-        "doi": "10.1145/3799682.3840895"
+        "doi": "10.1145/3799682.3840753"
       },
       "metrics": {
         "citation_count": 0
@@ -2047,83 +2044,6 @@
       ],
       "external_ids": {
         "doi": "10.1145/3799682.3840094"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-4c906bad42129800",
-      "title": "Learning a Single Token to Replace Long System Prompts in LLMs",
-      "url": "https://doi.org/10.1145/3799682.3840759",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "Long system prompts are widely used to steer Large Language Models (LLMs), but repeatedly processing them at inference time is inefficient and consumes valuable context budget. This motivates a central question: can the behavioral effect of a long system prompt be retained using only a minimal learned representation? To enable this, we propose a lightweight training framework that learns a single Behavior-Equivalent Token ([B…",
-      "authors": [
-        "Jiancheng Dong",
-        "Pengyue Jia",
-        "Jingyu Peng",
-        "Maolin Wang",
-        "Yuhao Wang",
-        "Lixin Su",
-        "Xin Sun",
-        "Shuaiqiang Wang",
-        "Dawei Yin",
-        "Xiangyu Zhao"
-      ],
-      "tags": [
-        "large language model",
-        "llm",
-        "natural language processing",
-        "Topic Modeling",
-        "Natural Language Processing Techniques"
-      ],
-      "external_ids": {
-        "doi": "10.1145/3799682.3840759"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-c7ec1e2d01736d9d",
-      "title": "HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent",
-      "url": "https://doi.org/10.1145/3799682.3840166",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "Slate recommendation, which presents users with a ranked item list in a single display, is ubiquitous across mainstream online platforms. While recent generative recommendation methods have shown strong potential in modeling item sequences with semantic IDs, directly applying them to industrial-scale slate recommendation faces a fundamental disconnect: entangled SID spaces confound high-level list planning, fine-grained autor…",
-      "authors": [
-        "Yunsheng Pang",
-        "Zijian Liu",
-        "Yudong Li",
-        "Shaojie Zhu",
-        "Zijian Luo",
-        "Chenyun YU",
-        "Sikai Wu",
-        "Shichen Shen",
-        "Cong Xu",
-        "Bin Wang",
-        "Kai Jiang",
-        "Chengxiang Zhuo",
-        "Zang Li"
-      ],
-      "tags": [
-        "alignment",
-        "rag",
-        "Recommender Systems and Techniques",
-        "Information Retrieval and Search Behavior",
-        "Advanced Bandit Algorithms Research"
-      ],
-      "external_ids": {
-        "doi": "10.1145/3799682.3840166"
       },
       "metrics": {
         "citation_count": 0
@@ -5007,9 +4927,104 @@
       "external_ids": {
         "arxiv": "2611.03357"
       }
+    },
+    {
+      "id": "paper-fff8e2d5777cea5b",
+      "title": "Neural Actor--Critic Learning with Minimax Critics and Reflected Langevin Sampling",
+      "url": "https://arxiv.org/abs/2611.03352v1",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "published": "2026-11-02T16:05:40+00:00",
+      "summary": "Actor--critic methods rely on critic gradients to improve continuous-action policies, yet finite-sample guarantees must control both value and gradient errors and their propagation through the actor. We develop a neural actor-critic procedure that combines a regularized minimax Bellman estimator over sigmoid networks with a finite reflected Langevin sampler driven by the fitted critic gradient. Under uniform Bellman regularit…",
+      "authors": [
+        "Kunqi Huang",
+        "Lican Kang",
+        "Hongrui Shu",
+        "Jincheng Ying"
+      ],
+      "tags": [
+        "llm",
+        "multimodal",
+        "stat.ML",
+        "cs.LG"
+      ],
+      "external_ids": {
+        "arxiv": "2611.03352"
+      }
+    },
+    {
+      "id": "paper-2b790ecf148024a4",
+      "title": "Certifying Graph Neural Networks Against Label and Structure Poisoning",
+      "url": "https://arxiv.org/abs/2611.03350v1",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "published": "2026-11-02T16:03:29+00:00",
+      "summary": "Robust machine learning for graph-structured data has made significant progress against test-time attacks, yet certified robustness to poisoning - where adversaries manipulate the training data - remains largely underexplored. For image data, state-of-the-art poisoning certificates rely on partitioning-and-aggregation schemes. However, we show that these methods fail when applied in the graph domain due to the inherent label…",
+      "authors": [
+        "Lukas Gosch",
+        "Xichuan Chen",
+        "Yan Scholten",
+        "Stephan Günnemann"
+      ],
+      "tags": [
+        "machine learning",
+        "neural network",
+        "cs.LG"
+      ],
+      "external_ids": {
+        "arxiv": "2611.03350"
+      }
     }
   ],
   "blogs": [
+    {
+      "id": "blog-a55665cf48953af7",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face",
+      "published": "2026-11-03T17:15:21+00:00",
+      "summary": "",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-7b04a568c5adccd6",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "published": "2026-11-03T17:01:49+00:00",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "blog-bc4177032a04e266",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face",
+      "published": "2026-11-03T16:35:36+00:00",
+      "summary": "",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-26c6032e1d267765",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI",
+      "published": "2026-11-03T12:00:00+00:00",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "id": "blog-08b710f1e7801fa8",
       "title": "Heimstaden is changing residential real estate management with AI",
@@ -5019,6 +5034,17 @@
       "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
       "tags": [
         "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-20954e3ac0ff87f7",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face",
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": "",
+      "tags": [
+        "rag"
       ]
     },
     {
@@ -5088,23 +5114,23 @@
       ]
     },
     {
-      "id": "blog-598c6194c0d34c23",
-      "title": "Qodo builds context into AI code review with Codex",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "source": "OpenAI",
-      "published": "2026-11-02T00:00:00+00:00",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-ff138f709a7e7c37",
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI",
       "published": "2026-11-02T00:00:00+00:00",
       "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-598c6194c0d34c23",
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "source": "OpenAI",
+      "published": "2026-11-02T00:00:00+00:00",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
       "tags": [
         "AI/ML"
       ]
@@ -5309,17 +5335,6 @@
       ]
     },
     {
-      "id": "blog-34370e88c88d0cd4",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "source": "Hugging Face",
-      "published": "2026-10-27T16:12:42+00:00",
-      "summary": "",
-      "tags": [
-        "llm"
-      ]
-    },
-    {
       "id": "blog-d17d13a0006a776d",
       "title": "Genie 4: A new generation of world simulation",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
@@ -5452,17 +5467,6 @@
       ]
     },
     {
-      "id": "blog-48e2274fdf2ba9fe",
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI",
-      "published": "2026-10-23T10:00:00+00:00",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-6430909168b58685",
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "url": "https://huggingface.co/blog/torch-neuronx-model-support",
@@ -5491,17 +5495,6 @@
       "source": "Google DeepMind",
       "published": "2026-10-22T14:30:24+00:00",
       "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-5d118fadbe793ddd",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face",
-      "published": "2026-10-22T07:51:31+00:00",
-      "summary": "",
       "tags": [
         "AI/ML"
       ]
@@ -5644,28 +5637,6 @@
       "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "source": "Google DeepMind",
       "published": "2026-10-13T19:43:07+00:00",
-      "summary": "",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-550c4c02e9ff21a9",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "source": "Hugging Face",
-      "published": "2026-10-13T17:05:48+00:00",
-      "summary": "",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
-      "id": "blog-884ebf3c3978ea46",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "source": "Google DeepMind",
-      "published": "2026-10-13T16:01:58+00:00",
       "summary": "",
       "tags": [
         "AI/ML"
