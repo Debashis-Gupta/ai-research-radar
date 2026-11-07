@@ -1,6 +1,67 @@
 {
-  "generated_at": "2026-11-07T00:06:05.025932+00:00",
+  "generated_at": "2026-11-07T05:53:55.800721+00:00",
   "papers": [
+    {
+      "id": "paper-808106f317a48281",
+      "title": "Simulated Data: Design of a Microstrip Antenna Using Machine Learning",
+      "url": "https://doi.org/10.17632/6b2dmyfj6y",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-11-03T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Jose Torres"
+      ],
+      "tags": [
+        "machine learning",
+        "optimization",
+        "Antenna Design and Optimization",
+        "Antenna Design and Analysis",
+        "Advanced Antenna and Metasurface Technologies"
+      ],
+      "external_ids": {
+        "doi": "10.17632/6b2dmyfj6y"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-7684414b3a21f382",
+      "title": "Data and code for: In silico screening of natural compounds targeting outer membrane protein A (OmpA) in Klebsiella pneumoniae",
+      "url": "https://doi.org/10.5281/zenodo.23140529",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-10-10T00:00:00+00:00",
+      "summary": "This dataset contains the data and code supporting an in silico screening study identifying natural compound inhibitors of outer membrane protein A (OmpA) in Klebsiella pneumoniae. It includes the labeled and filtered bioactivity training data used to build machine-learning QSAR models (Random Forest, SVM, KNN, Gaussian Naïve Bayes), the QSAR modeling code, the full SuperNatural 3.0 natural compound library with predicted pMI…",
+      "authors": [
+        "Yasmine El Fathi Lalaoui",
+        "Yassir Boulaamane",
+        "Bothayna Ajmi",
+        "Hassan Nour",
+        "Samir Chtita",
+        "Mohammed Reda Britel",
+        "Younes Smani",
+        "Amal Maurady"
+      ],
+      "tags": [
+        "Computational Drug Discovery Methods",
+        "Synthesis and Characterization of Heterocyclic Compounds",
+        "Synthesis and Biological Evaluation"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.23140529"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
     {
       "id": "paper-fe145681b9cab3e1",
       "title": "Can Large Language Models Perceive Low-Cost Prosocial Behavior",
@@ -24,6 +85,33 @@
       ],
       "external_ids": {
         "doi": "10.17632/nfmz7fn4g2"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-a0ed8943c5442c71",
+      "title": "Dataset for Acetylation-Related Three-Gene Signature in Schizophrenia: Integrative Transcriptomics, Machine Learning Diagnosis, and Immune Associations",
+      "url": "https://doi.org/10.17632/ntt4dkkwhk",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-09-14T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "di di"
+      ],
+      "tags": [
+        "machine learning",
+        "Schizophrenia research and treatment",
+        "Epigenetics and DNA Methylation",
+        "Bioinformatics and Genomic Networks"
+      ],
+      "external_ids": {
+        "doi": "10.17632/ntt4dkkwhk"
       },
       "metrics": {
         "citation_count": 0
@@ -172,6 +260,114 @@
       "pdf_url": null
     },
     {
+      "id": "paper-741ac89ba327f8c6",
+      "title": "The predictive value of machine learning models based on RANKL and OPG for the risk of bone loss in patients with ulcerative colitis",
+      "url": "https://doi.org/10.5281/zenodo.19982495",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-06-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Renyu Liang"
+      ],
+      "tags": [
+        "machine learning",
+        "Bone Metabolism and Diseases",
+        "Bone health and osteoporosis research",
+        "Inflammatory Bowel Disease"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.19982495"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-f0a0f5dda24f44d8",
+      "title": "Machine learning models incorporating RANKL and OPG to identify prevalent low bone mineral density in patients with ulcerative colitis",
+      "url": "https://doi.org/10.5281/zenodo.23243394",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-05-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Renyu Liang"
+      ],
+      "tags": [
+        "machine learning",
+        "Bone health and osteoporosis research",
+        "Inflammatory Bowel Disease",
+        "Bone Metabolism and Diseases"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.23243394"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-270ff7c89d85dd37",
+      "title": "Predictive Value of Different Machine Learning Models for Clinical Pregnancy Outcomes in Patients with Polycystic Ovary Syndrome Undergoing IVF/ICSI Treatment",
+      "url": "https://doi.org/10.5281/zenodo.19983747",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-03-31T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Guzainuer Ailiniyazi"
+      ],
+      "tags": [
+        "machine learning",
+        "Ovarian function and disorders",
+        "Reproductive Health and Technologies",
+        "Assisted Reproductive Technology and Twin Pregnancy"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.19983747"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-f501cb2cb0c99b35",
+      "title": "Data and Code for Machine Learning-Assisted Automated Kinetic Mechanism Discrimination for Accelerated Population Balance Model Development",
+      "url": "https://doi.org/10.17632/zf9bykrkn7",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-03-22T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Bocheng Ouyang"
+      ],
+      "tags": [
+        "machine learning",
+        "Thermal and Kinetic Analysis",
+        "Machine Learning in Materials Science",
+        "Control Systems and Identification"
+      ],
+      "external_ids": {
+        "doi": "10.17632/zf9bykrkn7"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
       "id": "paper-e3519cb89980b121",
       "title": "An Approach for Specifying Reinforcement Learning Systems",
       "url": "https://doi.org/10.5281/zenodo.22168076",
@@ -219,6 +415,243 @@
       ],
       "external_ids": {
         "doi": "10.5281/zenodo.22803274"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-4e9edcbbc8f86244",
+      "title": "Data & Script for Enhanced Rockburst Hazard Prediction through Generative Data Augmentation and Explainable Machine Learning Frameworks",
+      "url": "https://doi.org/10.17632/7vm635jzd5",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-01-30T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Ibrahim TIjani",
+        "Abiodun Ismail Lawal",
+        "François K. Mulenga",
+        "Sangki Kwon",
+        "Hasan Haroglu"
+      ],
+      "tags": [
+        "machine learning",
+        "Rock Mechanics and Modeling",
+        "Tunneling and Rock Mechanics",
+        "Geotechnical and Geomechanical Engineering"
+      ],
+      "external_ids": {
+        "doi": "10.17632/7vm635jzd5"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-a6b39694f4a243e2",
+      "title": "Supplementary Material 2 for In Situ Longitudinal Assessment of GelMA Hydrogel Mechanical Properties Under Tissue Engineering Conditions Using Near Infrared Spectroscopy and Machine Learning",
+      "url": "https://doi.org/10.17632/5nf2mksv3y",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-01-11T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Omar Anwar Elkadi"
+      ],
+      "tags": [
+        "machine learning",
+        "Hydrogels: synthesis, properties, applications",
+        "Spectroscopy Techniques in Biomedical and Chemical Research",
+        "Spectroscopy and Chemometric Analyses"
+      ],
+      "external_ids": {
+        "doi": "10.17632/5nf2mksv3y"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-e73808f247a17225",
+      "title": "MODULATION OF UV-INDUCED DNA DAMAGE FORMATION BY CYTOSINE METHYLATION AND TRANSCRIPTION FACTOR BINDING",
+      "url": "https://doi.org/10.7273/000007851",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "Ultraviolet (UV) light is one of the most ubiquitous exogenous DNA damaging agents and is the primary etiological agent in skin cancers such as melanoma. UV light from the sun can be directly absorbed by DNA to induce helix-distorting lesions between neighboring pyrimidine bases, including cyclobutane pyrimidine dimers (CPDs) and pyrimidine-pyrimidone (6-4) photoproducts (6-4PPs) along with other atypical photoproducts. Mutag…",
+      "authors": [
+        "Wilson, Hannah E."
+      ],
+      "tags": [
+        "machine learning",
+        "agent",
+        "rag",
+        "DNA Repair Mechanisms",
+        "Epigenetics and DNA Methylation"
+      ],
+      "external_ids": {
+        "doi": "10.7273/000007851"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-6ac2c1dd302bea4b",
+      "title": "Investigating the effects of vaping on lung structure and function with pulmonary imaging",
+      "url": "http://hdl.handle.net/2429/93933",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "Despite the rise in vaping, its effect on the lungs is not well characterized. Therefore, we aimed to investigate the effects of vaping on lung structure and vasculature, pulmonary function, and patient-reported respiratory symptom burden in young persons with minimal combustible",
+      "authors": [
+        "Alexandra Schmidt"
+      ],
+      "tags": [
+        "Smoking Behavior and Cessation",
+        "Chronic Obstructive Pulmonary Disease (COPD) Research",
+        "Interstitial Lung Diseases and Idiopathic Pulmonary Fibrosis"
+      ],
+      "external_ids": {
+        "doi": "10.14288/1.0451822"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://open.library.ubc.ca/media/download/pdf/24/1.0451822/4"
+    },
+    {
+      "id": "paper-de9223f85fc72f26",
+      "title": "Ridership Forecasting Using XGBoost",
+      "url": "https://doi.org/10.17632/97x9zxn78z",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Berna Çalışkan"
+      ],
+      "tags": [
+        "optimization",
+        "Traffic Prediction and Management Techniques",
+        "Forecasting Techniques and Applications",
+        "Transportation Planning and Optimization"
+      ],
+      "external_ids": {
+        "doi": "10.17632/97x9zxn78z"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-0fb17cd4c85e1208",
+      "title": "Research Unmuted – Episode 9: Fixing Data Imbalance Can Harm Clinical AI",
+      "url": "https://doi.org/10.5281/zenodo.23058949",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "This episode is part of Research Unmuted (https://research-unmuted.uk), a scientific audio journal aimed at translating contemporary medical and digital health research into an accessible, yet academically, audio format. Abstract Objectives: Machine-learning–based clinical risk prediction models are increasingly used to support decision-making in healthcare. While class-imbalance correction techniques are commonly applied to…",
+      "authors": [
+        "Simon Lebech Cichosz"
+      ],
+      "tags": [
+        "machine learning",
+        "artificial intelligence",
+        "probabilistic",
+        "Imbalanced Data Classification Techniques",
+        "Machine Learning in Healthcare"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.23058949"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-2e358aeb8a6e607c",
+      "title": "Quantitative phenotyping reveals diverse biomolecular condensate states across cells and condition",
+      "url": "https://doi.org/10.5281/zenodo.23189720",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "Biomolecular condensates are membraneless compartments that respond rapidly to their environment to regulate crucial biological processes. They are commonly analysed by fluorescence microscopy imaging, but their large heterogeneity across cells makes it difficult to define and compare condensates across experimental systems in a quantitative way. Here, we present Phase2Face, a tool for unbiased condensate segmentation and qua…",
+      "authors": [
+        "Anna Hadarovich",
+        "Hari Raj Singh",
+        "Jonathan C. Savage",
+        "Alessandro Bevilacqua",
+        "Ksenia Kuznetsova",
+        "David Kuster",
+        "Carsten Hoege",
+        "Maxim Scheremetjew",
+        "Yu Wei",
+        "Jik Nijssen",
+        "Anthony Vega",
+        "Anthony A. Hyman",
+        "Ágnes Tóth-Petróczy"
+      ],
+      "tags": [
+        "Cell Image Analysis Techniques",
+        "RNA Research and Splicing",
+        "Advanced Fluorescence Microscopy Techniques"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.23189720"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-bf19c0e98aca2026",
+      "title": "Dataset used for the Bibliometric review paper: \"Machine Learning in Graphene-Based Absorbers: A Bibliometric and Topic Modeling Analysis\"",
+      "url": "https://doi.org/10.5281/zenodo.23674195",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "This .xlsx file contains the Web of Science Core Collection metadata for the documents analyzed in the bibliometric review. Access to this dataset is currently restricted under an embargo for peer-review purposes. Upon publication of the manuscript, the embargo will lift, and the dataset will be fully available for reuse.",
+      "authors": [
+        "Seyed Farbod Yaghoobi-Araghi",
+        "Elahe Ebrahimi Dorcheh",
+        "Fatemeh Ensafdoust",
+        "Mehrnegar Foratinejad",
+        "Farzaneh Mohammadi",
+        "Mohammad Hossein Alizadeh Roknabadi"
+      ],
+      "tags": [
+        "machine learning",
+        "scientometrics and bibliometrics research",
+        "Graphene research and applications",
+        "Machine Learning in Materials Science"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.23674195"
       },
       "metrics": {
         "citation_count": 0
@@ -501,60 +934,33 @@
       "pdf_url": null
     },
     {
-      "id": "paper-75c7bc58fdd444e5",
-      "title": "DYNAMICS OF PORTFOLIO ASSESSMENT STRATEGY IN EVALUATING THE ENGLISH LANGUAGE SKILLS FOR PUPILS WITH HEARING IMPAIRMENTS IN FAKO DIVISION, SOUTH WEST REGION OF CAMEROON",
-      "url": "https://ubueajournals.org/index.php/index/article/view/28",
+      "id": "paper-490b895ca7c06fda",
+      "title": "Gene Selection for Breast Cancer Classification Using T-Test Filtering and Wrapper-Based Optimization",
+      "url": "https://journals.uot.edu.ly/index.php/LJI/article/view/2288",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex"
       ],
       "published": "2026-12-31T00:00:00+00:00",
-      "summary": "This study examined the impact of portfolio assessment on evaluating the English language skills of pupils with hearing impairment in Fako Division, Cameroon. Portfolio assessment, as an informal and learner-centred approach, was explored within the framework of inclusive education, where traditional assessment methods often fail to adequately reflect the abilities of learners with hearing loss. The research utilised a quasi-…",
+      "summary": "يواجه التصنيف الدقيق لسرطان الثدي باستخدام بيانات التعبير الجيني تحديات ناجمة عن الأبعاد العالية والتشويش في مجموعات بيانات المصفوفات الدقيقة. تقترح هذه الدراسة وتقيّم مساراً هجيناً لاختيار الميزات يدمج أسلوب الترشيح باستخدام \"اختبار تي\" T-Test مع أربع طرق تحسين قائمة على التغليف، وهي: الاختيار الأمامي المتسلسل، والاختيار الخلفي المتسلسل، والخوارزميات الجينية، وخوارزمية تسلق التل. استُخدم \"اختبار تي\" أولاً لتقليل فضاء الميزات…",
       "authors": [
-        "Ngenwie Emilia Tanyie",
-        "Therese Mungah Shalo Tchombe"
+        "Abdelhamid Elwaer",
+        "Abdeladeem Dreder"
       ],
       "tags": [
-        "rag",
-        "Student Assessment and Feedback",
-        "EFL/ESL Teaching and Learning",
-        "Educational and Psychological Assessments"
+        "artificial intelligence",
+        "optimization",
+        "Gene expression and cancer classification",
+        "Breast Cancer Treatment Studies",
+        "Artificial Intelligence in Healthcare"
       ],
       "external_ids": {
-        "doi": "10.5281/zenodo.18206765"
+        "doi": "10.5281/zenodo.18112299"
       },
       "metrics": {
         "citation_count": 0
       },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-ec37c9470d4fe1a2",
-      "title": "NUISS: A User-Centered Prototype for International Student Administrative Support",
-      "url": "https://pub.respai.de/articles/1-1/10jhuang.html",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2026-12-31T00:00:00+00:00",
-      "summary": "This study applies a streamlined User-Centered Design (UCD) approach, enhanced with AI elements, to address common administrative challenges faced by international students, such as information fragmentation and unclear processes. Using National University (NU) as a case study, the research followed core UCD stages to develop the prototype of the NU International Student Services (NUISS). These stages included task analysis i…",
-      "authors": [
-        "Juanjuan Huang",
-        "Cuicui Li"
-      ],
-      "tags": [
-        "rag",
-        "Usability and User Interface Design",
-        "Persona Design and Applications",
-        "Innovative Human-Technology Interaction"
-      ],
-      "external_ids": {
-        "doi": "10.17613/px901-kjq73"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://pub.respai.de/articles/1-1/is1-10.pdf"
+      "pdf_url": "https://journals.uot.edu.ly/index.php/LJI/article/download/2288/1683"
     },
     {
       "id": "paper-c0c6e521c2b2e4fc",
@@ -665,6 +1071,62 @@
         "citation_count": 3
       },
       "pdf_url": "https://pub.respai.de/articles/1-2/is2-5.pdf"
+    },
+    {
+      "id": "paper-75c7bc58fdd444e5",
+      "title": "DYNAMICS OF PORTFOLIO ASSESSMENT STRATEGY IN EVALUATING THE ENGLISH LANGUAGE SKILLS FOR PUPILS WITH HEARING IMPAIRMENTS IN FAKO DIVISION, SOUTH WEST REGION OF CAMEROON",
+      "url": "https://ubueajournals.org/index.php/index/article/view/28",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-31T00:00:00+00:00",
+      "summary": "This study examined the impact of portfolio assessment on evaluating the English language skills of pupils with hearing impairment in Fako Division, Cameroon. Portfolio assessment, as an informal and learner-centred approach, was explored within the framework of inclusive education, where traditional assessment methods often fail to adequately reflect the abilities of learners with hearing loss. The research utilised a quasi-…",
+      "authors": [
+        "Ngenwie Emilia Tanyie",
+        "Therese Mungah Shalo Tchombe"
+      ],
+      "tags": [
+        "rag",
+        "Student Assessment and Feedback",
+        "EFL/ESL Teaching and Learning",
+        "Educational and Psychological Assessments"
+      ],
+      "external_ids": {
+        "doi": "10.5281/zenodo.18206765"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-ec37c9470d4fe1a2",
+      "title": "NUISS: A User-Centered Prototype for International Student Administrative Support",
+      "url": "https://pub.respai.de/articles/1-1/10jhuang.html",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2026-12-31T00:00:00+00:00",
+      "summary": "This study applies a streamlined User-Centered Design (UCD) approach, enhanced with AI elements, to address common administrative challenges faced by international students, such as information fragmentation and unclear processes. Using National University (NU) as a case study, the research followed core UCD stages to develop the prototype of the NU International Student Services (NUISS). These stages included task analysis i…",
+      "authors": [
+        "Juanjuan Huang",
+        "Cuicui Li"
+      ],
+      "tags": [
+        "rag",
+        "Usability and User Interface Design",
+        "Persona Design and Applications",
+        "Innovative Human-Technology Interaction"
+      ],
+      "external_ids": {
+        "doi": "10.17613/px901-kjq73"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://pub.respai.de/articles/1-1/is1-10.pdf"
     },
     {
       "id": "paper-b17e10e9dd1537ed",
@@ -4414,410 +4876,6 @@
       "external_ids": {
         "arxiv": "2611.08160"
       }
-    },
-    {
-      "id": "paper-9802767d0246667a",
-      "title": "Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy",
-      "url": "https://arxiv.org/abs/2611.08157v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:16:49+00:00",
-      "summary": "Image classification models often encounter objects in diverse and unpredictable contexts at test time, which may differ substantially from those seen during training. This phenomenon, termed context shift, exposes a key fragility in neural networks: when models rely on non-causal contextual cues for prediction, shifts in context can lead to significant performance degradation. In this paper, we propose a novel training frame…",
-      "authors": [
-        "Jinen Setpal",
-        "Chaoyue Liu"
-      ],
-      "tags": [
-        "neural network",
-        "rag",
-        "cs.CV",
-        "cs.LG"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08157"
-      }
-    },
-    {
-      "id": "paper-631cf3370f8b35f3",
-      "title": "La-JEPA: Compact Robot Policies with Latent World Modeling",
-      "url": "https://arxiv.org/abs/2611.08156v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:16:38+00:00",
-      "summary": "World-action models adapt pretrained video generators, and vision-language-action models build on pretrained vision-language backbones; both tie policy architecture and inference cost to large transformers designed for generation rather than control. It remains unclear how much these generation-oriented choices affect control. In this work, we introduce Latent Action JEPA (La-JEPA), a compact world-action model whose policy t…",
-      "authors": [
-        "Mateo Clémente",
-        "George Z. Xue",
-        "Amin Abyaneh",
-        "Liheng Ma",
-        "Rui Heng Yang",
-        "Tongtong Cao",
-        "Zhanguang Zhang",
-        "Yingxue Zhang"
-      ],
-      "tags": [
-        "transformer",
-        "foundation model",
-        "rag",
-        "cs.RO",
-        "cs.CV"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08156"
-      }
-    },
-    {
-      "id": "paper-d0f62bca0c163f05",
-      "title": "AI-Native Task-Oriented Semantic Communications over a Relay: Benefits and Vulnerabilities",
-      "url": "https://arxiv.org/abs/2611.08155v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:14:59+00:00",
-      "summary": "Semantic communication (SemCom) using a relay node is considered, where the relay assists in conveying task-relevant information from a source to a destination, with meaning defined by classification labels. A joint end-to-end design of the source encoder, relay transformation, and destination decoders is developed to optimize both semantic inference accuracy and perceptual reconstruction quality for image data. Relay-assiste…",
-      "authors": [
-        "Yalin E. Sagduyu",
-        "Tugba Erpek",
-        "Aylin Yener"
-      ],
-      "tags": [
-        "cs.IT",
-        "cs.CR",
-        "cs.LG",
-        "cs.NI",
-        "eess.SP"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08155"
-      }
-    },
-    {
-      "id": "paper-81a8aef7688bbfa8",
-      "title": "Interpretable Multimodal MRI-Clinical Fusion for Functional Outcome Prediction After Acute Ischemic Stroke",
-      "url": "https://arxiv.org/abs/2611.08154v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:14:58+00:00",
-      "summary": "This study evaluates the added prognostic value of day-1 multimodal MRI for predicting three-month functional outcome after acute ischemic stroke (AIS). Sixty-six AIS patients with ADC, DWI, FLAIR, and clinical data were analyzed. Three-dimensional pretrained ResNet embeddings were extracted from each MRI modality, reduced using fold-isolated principal component analysis, and combined with structured clinical variables and AD…",
-      "authors": [
-        "Sina Raeisadigh",
-        "Henning Müller",
-        "Abderrahmane Hedjoudje"
-      ],
-      "tags": [
-        "multimodal",
-        "cs.LG",
-        "cs.AI",
-        "cs.CV",
-        "eess.IV"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08154"
-      }
-    },
-    {
-      "id": "paper-3e330add11220ebc",
-      "title": "A Generative Foundation Model for Multimodal Tokamak Tasks",
-      "url": "https://arxiv.org/abs/2611.08153v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:13:48+00:00",
-      "summary": "Tokamak experiments record diverse measurements, including waveforms, profiles, fields, and scalars, which are used to reconstruct the plasma, forecast its evolution, recover associated control signals, and estimate disruption risk. Most models are built separately for one task and a fixed set of inputs and outputs, and each relies on a prescribed subset of diagnostics rather than structuring the full multimodal observation s…",
-      "authors": [
-        "Yingshuai Ji",
-        "Haodong Feng",
-        "Guohong Deng",
-        "Gelin Bian",
-        "Yue Wang"
-      ],
-      "tags": [
-        "multimodal",
-        "diffusion",
-        "transformer",
-        "foundation model",
-        "rag"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08153"
-      }
-    },
-    {
-      "id": "paper-3bb64de0cf50cacf",
-      "title": "Detecting Weather Fronts from Satellite Observations: What Does Reanalysis Add?",
-      "url": "https://arxiv.org/abs/2611.08148v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:07:10+00:00",
-      "summary": "Weather fronts are transition regions between air masses with contrasting thermodynamic properties and are associated with mid-latitude precipitation and severe weather. We investigate machine learning (ML) methods for detecting weather fronts and quantify the contribution of reanalysis data to performance. We compare two configurations of the same ML model for pixel-wise frontal classification over the North Atlantic and Eur…",
-      "authors": [
-        "Ioannis Dravilas",
-        "Miruna Stoicescu",
-        "Roope Tervo",
-        "Carlos Horn",
-        "Oriol Hinojo Comellas",
-        "Sina Montazeri",
-        "Andrea Meraner",
-        "Ana Lucic"
-      ],
-      "tags": [
-        "machine learning",
-        "cs.LG",
-        "cs.CV",
-        "physics.ao-ph"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08148"
-      }
-    },
-    {
-      "id": "paper-c6519e665d18e31c",
-      "title": "MCUFlowNet: Hardware-Aware Neural Architecture Search for Optical Flow on Microcontrollers",
-      "url": "https://arxiv.org/abs/2611.08147v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:06:14+00:00",
-      "summary": "Dense optical flow allows small drones to avoid obstacles. However, few dense optical flow networks are designed for microcontrollers (MCUs) with neural accelerators, whose on-chip SRAM limits the input resolution. We present PACE-NAS, a macro-to-micro neural architecture search framework that decouples memory from latency: a macro design fixes the backbone and its peak SRAM, and a micro design searches operators and depths t…",
-      "authors": [
-        "Enmin Lin",
-        "Jona Beysens"
-      ],
-      "tags": [
-        "cs.CV",
-        "cs.AR"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08147"
-      }
-    },
-    {
-      "id": "paper-a9b077472b0f3416",
-      "title": "Detecting Silent Faults at the Environment-Trainer Boundary in Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.08144v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:05:07+00:00",
-      "summary": "Robot reinforcement learning increasingly runs environments outside the trainer: in another process, on another machine, in another language. Many faults at this boundary raise no error. We make the boundary a wire protocol and ask what notices a fault in it. On Pendulum, HalfCheetah, Hopper and a 7-joint arm (Pusher), we injected up to 23 faults into what crosses the wire and 2 into the trainer's log, from one value to every…",
-      "authors": [
-        "Zuo Gou",
-        "Chenhao Lu"
-      ],
-      "tags": [
-        "reinforcement learning",
-        "agent",
-        "cs.RO",
-        "cs.LG",
-        "cs.SE"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08144"
-      }
-    },
-    {
-      "id": "paper-86217bab89741537",
-      "title": "Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3",
-      "url": "https://arxiv.org/abs/2611.08142v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:04:19+00:00",
-      "summary": "Robot Operating System (ROS) is becoming a standard in robotics courses at higher education, but its installation, configuration and distributed programming model can introduce a significant entry barrier in the new landscape of AI-based master and degree studies, where many students do not have a strong informatics background. This paper presents an educational experience that enables students to program a TurtleBot3 Burger…",
-      "authors": [
-        "Jaime P. Pérez-Moro",
-        "Alejandro Romero",
-        "Hector Quintian",
-        "Francisco Bellas"
-      ],
-      "tags": [
-        "cs.RO"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08142"
-      }
-    },
-    {
-      "id": "paper-2939689ddb2e3094",
-      "title": "Fault-Guided Cross-Layer Prediction for Unsupervised Anomaly Detection",
-      "url": "https://arxiv.org/abs/2611.08140v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:03:11+00:00",
-      "summary": "Feature reconstruction is widely used for unsupervised industrial anomaly detection in the single-class setting, where only normal images from one product category are available for training. We propose a single-class detector that asks what information one block can pass to another. We treat the depth of a frozen vision transformer as a sequence of discrete transitions. A directed predictor learns a block-to-block hidden-sta…",
-      "authors": [
-        "Tao Wang"
-      ],
-      "tags": [
-        "transformer",
-        "cs.CV"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08140"
-      }
-    },
-    {
-      "id": "paper-46b9b077eac231b1",
-      "title": "H-TRIP: Exact Many-to-Many Distance Index for Multi-Robot Exploration",
-      "url": "https://arxiv.org/abs/2611.08139v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:03:10+00:00",
-      "summary": "Frontier-based exploration systems repeatedly evaluate geodesic travel costs between robot poses and candidate viewpoints, and tour-based planners consume the full pairwise distance matrix built from them. Recomputing these matrices with one graph search per source scales with the explored map size, whereas distance caches that refresh only locally affected or newly created frontiers can retain stale costs between surviving p…",
-      "authors": [
-        "Elif A. Özaslan",
-        "Tolga Özaslan"
-      ],
-      "tags": [
-        "cs.RO"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08139"
-      }
-    },
-    {
-      "id": "paper-e155a711d168dc92",
-      "title": "Describe Your Facial Expressions by Linking Image Encoders and Large Language Models",
-      "url": "https://arxiv.org/abs/2611.08138v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:02:05+00:00",
-      "summary": "This paper presents a novel task of describing human facial expressions of a facial image in natural language, which captures the nuances of facial actions and emotional states beyond traditional emotion categories or facial action units (AUs). To achieve the facial expression captioning model, we propose a three-stage training framework that trains a vision-to-language model using synthesized image-text pairs and the BLIP-2…",
-      "authors": [
-        "Yujian Yuan",
-        "Jiabei Zeng",
-        "Shiguang Shan"
-      ],
-      "tags": [
-        "large language model",
-        "cs.CV"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08138"
-      }
-    },
-    {
-      "id": "paper-87bb9dea83d3718b",
-      "title": "How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels",
-      "url": "https://arxiv.org/abs/2611.08136v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:01:17+00:00",
-      "summary": "Anomaly detection (AD) is often framed as a representation-learning problem, where strong performance is expected to require learned features or AD-specific optimization. However, this view can overlook the intrinsic separability of anomalies from normal references, even in the absence of learned representations. We therefore investigate how far untrained neural networks can go in anomaly detection. To this end, we propose PR…",
-      "authors": [
-        "Hyojun Yi",
-        "Geunyoung Kim",
-        "Hogeon Seo",
-        "Seunghyoung Ryu"
-      ],
-      "tags": [
-        "neural network",
-        "optimization",
-        "cs.LG",
-        "cs.CV"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08136"
-      }
-    },
-    {
-      "id": "paper-3d4734b218cd0ff9",
-      "title": "Who Can Evaluate AI Independently? A Framework for Analysing Evaluation Infrastructure",
-      "url": "https://arxiv.org/abs/2611.08134v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:00:51+00:00",
-      "summary": "AI evaluation is increasingly central to AI safety and governance, yet taking part in an evaluation does not by itself confer authority over its design, its execution or the resources it depends on. This paper examines how infrastructure arrangements distribute that authority, and so shape who can evaluate AI systems independently. Drawing on Science and Technology Studies, political economy and applied evaluation standards,…",
-      "authors": [
-        "Sumaya Nur Adan",
-        "Joanna Wiaterek",
-        "Nourhan Abdelrhim",
-        "Sydney Reis",
-        "Robert F. Trager",
-        "Benjamin Rosman",
-        "Marina Jirotka"
-      ],
-      "tags": [
-        "ai safety",
-        "cs.CY",
-        "cs.AI"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08134"
-      }
-    },
-    {
-      "id": "paper-07097cdfc6382c10",
-      "title": "Beyond K/V Caches: Cross-Model State Handoff in Hybrid Linear-Attention LLMs",
-      "url": "https://arxiv.org/abs/2611.08133v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T15:00:50+00:00",
-      "summary": "Production deployments often use different models to balance cost and quality through cascading, routing, and switching models during long conversations. Context accumulates across turns. Each switch requires the target to repeat prefill over this context. Existing methods transfer full-attention (FA) K/V caches across models. Hybrid linear-attention models also retain recurrent states (REC) and convolution histories (Conv).…",
-      "authors": [
-        "Jiacheng Cai",
-        "Tao Zhang",
-        "Siqi Liang",
-        "Yun Dai",
-        "Ziqian Zeng"
-      ],
-      "tags": [
-        "llm",
-        "alignment",
-        "cs.CL"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08133"
-      }
-    },
-    {
-      "id": "paper-f18e45b76f8a3938",
-      "title": "FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching",
-      "url": "https://arxiv.org/abs/2611.08128v1",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "published": "2026-11-05T14:58:11+00:00",
-      "summary": "Current 4D occupancy world models use heavy cross-attention or deep recurrence to disentangle ego-motion from scene dynamics. This requires significant computational capacity. However, this effort is largely redundant since the ego-vehicle's intended future motion is provided by the downstream motion planner. We present FreeOcc, a lightweight continuous-time world model that introduces explicit $SE(2)$ geometric decoupling in…",
-      "authors": [
-        "Zeping Zhang",
-        "Zhuoya Zhao",
-        "Samy Metari",
-        "Robert Laganière"
-      ],
-      "tags": [
-        "agent",
-        "cs.CV"
-      ],
-      "external_ids": {
-        "arxiv": "2611.08128"
-      }
     }
   ],
   "blogs": [
@@ -5483,428 +5541,6 @@
       ]
     }
   ],
-  "videos": [
-    {
-      "id": "video-7a7f412202689ee4",
-      "video_id": "XgC1QTs6A2U",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
-      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
-      "source": "Two Minute Papers",
-      "published": "2026-11-06T07:27:02+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Chapters: 00:00 Intro 02:40 Why Robots Are Hard 08:16 The Perfect Data Diet 16:05 Intelligence Density 20:13 Building AI Worlds 22:10 Learning From Failure 25:41 The Reality Gap 29:35 Robots Get Injured Too 31:28 100 Years in Seconds 35:35 The Popcorn Robot 37:35 Easy for Hum…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-ce14acab8d98c49f",
-      "video_id": "CWdTBLsbaQs",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "title": "OpenAI Claims It Just Did The Impossible",
-      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-      "source": "Two Minute Papers",
-      "published": "2026-10-30T15:57:16+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 OpenAI's paper is available here: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf Our paper with the cherry splash ray tracing simulation at 0:17 https://users.cg.tuwien.ac.at/zsolnai/gfx/adaptive_metropo…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-c66d1bea7b6bce13",
-      "video_id": "pryCaGv8wuo",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
-      "title": "DeepSeek's New AI Is An Absolute Monster",
-      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
-      "source": "Two Minute Papers",
-      "published": "2026-10-28T17:32:40+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/ Sources: https://x.com/marcthecreatorr/status/2111427716142571554/video/1 https://x.com/olezhavich/status/2112897791022264814/video/1 https://x.com/notjazii/status/2111432925313179689…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-5565a81df6037ac9",
-      "video_id": "LWxX6vvHfrc",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
-      "title": "Gemini 4 Argon Is Not What I Expected",
-      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-      "source": "Two Minute Papers",
-      "published": "2026-10-19T08:49:21+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf Sources: https://x.com/thebuggeddev/status/2110241991233790456 https://x.com/vib3coded/stat…",
-      "tags": [
-        "rag"
-      ]
-    },
-    {
-      "id": "video-3c1e366833a40c14",
-      "video_id": "z_sXLlLVUls",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-      "source": "Two Minute Papers",
-      "published": "2026-10-13T08:56:12+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The papers are available here: https://openai.com/index/sharing-ai-progress-in-mathematics/ https://github.com/openai/math 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, E…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-b35e5f2d2ecb4812",
-      "video_id": "4fLVq6HJsKc",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-      "title": "DeepSeek Solved AI’s Memory Problem",
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-      "source": "Two Minute Papers",
-      "published": "2026-10-11T16:53:17+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek OCR paper is available here: https://github.com/deepseek-ai/DeepSeek-OCR 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald,…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-b84db886329170af",
-      "video_id": "Wkaw03p3BrM",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "title": "DeepMind's New AI Just Cracked The Code Of Life",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "source": "Two Minute Papers",
-      "published": "2026-10-07T13:29:33+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Thank you Google DeepMind for the invite. 📝 AlphaGenome Atlas is available here: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/ https://blog.google/innovation-and-ai/models-and-research/google-deepmind/…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-bd6c6dc0e05fe72b",
-      "video_id": "ZHVNTTKu9fU",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
-      "title": "The Billion Dollar AI Advantage Is Disappearing",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "source": "Two Minute Papers",
-      "published": "2026-10-05T09:53:12+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Sonnet 5.5: https://www.anthropic.com/claude-sonnet-5-5 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpnes…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-b7d9300382c57242",
-      "video_id": "SA9kdAX2Zj0",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "source": "Two Minute Papers",
-      "published": "2026-09-24T08:40:55+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations. Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5 Walking creatures video and paper:…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-762e86c2a7cec2f5",
-      "video_id": "qBBRRsH0rQc",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
-      "title": "Yes, Jev Is Insane, But There's A Catch",
-      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "source": "Two Minute Papers",
-      "published": "2026-09-22T09:32:13+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.com/watch?v=4RtUJkjrKMI Previous papers, implementations, models: https://huggingface.co/convaiinnovations/laya https://arxiv.org/abs/2503.23303 https://huggingface.co/DeepMos…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-0c3e7fe15b24fc0f",
-      "video_id": "vIHw_2VjSUw",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
-      "title": "DeepSeek’s Insane New Architecture",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "source": "Two Minute Papers",
-      "published": "2026-09-18T07:03:46+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies! Sources: https://x.com/flowith/status/2099446892174406055/video/1 https://x.com/loktar00/status/2097761…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-281ff94730f2c880",
-      "video_id": "YoEWjZSwoys",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
-      "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-      "source": "Two Minute Papers",
-      "published": "2026-09-15T10:12:34+00:00",
-      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The papers and sources are available here: https://proceedings.mlr.press/v202/kirchenbauer23a.html https://www.nature.com/articles/s41586-024-08025-4 https://www.anthropic.com/news/claude-text-watermark 🙏 We would like to thank our generous Patreon supporters who make…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-9818ebd3c2a00036",
-      "video_id": "mOvtumfyjCs",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
-      "title": "I Never Thought I’d See This Happen",
-      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-      "source": "Two Minute Papers",
-      "published": "2026-09-10T08:47:23+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Navier-Stokes solution paper is available here: https://openai.com/index/navier-stokes-solution/ My fluid simulations and papers: https://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/ https://users.cg.tuwien.ac.at/zsolnai/gfx/real_time_fluid_control_eg/ Th…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-ff7563162bf9a471",
-      "video_id": "eVBJIUxv8N8",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
-      "title": "GPT-6 Astra Changes Everything",
-      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-      "source": "Two Minute Papers",
-      "published": "2026-09-08T08:24:27+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/ https://x.com/mindblown_ai/status/2095661874037813298?s=20 https://x.com/aollivier82/status/209622681940180189…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-f14a8fc51934f4f2",
-      "video_id": "B3LXEW4Pc-w",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
-      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-      "source": "Two Minute Papers",
-      "published": "2026-09-03T08:23:37+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Claude Fable 5.1 paper is available here: https://www.anthropic.com/claude-fable-and-mythos-5-1 https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mythos%205.1%20System%20Card.pdf Sources: https://x.com/alexalber…",
-      "tags": [
-        "agent"
-      ]
-    }
-  ],
-  "channel_videos": [
-    {
-      "id": "video-7a7f412202689ee4",
-      "video_id": "XgC1QTs6A2U",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
-      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
-      "source": "Two Minute Papers",
-      "published": "2026-11-06T07:27:02+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Chapters: 00:00 Intro 02:40 Why Robots Are Hard 08:16 The Perfect Data Diet 16:05 Intelligence Density 20:13 Building AI Worlds 22:10 Learning From Failure 25:41 The Reality Gap 29:35 Robots Get Injured Too 31:28 100 Years in Seconds 35:35 The Popcorn Robot 37:35 Easy for Hum…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-ce14acab8d98c49f",
-      "video_id": "CWdTBLsbaQs",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "title": "OpenAI Claims It Just Did The Impossible",
-      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-      "source": "Two Minute Papers",
-      "published": "2026-10-30T15:57:16+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 OpenAI's paper is available here: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf Our paper with the cherry splash ray tracing simulation at 0:17 https://users.cg.tuwien.ac.at/zsolnai/gfx/adaptive_metropo…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-c66d1bea7b6bce13",
-      "video_id": "pryCaGv8wuo",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
-      "title": "DeepSeek's New AI Is An Absolute Monster",
-      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
-      "source": "Two Minute Papers",
-      "published": "2026-10-28T17:32:40+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/ Sources: https://x.com/marcthecreatorr/status/2111427716142571554/video/1 https://x.com/olezhavich/status/2112897791022264814/video/1 https://x.com/notjazii/status/2111432925313179689…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-5565a81df6037ac9",
-      "video_id": "LWxX6vvHfrc",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
-      "title": "Gemini 4 Argon Is Not What I Expected",
-      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-      "source": "Two Minute Papers",
-      "published": "2026-10-19T08:49:21+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf Sources: https://x.com/thebuggeddev/status/2110241991233790456 https://x.com/vib3coded/stat…",
-      "tags": [
-        "rag"
-      ]
-    },
-    {
-      "id": "video-3c1e366833a40c14",
-      "video_id": "z_sXLlLVUls",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-      "source": "Two Minute Papers",
-      "published": "2026-10-13T08:56:12+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The papers are available here: https://openai.com/index/sharing-ai-progress-in-mathematics/ https://github.com/openai/math 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, E…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-b35e5f2d2ecb4812",
-      "video_id": "4fLVq6HJsKc",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-      "title": "DeepSeek Solved AI’s Memory Problem",
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-      "source": "Two Minute Papers",
-      "published": "2026-10-11T16:53:17+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek OCR paper is available here: https://github.com/deepseek-ai/DeepSeek-OCR 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald,…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-b84db886329170af",
-      "video_id": "Wkaw03p3BrM",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "title": "DeepMind's New AI Just Cracked The Code Of Life",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "source": "Two Minute Papers",
-      "published": "2026-10-07T13:29:33+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Thank you Google DeepMind for the invite. 📝 AlphaGenome Atlas is available here: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/ https://blog.google/innovation-and-ai/models-and-research/google-deepmind/…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-bd6c6dc0e05fe72b",
-      "video_id": "ZHVNTTKu9fU",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
-      "title": "The Billion Dollar AI Advantage Is Disappearing",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "source": "Two Minute Papers",
-      "published": "2026-10-05T09:53:12+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Sonnet 5.5: https://www.anthropic.com/claude-sonnet-5-5 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpnes…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-b7d9300382c57242",
-      "video_id": "SA9kdAX2Zj0",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "source": "Two Minute Papers",
-      "published": "2026-09-24T08:40:55+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations. Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5 Walking creatures video and paper:…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-762e86c2a7cec2f5",
-      "video_id": "qBBRRsH0rQc",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
-      "title": "Yes, Jev Is Insane, But There's A Catch",
-      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "source": "Two Minute Papers",
-      "published": "2026-09-22T09:32:13+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.com/watch?v=4RtUJkjrKMI Previous papers, implementations, models: https://huggingface.co/convaiinnovations/laya https://arxiv.org/abs/2503.23303 https://huggingface.co/DeepMos…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-0c3e7fe15b24fc0f",
-      "video_id": "vIHw_2VjSUw",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
-      "title": "DeepSeek’s Insane New Architecture",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "source": "Two Minute Papers",
-      "published": "2026-09-18T07:03:46+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies! Sources: https://x.com/flowith/status/2099446892174406055/video/1 https://x.com/loktar00/status/2097761…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-281ff94730f2c880",
-      "video_id": "YoEWjZSwoys",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
-      "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-      "source": "Two Minute Papers",
-      "published": "2026-09-15T10:12:34+00:00",
-      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The papers and sources are available here: https://proceedings.mlr.press/v202/kirchenbauer23a.html https://www.nature.com/articles/s41586-024-08025-4 https://www.anthropic.com/news/claude-text-watermark 🙏 We would like to thank our generous Patreon supporters who make…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-9818ebd3c2a00036",
-      "video_id": "mOvtumfyjCs",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
-      "title": "I Never Thought I’d See This Happen",
-      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-      "source": "Two Minute Papers",
-      "published": "2026-09-10T08:47:23+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Navier-Stokes solution paper is available here: https://openai.com/index/navier-stokes-solution/ My fluid simulations and papers: https://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/ https://users.cg.tuwien.ac.at/zsolnai/gfx/real_time_fluid_control_eg/ Th…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-ff7563162bf9a471",
-      "video_id": "eVBJIUxv8N8",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
-      "title": "GPT-6 Astra Changes Everything",
-      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-      "source": "Two Minute Papers",
-      "published": "2026-09-08T08:24:27+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/ https://x.com/mindblown_ai/status/2095661874037813298?s=20 https://x.com/aollivier82/status/209622681940180189…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-f14a8fc51934f4f2",
-      "video_id": "B3LXEW4Pc-w",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
-      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-      "source": "Two Minute Papers",
-      "published": "2026-09-03T08:23:37+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Claude Fable 5.1 paper is available here: https://www.anthropic.com/claude-fable-and-mythos-5-1 https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mythos%205.1%20System%20Card.pdf Sources: https://x.com/alexalber…",
-      "tags": [
-        "agent"
-      ]
-    }
-  ]
+  "videos": [],
+  "channel_videos": []
 }
