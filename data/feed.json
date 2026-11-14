@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T11:25:49.426861+00:00",
+  "generated_at": "2026-11-14T17:58:19.730271+00:00",
   "papers": [
     {
       "id": "paper-808106f317a48281",
@@ -196,6 +196,33 @@
       ],
       "external_ids": {
         "doi": "10.17632/b7tg2rtxwj"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": null
+    },
+    {
+      "id": "paper-12c19497d8f64444",
+      "title": "A machine learning classifier reveals hidden rare bi-allelic heterozygous variants in the coding regions of Meniere Disease genome. Mohseni et al.",
+      "url": "https://doi.org/10.17632/8dgfvbyyrk",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-07-17T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Jose Antonio Lopez-Escamez"
+      ],
+      "tags": [
+        "machine learning",
+        "Vestibular and auditory disorders",
+        "Genomics and Rare Diseases",
+        "Hearing, Cochlea, Tinnitus, Genetics"
+      ],
+      "external_ids": {
+        "doi": "10.17632/8dgfvbyyrk"
       },
       "metrics": {
         "citation_count": 0
@@ -659,6 +686,38 @@
       ],
       "external_ids": {
         "doi": "10.1016/j.biombioe.2026.110104"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-14590d22aee477fe",
+      "title": "Integrating ML-Based CGE Surrogate Models with Optimization for Enhancing Community Resilience",
+      "url": "https://www.semanticscholar.org/paper/e444d71eba94571224199afcd15002395d9a54bc",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "Natural hazards pose substantial risks to economic stability and community well-being. Understanding and mitigating these risks requires robust tools that can capture both the physical impacts of hazards and their economic consequences. This study presents a framework integrating machine learning (ML) and optimization with a computable general equilibrium (CGE) model to enhance community resilience to natural hazards, focusin…",
+      "authors": [
+        "Nushra Tul Zannat",
+        "Himadri Sen Gupta",
+        "Saeid Ghasemi",
+        "Charles D. Nicholson",
+        "Harvey Cutler",
+        "Andrés D. González",
+        "Milad Roohi"
+      ],
+      "tags": [
+        "machine learning",
+        "optimization",
+        "Natural Hazards Review"
+      ],
+      "external_ids": {
+        "doi": "10.1061/nhrefo.nheng-2515"
       },
       "metrics": {
         "citation_count": 0
@@ -1510,6 +1569,62 @@
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S016816992601118X/pdf"
     },
     {
+      "id": "paper-2aa414a8896deecf",
+      "title": "Deep reinforcement learning for home health care routing and scheduling problem with interdependent services",
+      "url": "https://www.semanticscholar.org/paper/557c8143746f61abb6bd1bc0acc8b3db9732d59a",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Yao-Xin Wu",
+        "Yu-Wei Gu",
+        "Ping He",
+        "Rong Cheng",
+        "Lu Zhang",
+        "Ying-Qian Zhang",
+        "Zhi-Guang Cao"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Transportation Research Part E: Logistics and Transportation Review"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.tre.2026.105376"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-663fe81c2b6c79e0",
+      "title": "Mechanics-informed machine learning with dimensionless variables for data-efficient fracture prediction in proton exchange membranes",
+      "url": "https://www.semanticscholar.org/paper/524605bbf496a68224130e70fc05d5ef1a0f79f4",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Hamed Afrasiab"
+      ],
+      "tags": [
+        "machine learning",
+        "Theoretical and applied fracture mechanics (Print)"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.tafmec.2026.106099"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-9fd67cb929976c1b",
       "title": "Decision tree-based interpretable reinforcement learning energy management strategy for multi-mode distributed drive electric heavy-duty trucks",
       "url": "https://www.semanticscholar.org/paper/513fa9d24661997c64a303c4bbcb74abc0f04108",
@@ -1941,6 +2056,35 @@
         "citation_count": 1
       },
       "pdf_url": "https://papers.ssrn.com/sol3/Delivery.cfm/39586450-9f5b-47ea-9fe1-a661aa92480c-MECA.pdf?abstractid=7168298&mirid=1"
+    },
+    {
+      "id": "paper-88c6bce25131eff8",
+      "title": "DT-RL: A digital twin and reinforcement learning-assisted localization framework for the Internet of Underwater Things",
+      "url": "https://www.semanticscholar.org/paper/164eb10040d403d08bba5e1a44d2781ee0d9faff",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "R. Khalil",
+        "T. Jan",
+        "Naveed Ahmad",
+        "Zeeshan Shafiq",
+        "M. Alshara"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Ad hoc networks"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.adhoc.2026.104476"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1570870526003422/pdf"
     },
     {
       "id": "paper-cf95d73b80399f5d",
@@ -3051,6 +3195,34 @@
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0197397526003140/pdf"
     },
     {
+      "id": "paper-4fece210901d8e18",
+      "title": "From correlation to causation: A remote sensing and causal spatial machine learning framework reveals the driving mechanisms of ecological vulnerability in karst areas",
+      "url": "https://www.semanticscholar.org/paper/e3e8ef8e2060009123eafa1081bfffd1a4668391",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Xun Lin",
+        "Zhi-Tai Wang",
+        "Yu Bao",
+        "Hao Yang"
+      ],
+      "tags": [
+        "machine learning",
+        "CATENA"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.catena.2026.110775"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-88a4b590d8bbfda1",
       "title": "Neural-symbolic temporal knowledge graph reasoning with multi-granularity modeling and compatibility constraints",
       "url": "https://www.semanticscholar.org/paper/e37913b08000809cceff89973dc0dbaefd9bf714",
@@ -3450,6 +3622,33 @@
       ],
       "external_ids": {
         "doi": "10.1016/j.apenergy.2026.128970"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-9fb01f6f483f3310",
+      "title": "Generative AI and Cinematic Language: Recreating an Egyptian Film Scene",
+      "url": "https://www.semanticscholar.org/paper/d5439d718f6e4724dda23cc4e36736b47c3b1813",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "B. Soliman",
+        "Maged Saied Hassan",
+        "Kamal Sherif",
+        "Marwa Khafagy"
+      ],
+      "tags": [
+        "International Design Journal"
+      ],
+      "external_ids": {
+        "doi": "10.21608/idj.2026.541386.1703"
       },
       "metrics": {
         "citation_count": 0
@@ -3929,6 +4128,32 @@
         "citation_count": 0
       },
       "pdf_url": ""
+    },
+    {
+      "id": "paper-6a27fe3195699fee",
+      "title": "Optimizing large language model-driven automated essay scoring: Integrating linguistic features and prompt engineering to enhance scoring accuracy",
+      "url": "https://www.semanticscholar.org/paper/c9a8d5705e2724039ca0cda3d8c017ece3df4816",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Ru-Yi Tao",
+        "Shang-Chao Min"
+      ],
+      "tags": [
+        "large language model",
+        "Assessing Writing: An International Journal"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.asw.2026.101145"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1075293526001339/pdf"
     },
     {
       "id": "paper-cce1a2df3bb7dbc9",
@@ -4567,6 +4792,34 @@
       "pdf_url": ""
     },
     {
+      "id": "paper-2042d4ff7c11f280",
+      "title": "Large language models as knowledge-guided proposers for reliability-based design optimization of truss structures",
+      "url": "https://www.semanticscholar.org/paper/b765c9586882ec0ec7f3517dac88cd8c11c16484",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Jafar Jafari-Asl",
+        "You Dong",
+        "Panagiotis Spyridis"
+      ],
+      "tags": [
+        "large language model",
+        "optimization",
+        "Advances in Engineering Software"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.advengsoft.2026.104344"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.advengsoft.2026.104344"
+    },
+    {
       "id": "paper-b7a464ef337cd79f",
       "title": "Relational slot attention network for few-shot knowledge graph completion",
       "url": "https://www.semanticscholar.org/paper/b626f73e3485560bd8a0d94d6b7cd05e2021cb14",
@@ -4973,272 +5226,6 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.1016/j.atmosenv.2026.122454"
-    },
-    {
-      "id": "paper-4007fd0ebe98bbbf",
-      "title": "Inverse design framework for topological metamaterials integrating deep learning and reinforcement learning",
-      "url": "https://www.semanticscholar.org/paper/aba01189b186f25802cc5d6dc75dff94e2ac7ac8",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Chen-Chen Chu",
-        "Zhen-Kun Guo",
-        "Rong-Zheng Zou",
-        "Hai-Ping Liu",
-        "Guo-Biao Hu"
-      ],
-      "tags": [
-        "deep learning",
-        "reinforcement learning",
-        "Engineering structures"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.engstruct.2026.124080"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-ccec2e7ea47dac69",
-      "title": "Phyco-SRV: Physics-conditioned seismic response video generation via multimodal diffusion",
-      "url": "https://www.semanticscholar.org/paper/ab9c875f3b27f6733ca3a3c659f25521c0490a4a",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Lei Bao",
-        "Han Yang",
-        "Yu-Yan Chen",
-        "Hao Chen",
-        "Qing-Yan Zhang"
-      ],
-      "tags": [
-        "multimodal",
-        "diffusion",
-        "Computer Science",
-        "Expert systems with applications"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.eswa.2026.133617"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-14e9381d05f4208e",
-      "title": "HCREA-GRAG: a hierarchical constraint graph retrieval-augmented generation method for traceable knowledge graph question answering service in aviation manufacturing metrology",
-      "url": "https://www.semanticscholar.org/paper/ab2eefceed3b641d040c60a0e1d96ee2ac904287",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Ji-Hang Zou",
-        "Xue-Tao Zhang",
-        "Ya-Hui Wu",
-        "Guo-Yi Hou",
-        "Xiang Huang"
-      ],
-      "tags": [
-        "knowledge graph",
-        "rag",
-        "Advanced Engineering Informatics"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.aei.2026.105398"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-4c21b42ed4921a0e",
-      "title": "PIPO: Physics-informed deep reinforcement learning for pareto-optimal control for active suspension system",
-      "url": "https://www.semanticscholar.org/paper/aa5c9b2486bad0bcb4a6aa1675d61cadbecddcdf",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Cheng Wang",
-        "Xiao-Xian Cui",
-        "Guanyu Tao",
-        "Xin-Ran Zhou",
-        "Ze-Nan Li",
-        "Kong-Hui Guo"
-      ],
-      "tags": [
-        "reinforcement learning",
-        "Computer Science",
-        "Expert systems with applications"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.eswa.2026.133885"
-      },
-      "metrics": {
-        "citation_count": 1
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-107d7f36b241e128",
-      "title": "Deep reinforcement learning-based emergency load shedding for power system frequency security with knowledge-guided decision refinement and experience augmentation",
-      "url": "https://www.semanticscholar.org/paper/a979393bee479fb6a46cbd5af09f1dc1d4bef47f",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Kai-Cheng Gong",
-        "Hang Shuai",
-        "Wei Yao",
-        "Yu-Tian Lan",
-        "Shan-Yang Wei",
-        "Jin-Yu Wen"
-      ],
-      "tags": [
-        "reinforcement learning",
-        "Applied Energy"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.apenergy.2026.129213"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-5d8571b4ad9dc282",
-      "title": "Building Code Question-Answering Systems Enhanced by Large Language Models and Knowledge-Graph-Based Retrieval-Augmented Generation",
-      "url": "https://www.semanticscholar.org/paper/a8c8a683998ad97025ba5456cba50b7075c50d92",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "Building codes are complex documents that pose significant challenges for consistent interpretation and efficient compliance checking in the construction industry. Existing automated methods often overlook the interrelationships between provisions and lack comprehensive evaluation support from practical engineering perspectives. In this study, we develop a retrieval-augmented generation (RAG) system enhanced with a knowledge…",
-      "authors": [
-        "Fan Yang",
-        "Jian-Song Zhang"
-      ],
-      "tags": [
-        "large language model",
-        "llm",
-        "transformer",
-        "knowledge graph",
-        "rag"
-      ],
-      "external_ids": {
-        "doi": "10.1061/jccee5.cpeng-7400"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-e4cb994a528998cb",
-      "title": "The Effect of Generative AI and Gamification on Enhancing Students’ Motivation Based on the ARCS Model",
-      "url": "https://www.semanticscholar.org/paper/a797b691302e71c8a47e06e47bde73162982714e",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "High school biology learning is often hindered by abstract concepts and cognitive overload, leading to low student motivation. Although generative artificial intelligence (GenAI) and gamification show instructional potential, their combined motivational effects remain underexplored. Grounded in the ARCS model, this study examined the impact of integrating ChatGPT-based GenAI and gamification on students’ Attention, Relevance,…",
-      "authors": [
-        "Xu-Ting Wen",
-        "Mohd Fadzil Abdul Hanid",
-        "Sharifah Maryam Syed Azman"
-      ],
-      "tags": [
-        "artificial intelligence",
-        "International journal of technology in education and science"
-      ],
-      "external_ids": {
-        "doi": "10.46328/ijtes.8155"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://ijtes.net/index.php/ijtes/article/download/8155/3298"
-    },
-    {
-      "id": "paper-a22f583bb49df209",
-      "title": "Machine learning prediction of electronic density of states using Lorentzian basis expansion",
-      "url": "https://www.semanticscholar.org/paper/a4361eeb91ec2ee5e43659382284a6e2dcc8fd13",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Denis Bokhan",
-        "А. П. Рыжов",
-        "Daniil Novichkov",
-        "A. Mitrofanov"
-      ],
-      "tags": [
-        "machine learning",
-        "Computational materials science"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.commatsci.2026.115145"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-7357b88e346c2d71",
-      "title": "Machine learning insight into porous carbon materials",
-      "url": "https://www.semanticscholar.org/paper/a0b97d61b222e9bc89a6ec26af36d7baff137f56",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "A. A. Chubarova",
-        "D. A. Sergeicheva",
-        "Mikhail V. Trenikhin",
-        "O. Knyazheva",
-        "A. V. Lavrenov",
-        "P. Prudnikov"
-      ],
-      "tags": [
-        "machine learning",
-        "Computational materials science"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.commatsci.2026.115207"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
     }
   ],
   "blogs": [
@@ -5913,7 +5900,7 @@
       "video_id": "x7iwI6WfWS0",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
       "thumbnail": "https://i.ytimg.com/vi/x7iwI6WfWS0/hqdefault.jpg",
-      "title": "Funkiest Zoom meeting EVER (Surprise video)",
+      "title": "AI Can Do Everything…Except This",
       "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
       "source": "Two Minute Papers",
       "published": "2026-11-14T08:40:55+00:00",
@@ -6776,7 +6763,7 @@
       "video_id": "x7iwI6WfWS0",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
       "thumbnail": "https://i.ytimg.com/vi/x7iwI6WfWS0/hqdefault.jpg",
-      "title": "Funkiest Zoom meeting EVER (Surprise video)",
+      "title": "AI Can Do Everything…Except This",
       "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
       "source": "Two Minute Papers",
       "published": "2026-11-14T08:40:55+00:00",
