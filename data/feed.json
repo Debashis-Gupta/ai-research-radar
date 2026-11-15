@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T15:38:14.168120+00:00",
+  "generated_at": "2026-11-15T21:01:19.675462+00:00",
   "papers": [
     {
       "id": "paper-808106f317a48281",
@@ -477,6 +477,30 @@
         "citation_count": 0
       },
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S016920462600246X/pdf"
+    },
+    {
+      "id": "paper-b74a86b4cbb94865",
+      "title": "Machine-learning exploration of isotope-informed near-term temperature forecast at European sites",
+      "url": "https://www.semanticscholar.org/paper/ff9e610e761f7f3bb1f09218c7906d5208c43ef3",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Katarzyna Samborska-Goik"
+      ],
+      "tags": [
+        "Atmospheric research"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.atmosres.2026.109448"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
     },
     {
       "id": "paper-074b27eb57bed650",
@@ -5181,37 +5205,6 @@
       ],
       "external_ids": {
         "doi": "10.1016/j.apenergy.2026.129050"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-461339c52a8b3ab9",
-      "title": "Machine learning–based climate-aware multi-objective assessment of thermoelectric humidification–dehumidification desalination",
-      "url": "https://www.semanticscholar.org/paper/ac229371ac4c692062adc671f9673f8f76651727",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Sadiq T. Bunyan",
-        "Ali M. Ashour",
-        "Saif Ali Kadhim",
-        "A. Askar",
-        "F. Rashid",
-        "Ines Hilali Jaghdam",
-        "Walid Aich"
-      ],
-      "tags": [
-        "machine learning",
-        "Energy Conversion and Management"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.enconman.2026.122314"
       },
       "metrics": {
         "citation_count": 0
