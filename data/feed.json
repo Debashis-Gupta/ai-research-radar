@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:54:44.454931+00:00",
+  "generated_at": "2026-11-17T13:17:48.940144+00:00",
   "papers": [
     {
       "id": "paper-808106f317a48281",
@@ -687,8 +687,8 @@
         "Nushra Tul Zannat",
         "Himadri Sen Gupta",
         "Saeid Ghasemi",
-        "Charles D. Nicholson",
-        "Harvey Cutler",
+        "C. Nicholson",
+        "H. Cutler",
         "Andrés D. González",
         "Milad Roohi"
       ],
@@ -1200,7 +1200,7 @@
         "Changhyun Jun",
         "Seunghyun Hwang",
         "Seoyeong Ku",
-        "Jongjin Baik"
+        "J. Baik"
       ],
       "tags": [
         "machine learning",
@@ -2405,7 +2405,7 @@
       "summary": "Probabilistic stability analysis of soil slopes is essential for reliable geotechnical design due to pronounced uncertainties in soil strength and hydraulic parameters. Although crude Monte Carlo simulation (MCS) provides a robust benchmark, its prohibitive computational cost and the limitations of gradient-based methods such as FORM and SORM in handling nonlinear and non-Gaussian performance functions restrict their practica…",
       "authors": [
         "Kenue Abdul Waris",
-        "B. M. Basha"
+        "B. Basha"
       ],
       "tags": [
         "probabilistic",
@@ -3132,8 +3132,8 @@
         "Asim Ibrahim",
         "Ugo Fiore",
         "Arcangelo Castiglione",
-        "Massimo Ficco",
-        "Francesco Palmieri"
+        "M. Ficco",
+        "F. Palmieri"
       ],
       "tags": [
         "multimodal",
@@ -3306,7 +3306,7 @@
         "Saeed Hanifi",
         "Daniel J. Smith",
         "A. Hanifi",
-        "Mahdi Shahbakhti"
+        "M. Shahbakhti"
       ],
       "tags": [
         "machine learning",
@@ -3388,13 +3388,13 @@
       "published": "2027-01-01T00:00:00+00:00",
       "summary": "",
       "authors": [
-        "Muhammad Shahar Yar",
+        "M. Yar",
         "Faiza Rehman",
         "Ahmed Y. Elnagar",
         "Muhammad Bilal",
         "Hafiz Muhammad Mubeen",
         "I. H. Ibeogu",
-        "H. K. Bako",
+        "H. Bako",
         "Abisikha Regmi",
         "Fawze Alnadari",
         "Chun-Bao Li"
@@ -3423,7 +3423,7 @@
       "summary": "Field compliance checking seeks to automate the process of extracting safety requirements, capturing site information, identifying violations, and generating documentation for different responsible parties to improve construction site safety. However, existing safety checking methods are typically limited in their ability to employ domain knowledge and multimodal data, and they often lack generalizability and scalability. The…",
       "authors": [
         "Xi-Yu Wang",
-        "Nora El-Gohary"
+        "N. El-Gohary"
       ],
       "tags": [
         "multimodal",
@@ -3511,9 +3511,9 @@
         "Xian-Zhang Hu",
         "Xiao-Xia Li",
         "Mian Li",
-        "K. Tanev",
+        "Kaloyan S. Tanev",
         "D. Benedek",
-        "Robert J. Ursano"
+        "R. Ursano"
       ],
       "tags": [
         "machine learning",
@@ -4157,7 +4157,7 @@
       "published": "2027-01-01T00:00:00+00:00",
       "summary": "",
       "authors": [
-        "Marco A. B. Zanoni",
+        "M. Zanoni",
         "Zhe Liang"
       ],
       "tags": [
@@ -4623,7 +4623,7 @@
         "Dang Kien Nguyen",
         "Rim ElMalki",
         "Filippo Rebecchi",
-        "Raymond Knopp",
+        "R. Knopp",
         "Melek Önen"
       ],
       "tags": [
@@ -4878,7 +4878,7 @@
       "authors": [
         "Jafar Jafari-Asl",
         "You Dong",
-        "Panagiotis Spyridis"
+        "P. Spyridis"
       ],
       "tags": [
         "large language model",
@@ -5215,6 +5215,17 @@
   ],
   "blogs": [
     {
+      "id": "blog-590cb0b9c5dd23f2",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
       "id": "blog-f26f2a4dfd6b9b95",
       "title": "Broadening access to AI for scientists",
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
@@ -5248,6 +5259,17 @@
       ]
     },
     {
+      "id": "blog-f054a54f8228cfac",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "source": "OpenAI",
+      "published": "2026-11-16T09:30:00+00:00",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
       "id": "blog-91e58e2ea930c2fa",
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
@@ -5270,23 +5292,23 @@
       ]
     },
     {
-      "id": "blog-b0ded74e06b06613",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "source": "OpenAI",
-      "published": "2026-11-16T06:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
       "id": "blog-cfcc7acb02e9ca79",
       "title": "More ways to move care forward with ChatGPT for Healthcare",
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "source": "OpenAI",
       "published": "2026-11-16T06:00:00+00:00",
       "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "blog-b0ded74e06b06613",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI",
+      "published": "2026-11-16T06:00:00+00:00",
+      "summary": "",
       "tags": [
         "agent"
       ]
@@ -5725,28 +5747,6 @@
       ]
     },
     {
-      "id": "blog-23b94c697622500f",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "source": "OpenAI",
-      "published": "2026-11-09T08:00:00+00:00",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
-      "id": "blog-932fe34bad728f30",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "source": "OpenAI",
-      "published": "2026-11-09T08:00:00+00:00",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-82196d4ece0a644e",
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
@@ -5880,6 +5880,20 @@
     }
   ],
   "videos": [
+    {
+      "id": "video-66042cf0118a9e76",
+      "video_id": "gl2U4fGTr6g",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg",
+      "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+      "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+      "source": "Two Minute Papers",
+      "published": "2026-11-17T12:46:24+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf https://openai.com/index/building-scientific-understanding-with-academic-communities/ 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possibl…",
+      "tags": [
+        "technical video"
+      ]
+    },
     {
       "id": "video-29f0719587505738",
       "video_id": "4XqexiQSx_Y",
@@ -6240,20 +6254,6 @@
       "summary": "A beautiful puzzle that eluded AI, and the intuition it requires. Check out our virtual career fair: https://3b1b.co/talent See new videos early: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com Note for the quote at the end: The person who wrote that wanted me to relay a desir…",
       "tags": [
         "rag"
-      ]
-    },
-    {
-      "id": "video-0c3e7fe15b24fc0f",
-      "video_id": "vIHw_2VjSUw",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
-      "title": "DeepSeek’s Insane New Architecture",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "source": "Two Minute Papers",
-      "published": "2026-09-18T07:03:46+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies! Sources: https://x.com/flowith/status/2099446892174406055/video/1 https://x.com/loktar00/status/2097761…",
-      "tags": [
-        "technical video"
       ]
     },
     {
@@ -6748,6 +6748,20 @@
   ],
   "channel_videos": [
     {
+      "id": "video-66042cf0118a9e76",
+      "video_id": "gl2U4fGTr6g",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg",
+      "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+      "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+      "source": "Two Minute Papers",
+      "published": "2026-11-17T12:46:24+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf https://openai.com/index/building-scientific-understanding-with-academic-communities/ 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possibl…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
       "id": "video-29f0719587505738",
       "video_id": "4XqexiQSx_Y",
       "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
@@ -7107,20 +7121,6 @@
       "summary": "A beautiful puzzle that eluded AI, and the intuition it requires. Check out our virtual career fair: https://3b1b.co/talent See new videos early: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com Note for the quote at the end: The person who wrote that wanted me to relay a desir…",
       "tags": [
         "rag"
-      ]
-    },
-    {
-      "id": "video-0c3e7fe15b24fc0f",
-      "video_id": "vIHw_2VjSUw",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
-      "title": "DeepSeek’s Insane New Architecture",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "source": "Two Minute Papers",
-      "published": "2026-09-18T07:03:46+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies! Sources: https://x.com/flowith/status/2099446892174406055/video/1 https://x.com/loktar00/status/2097761…",
-      "tags": [
-        "technical video"
       ]
     },
     {
