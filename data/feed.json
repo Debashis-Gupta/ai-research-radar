@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:28:45.210917+00:00",
+  "generated_at": "2026-11-17T02:54:44.454931+00:00",
   "papers": [
     {
       "id": "paper-808106f317a48281",
@@ -463,7 +463,7 @@
         "Xu-Kang Wang",
         "Jue Ma",
         "Chen-Bo Zhao",
-        "Yoshiki Ogawa",
+        "Y. Ogawa",
         "Yoshihide Sekimoto"
       ],
       "tags": [
@@ -1001,7 +1001,7 @@
         "Aleka Melese Ayalew",
         "Md Rabiul Hasan",
         "T. Seppänen",
-        "Mourad Oussalah"
+        "M. Oussalah"
       ],
       "tags": [
         "large language model",
@@ -1469,7 +1469,7 @@
         "Nasrullah Khan",
         "Aman Ullah",
         "Xiao-Yuan Jing",
-        "Kemal Polat",
+        "K. Polat",
         "Zong-Min Ma"
       ],
       "tags": [
@@ -2024,7 +2024,7 @@
         "T. Hammerschmidt",
         "J. Crivello",
         "Toshiyuki Koyama",
-        "Taichi Abe"
+        "T. Abe"
       ],
       "tags": [
         "machine learning",
@@ -3800,7 +3800,7 @@
         "Nicolò Sabetta",
         "Filippo Bianchini",
         "Marco Calamo",
-        "Francesco Costantino",
+        "F. Costantino",
         "Letizia Lorenzo",
         "Massimo Mecella",
         "Jacopo Rossi",
@@ -4971,8 +4971,8 @@
         "Pei-Ran Li",
         "Wen-Xiao Jiang",
         "Jun-Dong Chen",
-        "Noboru Koshizuka",
-        "Ryosuke Shibasaki",
+        "N. Koshizuka",
+        "R. Shibasaki",
         "Ren-He Jiang"
       ],
       "tags": [
@@ -5298,6 +5298,17 @@
       "source": "OpenAI",
       "published": "2026-11-16T00:00:00+00:00",
       "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-3899b6e8ee3cc1f1",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "source": "OpenAI",
+      "published": "2026-11-16T00:00:00+00:00",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
       "tags": [
         "AI/ML"
       ]
@@ -5731,17 +5742,6 @@
       "source": "OpenAI",
       "published": "2026-11-09T08:00:00+00:00",
       "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-bc8f9eac19663ff6",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI",
-      "published": "2026-11-06T08:00:00+00:00",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "tags": [
         "AI/ML"
       ]
