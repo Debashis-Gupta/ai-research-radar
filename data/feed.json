@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:17:48.940144+00:00",
+  "generated_at": "2026-11-17T23:29:19.805984+00:00",
   "papers": [
     {
       "id": "paper-808106f317a48281",
@@ -558,6 +558,37 @@
       "pdf_url": ""
     },
     {
+      "id": "paper-1b3f1b3c1bba58b9",
+      "title": "Predicting late-pregnancy depression using machine learning: A longitudinal study with external validation",
+      "url": "https://www.semanticscholar.org/paper/f7f1e0f6d80660beb781b62a628202373178a926",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Dian-Rui Yao",
+        "Qian Huang",
+        "C. Liu",
+        "Dan Chen",
+        "Zhi-Jie Zou",
+        "Yun Hua",
+        "Xiao-Li Chen"
+      ],
+      "tags": [
+        "machine learning",
+        "International Journal of Medical Informatics"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.ijmedinf.2026.106813"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1386505626005538/pdf"
+    },
+    {
       "id": "paper-9e130769f68c0dd0",
       "title": "Dual-timescale reinforcement learning for cooperative control of a servo-hydraulic die cushion",
       "url": "https://www.semanticscholar.org/paper/f4e44fed8fc2e7bcc4e5eee4e32bfbeb9600411e",
@@ -1102,6 +1133,33 @@
       "pdf_url": ""
     },
     {
+      "id": "paper-49cdad8e6e626e19",
+      "title": "A SMOTE-Stacking-TPE Model for Urban Traffic Accident Severity Classification and Interpretation at Intersections and Nonintersections",
+      "url": "https://www.semanticscholar.org/paper/8ccb8b934266b75a6321a3a76260d90d1a8d0cdc",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "In traffic safety analysis, studies have conducted traffic accident severity classification and feature importance analysis based on machine learning models. However, most related studies adopt a single machine learning model, making it difficult to mine the data fully. Meanwhile, when analyzing the causes of accidents, related studies did not take into account the potential heterogeneity of features that affect traffic accid…",
+      "authors": [
+        "Heng-Yi Zhang",
+        "G. Yannis",
+        "Y. Ci"
+      ],
+      "tags": [
+        "machine learning",
+        "Journal of Transportation Engineering Part A Systems"
+      ],
+      "external_ids": {
+        "doi": "10.1061/jtepbs.teeng-9870"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
       "id": "paper-c5b832b2e802a9ca",
       "title": "Cross-attention multi-scale graph reinforcement learning for dynamic flexible job-shop scheduling under hybrid uncertainty",
       "url": "https://www.semanticscholar.org/paper/85699d41c83dbb7d02d5642fda5025136b05c1f8",
@@ -1184,6 +1242,31 @@
         "citation_count": 0
       },
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0009250926019317/pdf"
+    },
+    {
+      "id": "paper-be2282cc5c0b2f67",
+      "title": "Physiological micro-movement tracking via FMCW radars: An actuator-driven phantom setup with machine learning and image processing",
+      "url": "https://www.semanticscholar.org/paper/7c890264a79b660e566159c2a4554770f9b5bb26",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Nurhan Güneş"
+      ],
+      "tags": [
+        "machine learning",
+        "Measurement"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.measurement.2026.123822"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0263224126035323/pdf"
     },
     {
       "id": "paper-d76e4753c1ebd4e4",
@@ -1591,7 +1674,7 @@
       "published": "2027-02-01T00:00:00+00:00",
       "summary": "",
       "authors": [
-        "Hamed Afrasiab"
+        "H. Afrasiab"
       ],
       "tags": [
         "machine learning",
@@ -1645,7 +1728,7 @@
       "published": "2027-02-01T00:00:00+00:00",
       "summary": "",
       "authors": [
-        "Venkat S. Maduri",
+        "V. Maduri",
         "K. Nakshatrala"
       ],
       "tags": [
@@ -1704,13 +1787,41 @@
       "authors": [
         "Fernando S. Seijas",
         "Raúl H. López",
-        "Valeria Cornette"
+        "V. Cornette"
       ],
       "tags": [
         "Ecological Modelling"
       ],
       "external_ids": {
         "doi": "10.1016/j.ecolmodel.2026.111905"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-b85d68a062935b17",
+      "title": "Heterogeneous graph Mamba with critical node identification for end-to-end deep reinforcement learning in distributed heterogeneous flexible job shop scheduling",
+      "url": "https://www.semanticscholar.org/paper/49266242c6cad8bf29d2723d57a5bec041ac2e7b",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Fang-Yu Li",
+        "Jia-Rong Du",
+        "Jing-Fang Chen",
+        "Ying Hou"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Expert systems with applications"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.eswa.2026.135009"
       },
       "metrics": {
         "citation_count": 0
@@ -2135,6 +2246,32 @@
       "pdf_url": ""
     },
     {
+      "id": "paper-12cd8e93994c6847",
+      "title": "Beyond true/false in generative AI: Contextual agreement states for reliable statements in human–AI software work",
+      "url": "https://www.semanticscholar.org/paper/10d41cc31922988a88496267ba62bb464c60c50f",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "H. Müller",
+        "M. Plass",
+        "A. Holzinger"
+      ],
+      "tags": [
+        "Information and Software Technology"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.infsof.2026.108387"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.1016/j.infsof.2026.108387"
+    },
+    {
       "id": "paper-0a28a261c0ea4167",
       "title": "MSFNER-LLMs: A multi-granularity semantic fusion and entity-constrained LLM framework for patent knowledge graph construction",
       "url": "https://www.semanticscholar.org/paper/0d36b78d70904f7336629b4bab2d4029f8785930",
@@ -2233,7 +2370,7 @@
       "published": "2027-01-05T00:00:00+00:00",
       "summary": "Generative AI has become part of scholarly publishing, but policies governing its use remain unsettled. Drawing on research, editorial experience, and familiar publishing technologies, this article asks editors to look beyond whether AI was used and consider what actually matters: confidentiality, accuracy, scholarly integrity, human accountability, and sound editorial judgment.",
       "authors": [
-        "Leslie H. Nicoll"
+        "L. Nicoll"
       ],
       "tags": [
         "The Working Guide to Editorial Systems"
@@ -2555,7 +2692,7 @@
         "Piyush Kumar",
         "Pavan Hiremath",
         "B. Maddodi",
-        "A. Bongale",
+        "Arunkumar M. Bongale",
         "Satish Kumar"
       ],
       "tags": [
@@ -2990,7 +3127,7 @@
       "summary": "",
       "authors": [
         "Ayoub ben Cheikhi",
-        "E. Nfaoui"
+        "El Habib Nfaoui"
       ],
       "tags": [
         "multimodal",
@@ -3046,9 +3183,9 @@
       "published": "2027-01-01T00:00:00+00:00",
       "summary": "",
       "authors": [
-        "Frendy Jaya Kusuma",
+        "F. J. Kusuma",
         "Saifuddin Aziz",
-        "B. Pidhatika",
+        "Bidhari Pidhatika",
         "I. W. Ngarayana",
         "A. R. Antariksawan"
       ],
@@ -3217,7 +3354,7 @@
         "Yuhang Ma",
         "Ze Chen",
         "Xiaohuan Shan",
-        "Likuan Du",
+        "Li-Kuan Du",
         "Bao-Yan Song"
       ],
       "tags": [
@@ -3391,7 +3528,7 @@
         "M. Yar",
         "Faiza Rehman",
         "Ahmed Y. Elnagar",
-        "Muhammad Bilal",
+        "M. Bilal",
         "Hafiz Muhammad Mubeen",
         "I. H. Ibeogu",
         "H. Bako",
@@ -3768,11 +3905,11 @@
       "published": "2027-01-01T00:00:00+00:00",
       "summary": "",
       "authors": [
-        "A. Zhaksylykov",
+        "Azamat Zhaksylykov",
         "Daulet Tazhbagambetov",
         "Diar Demeubay",
         "A. Toleuova",
-        "I. Tursynbek",
+        "Iliyas Tursynbek",
         "Assiya Yermukhambetova"
       ],
       "tags": [
@@ -3817,6 +3954,34 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.1016/j.compind.2026.104563"
+    },
+    {
+      "id": "paper-58bc58d3bd6a7c0b",
+      "title": "Machine learning guided minimum X-bracing design for progressive collapse prevention in RC buildings",
+      "url": "https://www.semanticscholar.org/paper/d176ece3b92c6882abb12eeba9784ed9ac601e87",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "M. Jadallah",
+        "M. Sahin",
+        "A. Doǧangün",
+        "M. Nehdi"
+      ],
+      "tags": [
+        "machine learning",
+        "Engineering structures"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.engstruct.2026.124089"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0141029626020031/pdf"
     },
     {
       "id": "paper-3abe0bb9a6985a3a",
@@ -4331,7 +4496,7 @@
       "published": "2027-01-01T00:00:00+00:00",
       "summary": "",
       "authors": [
-        "K. Vaishnav",
+        "Kosha Navnit Vaishnav",
         "S. Nikhil",
         "Ravi Prakash Verma",
         "Biswajit Saha"
@@ -4443,7 +4608,7 @@
       "summary": "This study presents a comparative evaluation of six machine learning models for predicting the condition ratings of cast-in-place and precast concrete bridge decks using a large-scale nationwide bridge data set. The study combines machine learning techniques with genetic algorithm-based hyperparameter optimization to improve prediction performance and support bridge maintenance and rehabilitation decision-making. The models w…",
       "authors": [
         "Hadil Helaly",
-        "Khaled El-Rayes",
+        "K. El-Rayes",
         "Ernest-John Ignacio"
       ],
       "tags": [
@@ -4767,7 +4932,7 @@
       "published": "2027-01-01T00:00:00+00:00",
       "summary": "",
       "authors": [
-        "Ali Tozar"
+        "A. Tozar"
       ],
       "tags": [
         "machine learning",
@@ -5042,178 +5207,31 @@
         "citation_count": 0
       },
       "pdf_url": ""
-    },
-    {
-      "id": "paper-88057902dc28568a",
-      "title": "Spatio-temporal large language model for zero-shot EV charging demand prediction: Beneficial to station energy management under data scarcity",
-      "url": "https://www.semanticscholar.org/paper/af36b7b2dbfdd4313a969bc0287f9f7092d056bf",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Zhe Zhang",
-        "Hong-Yi Lin",
-        "Jing-Chun Zhang",
-        "Bang-Yang Wei",
-        "Bo-Wen Li",
-        "Yang Liu",
-        "Qing Yu"
-      ],
-      "tags": [
-        "large language model",
-        "Applied Energy"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.apenergy.2026.129094"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-029e9139808a77c8",
-      "title": "A reinforcement learning-enhanced interpretable prototype deep network for predicting pulmonary nodule malignancy",
-      "url": "https://www.semanticscholar.org/paper/ae3519b92433e2aa41b0c4d2218631c3289747a0",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Hongqiao Dong",
-        "Haiping Liu",
-        "Bo Liu"
-      ],
-      "tags": [
-        "reinforcement learning",
-        "Computer Science",
-        "Expert systems with applications"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.eswa.2026.133687"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.1016/j.eswa.2026.133687"
-    },
-    {
-      "id": "paper-ca8857e4457ec5da",
-      "title": "Large language model-guided dual-addressing memory and nonlinear subspace projection constraints for electric power equipment inspection",
-      "url": "https://www.semanticscholar.org/paper/ad754e274070ca7e76712230bdbbc9548ab86b4b",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Qien Yu",
-        "Hao Li",
-        "Bo Wu"
-      ],
-      "tags": [
-        "large language model",
-        "Advanced Engineering Informatics"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.aei.2026.105374"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-9e4e37a0e59b6303",
-      "title": "Uncertainty-aware machine learning framework for localization of critical failures in truss bridges",
-      "url": "https://www.semanticscholar.org/paper/ad740a2c4516027fac6f406d2c8765f349d1bdfe",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Safae Mammeri",
-        "Armin Dadras Eslamlou",
-        "B. Barros",
-        "B. Riveiro"
-      ],
-      "tags": [
-        "machine learning",
-        "Engineering structures"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.engstruct.2026.123964"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S014102962601878X/pdf"
-    },
-    {
-      "id": "paper-c6f341461f6878ac",
-      "title": "A stochastic-computing hardware accelerator for rotary position embedding in large language models",
-      "url": "https://www.semanticscholar.org/paper/ad53553eb79513b57e694b7153e40173f5f34d5d",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Xiao-Yu Zhang",
-        "Liang Wang",
-        "Li-Min Xiao"
-      ],
-      "tags": [
-        "large language model",
-        "Integration"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.vlsi.2026.102920"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": ""
-    },
-    {
-      "id": "paper-fc8a12db0b5a3d24",
-      "title": "Operating-zone identification of an auxiliary electrode electrostatic roll separator for ilmenite recovery using explainable machine learning",
-      "url": "https://www.semanticscholar.org/paper/ad237ec455a91391c4614c44cde01fe8d06a13ed",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "B. Manjeera",
-        "Parthasarathy Iyengar",
-        "Chetan V. Gurada",
-        "B. J. Nagare"
-      ],
-      "tags": [
-        "machine learning",
-        "Minerals Engineering"
-      ],
-      "external_ids": {
-        "doi": "10.1016/j.mineng.2026.110950"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.2139/ssrn.7217243"
     }
   ],
   "blogs": [
+    {
+      "id": "blog-549a77347d5e1e5f",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
+      "published": "2026-11-17T17:45:00+00:00",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-c6c361c53bc4ce2d",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "id": "blog-590cb0b9c5dd23f2",
       "title": "Strengthening NATO and allied cyber defenses with AI",
@@ -5221,6 +5239,28 @@
       "source": "OpenAI",
       "published": "2026-11-17T00:00:00+00:00",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-0604bc2b50fc0c3b",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-58da9c66b1456ac9",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "tags": [
         "AI/ML"
       ]
@@ -5490,6 +5530,17 @@
       ]
     },
     {
+      "id": "blog-a045ec708b22e25e",
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "source": "OpenAI",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
       "id": "blog-f28f90d2895a812c",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -5633,39 +5684,6 @@
       ]
     },
     {
-      "id": "blog-4e3e5904c85ae763",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "source": "OpenAI",
-      "published": "2026-11-10T08:00:00+00:00",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-3588ceed41552e46",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "OpenAI",
-      "published": "2026-11-10T07:00:00+00:00",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-1ff74ee2cb106637",
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "url": "https://openai.com/index/cogent-security",
-      "source": "OpenAI",
-      "published": "2026-11-10T00:00:00+00:00",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
       "id": "blog-724fae9251483a53",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
@@ -5694,28 +5712,6 @@
       "source": "Google DeepMind",
       "published": "2026-11-09T19:51:47+00:00",
       "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-9c331579e229757a",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "source": "OpenAI",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
-      "id": "blog-f37b680abcf7adcb",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "source": "OpenAI",
-      "published": "2026-11-09T13:00:00+00:00",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
       "tags": [
         "AI/ML"
       ]
@@ -5881,6 +5877,34 @@
   ],
   "videos": [
     {
+      "id": "video-5bfa4c0336cda25e",
+      "video_id": "qbsb9DpdZ6s",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/qbsb9DpdZ6s/hqdefault.jpg",
+      "title": "How to compress text to 1 bit per character | Compression is Intelligence Part 3",
+      "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
+      "source": "3Blue1Brown",
+      "published": "2026-11-17T16:43:16+00:00",
+      "summary": "Arithmetic codes and how they elucidate this trilogy's title Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support Other resources you may enjoy. On Asymmetric numeral systems: https://arxiv.org/abs/0902.0271 https://demonstrations.wolfram.com/DataCompressionUsingAsymmetricN…",
+      "tags": [
+        "rag"
+      ]
+    },
+    {
+      "id": "video-32bc7f466c7e37b3",
+      "video_id": "0IZcjWtWmDA",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/0IZcjWtWmDA/hqdefault.jpg",
+      "title": "Encoding the encyclopedia on a rod",
+      "url": "https://www.youtube.com/shorts/0IZcjWtWmDA",
+      "source": "3Blue1Brown",
+      "published": "2026-11-17T16:43:03+00:00",
+      "summary": "Full video: https://youtu.be/qbsb9DpdZ6s",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
       "id": "video-66042cf0118a9e76",
       "video_id": "gl2U4fGTr6g",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -5975,15 +5999,13 @@
       "video_id": "euwIxfkAJMU",
       "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
       "thumbnail": "https://i.ytimg.com/vi/euwIxfkAJMU/hqdefault.jpg",
-      "title": "Principle Component Analysis (PCA): Concepts and Code",
+      "title": "Principal Component Analysis (PCA): Concepts and Code",
       "url": "https://www.youtube.com/watch?v=euwIxfkAJMU",
       "source": "StatQuest",
       "published": "2026-11-09T12:15:02+00:00",
-      "summary": "Sign up for FREE Concepts and Code Livestreams at: https://live.statquest.org/masterclasses ALSO, enrollment is now OPEN for the StatQuest Machine Learning Workshop! We'll spend five days diving into the fundamentals of machine learning, breaking down everything from linear regression and decision trees to random forests and neural networks. Learn more at h…",
+      "summary": "Sign up for FREE Concepts and Code Livestreams at: https://live.statquest.org/masterclasses You can play with the PCA code here: https://github.com/StatQuest/concepts_and_code_pca If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tA…",
       "tags": [
-        "machine learning",
-        "neural network",
-        "llm"
+        "technical video"
       ]
     },
     {
@@ -6478,34 +6500,6 @@
       "source": "StatQuest",
       "published": "2026-05-18T04:00:01+00:00",
       "summary": "This StatQuest takes you through basic linear regression, step-by-step, explaining both the method and the motivation behind the method. Each step is broken down into easy-to-understand parts so that anyone can develop a deep understanding of how to do and interpret a linear regression. BAM! If you'd like to support StatQuest, please consider... Patreon: ht…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-fa8759f0b57c3621",
-      "video_id": "QLu_ZsRc_G0",
-      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
-      "thumbnail": "https://i.ytimg.com/vi/QLu_ZsRc_G0/hqdefault.jpg",
-      "title": "Covering 10 points, a surprisingly tricky puzzle.",
-      "url": "https://www.youtube.com/shorts/QLu_ZsRc_G0",
-      "source": "3Blue1Brown",
-      "published": "2026-04-16T16:08:21+00:00",
-      "summary": "Made as part of a monthly series of puzzles for the 2026 Year of Math.",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-060f6f1203a46bfb",
-      "video_id": "Y7ImxZ_YhJk",
-      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
-      "thumbnail": "https://i.ytimg.com/vi/Y7ImxZ_YhJk/hqdefault.jpg",
-      "title": "Escher's most mind-bending piece",
-      "url": "https://www.youtube.com/shorts/Y7ImxZ_YhJk",
-      "source": "3Blue1Brown",
-      "published": "2026-03-27T20:56:02+00:00",
-      "summary": "On \"The Print Gallery\", by M.C. Escher Full video: https://youtu.be/ldxFjLJ3rVY",
       "tags": [
         "technical video"
       ]
@@ -6748,6 +6742,34 @@
   ],
   "channel_videos": [
     {
+      "id": "video-5bfa4c0336cda25e",
+      "video_id": "qbsb9DpdZ6s",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/qbsb9DpdZ6s/hqdefault.jpg",
+      "title": "How to compress text to 1 bit per character | Compression is Intelligence Part 3",
+      "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
+      "source": "3Blue1Brown",
+      "published": "2026-11-17T16:43:16+00:00",
+      "summary": "Arithmetic codes and how they elucidate this trilogy's title Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support Other resources you may enjoy. On Asymmetric numeral systems: https://arxiv.org/abs/0902.0271 https://demonstrations.wolfram.com/DataCompressionUsingAsymmetricN…",
+      "tags": [
+        "rag"
+      ]
+    },
+    {
+      "id": "video-32bc7f466c7e37b3",
+      "video_id": "0IZcjWtWmDA",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "thumbnail": "https://i.ytimg.com/vi/0IZcjWtWmDA/hqdefault.jpg",
+      "title": "Encoding the encyclopedia on a rod",
+      "url": "https://www.youtube.com/shorts/0IZcjWtWmDA",
+      "source": "3Blue1Brown",
+      "published": "2026-11-17T16:43:03+00:00",
+      "summary": "Full video: https://youtu.be/qbsb9DpdZ6s",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
       "id": "video-66042cf0118a9e76",
       "video_id": "gl2U4fGTr6g",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -6842,15 +6864,13 @@
       "video_id": "euwIxfkAJMU",
       "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
       "thumbnail": "https://i.ytimg.com/vi/euwIxfkAJMU/hqdefault.jpg",
-      "title": "Principle Component Analysis (PCA): Concepts and Code",
+      "title": "Principal Component Analysis (PCA): Concepts and Code",
       "url": "https://www.youtube.com/watch?v=euwIxfkAJMU",
       "source": "StatQuest",
       "published": "2026-11-09T12:15:02+00:00",
-      "summary": "Sign up for FREE Concepts and Code Livestreams at: https://live.statquest.org/masterclasses ALSO, enrollment is now OPEN for the StatQuest Machine Learning Workshop! We'll spend five days diving into the fundamentals of machine learning, breaking down everything from linear regression and decision trees to random forests and neural networks. Learn more at h…",
+      "summary": "Sign up for FREE Concepts and Code Livestreams at: https://live.statquest.org/masterclasses You can play with the PCA code here: https://github.com/StatQuest/concepts_and_code_pca If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tA…",
       "tags": [
-        "machine learning",
-        "neural network",
-        "llm"
+        "technical video"
       ]
     },
     {
@@ -7345,34 +7365,6 @@
       "source": "StatQuest",
       "published": "2026-05-18T04:00:01+00:00",
       "summary": "This StatQuest takes you through basic linear regression, step-by-step, explaining both the method and the motivation behind the method. Each step is broken down into easy-to-understand parts so that anyone can develop a deep understanding of how to do and interpret a linear regression. BAM! If you'd like to support StatQuest, please consider... Patreon: ht…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-fa8759f0b57c3621",
-      "video_id": "QLu_ZsRc_G0",
-      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
-      "thumbnail": "https://i.ytimg.com/vi/QLu_ZsRc_G0/hqdefault.jpg",
-      "title": "Covering 10 points, a surprisingly tricky puzzle.",
-      "url": "https://www.youtube.com/shorts/QLu_ZsRc_G0",
-      "source": "3Blue1Brown",
-      "published": "2026-04-16T16:08:21+00:00",
-      "summary": "Made as part of a monthly series of puzzles for the 2026 Year of Math.",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
-      "id": "video-060f6f1203a46bfb",
-      "video_id": "Y7ImxZ_YhJk",
-      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
-      "thumbnail": "https://i.ytimg.com/vi/Y7ImxZ_YhJk/hqdefault.jpg",
-      "title": "Escher's most mind-bending piece",
-      "url": "https://www.youtube.com/shorts/Y7ImxZ_YhJk",
-      "source": "3Blue1Brown",
-      "published": "2026-03-27T20:56:02+00:00",
-      "summary": "On \"The Print Gallery\", by M.C. Escher Full video: https://youtu.be/ldxFjLJ3rVY",
       "tags": [
         "technical video"
       ]
