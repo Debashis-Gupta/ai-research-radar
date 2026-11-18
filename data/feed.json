@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:29:19.805984+00:00",
+  "generated_at": "2026-11-18T07:21:18.588513+00:00",
   "papers": [
     {
       "id": "paper-808106f317a48281",
@@ -5877,6 +5877,20 @@
   ],
   "videos": [
     {
+      "id": "video-f17916608d0ab629",
+      "video_id": "euwIxfkAJMU",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/euwIxfkAJMU/hqdefault.jpg",
+      "title": "Principal Component Analysis (PCA): Concepts and Code",
+      "url": "https://www.youtube.com/watch?v=euwIxfkAJMU",
+      "source": "StatQuest",
+      "published": "2026-11-18T05:02:49+00:00",
+      "summary": "Sign up for FREE Concepts and Code Livestreams at: https://live.statquest.org/masterclasses You can play with the PCA code here: https://github.com/StatQuest/concepts_and_code_pca If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tA…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
       "id": "video-5bfa4c0336cda25e",
       "video_id": "qbsb9DpdZ6s",
       "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -5885,7 +5899,7 @@
       "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
       "source": "3Blue1Brown",
       "published": "2026-11-17T16:43:16+00:00",
-      "summary": "Arithmetic codes and how they elucidate this trilogy's title Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support Other resources you may enjoy. On Asymmetric numeral systems: https://arxiv.org/abs/0902.0271 https://demonstrations.wolfram.com/DataCompressionUsingAsymmetricN…",
+      "summary": "Arithmetic codes and how they elucidate this trilogy's title Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support Other resources you may enjoy. On Arithmetic Codes: https://jacobfilipp.com/DrDobbs/articles/DDJ/1991/9102/9102a/9102a.htm https://www.nayuki.io/page/reference-…",
       "tags": [
         "rag"
       ]
@@ -5992,20 +6006,6 @@
         "machine learning",
         "neural network",
         "llm"
-      ]
-    },
-    {
-      "id": "video-f17916608d0ab629",
-      "video_id": "euwIxfkAJMU",
-      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
-      "thumbnail": "https://i.ytimg.com/vi/euwIxfkAJMU/hqdefault.jpg",
-      "title": "Principal Component Analysis (PCA): Concepts and Code",
-      "url": "https://www.youtube.com/watch?v=euwIxfkAJMU",
-      "source": "StatQuest",
-      "published": "2026-11-09T12:15:02+00:00",
-      "summary": "Sign up for FREE Concepts and Code Livestreams at: https://live.statquest.org/masterclasses You can play with the PCA code here: https://github.com/StatQuest/concepts_and_code_pca If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tA…",
-      "tags": [
-        "technical video"
       ]
     },
     {
@@ -6742,6 +6742,20 @@
   ],
   "channel_videos": [
     {
+      "id": "video-f17916608d0ab629",
+      "video_id": "euwIxfkAJMU",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "thumbnail": "https://i.ytimg.com/vi/euwIxfkAJMU/hqdefault.jpg",
+      "title": "Principal Component Analysis (PCA): Concepts and Code",
+      "url": "https://www.youtube.com/watch?v=euwIxfkAJMU",
+      "source": "StatQuest",
+      "published": "2026-11-18T05:02:49+00:00",
+      "summary": "Sign up for FREE Concepts and Code Livestreams at: https://live.statquest.org/masterclasses You can play with the PCA code here: https://github.com/StatQuest/concepts_and_code_pca If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tA…",
+      "tags": [
+        "technical video"
+      ]
+    },
+    {
       "id": "video-5bfa4c0336cda25e",
       "video_id": "qbsb9DpdZ6s",
       "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -6750,7 +6764,7 @@
       "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
       "source": "3Blue1Brown",
       "published": "2026-11-17T16:43:16+00:00",
-      "summary": "Arithmetic codes and how they elucidate this trilogy's title Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support Other resources you may enjoy. On Asymmetric numeral systems: https://arxiv.org/abs/0902.0271 https://demonstrations.wolfram.com/DataCompressionUsingAsymmetricN…",
+      "summary": "Arithmetic codes and how they elucidate this trilogy's title Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support Other resources you may enjoy. On Arithmetic Codes: https://jacobfilipp.com/DrDobbs/articles/DDJ/1991/9102/9102a/9102a.htm https://www.nayuki.io/page/reference-…",
       "tags": [
         "rag"
       ]
@@ -6857,20 +6871,6 @@
         "machine learning",
         "neural network",
         "llm"
-      ]
-    },
-    {
-      "id": "video-f17916608d0ab629",
-      "video_id": "euwIxfkAJMU",
-      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
-      "thumbnail": "https://i.ytimg.com/vi/euwIxfkAJMU/hqdefault.jpg",
-      "title": "Principal Component Analysis (PCA): Concepts and Code",
-      "url": "https://www.youtube.com/watch?v=euwIxfkAJMU",
-      "source": "StatQuest",
-      "published": "2026-11-09T12:15:02+00:00",
-      "summary": "Sign up for FREE Concepts and Code Livestreams at: https://live.statquest.org/masterclasses You can play with the PCA code here: https://github.com/StatQuest/concepts_and_code_pca If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tA…",
-      "tags": [
-        "technical video"
       ]
     },
     {
