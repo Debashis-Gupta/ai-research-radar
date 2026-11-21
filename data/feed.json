@@ -1,63 +1,6 @@
 {
-  "generated_at": "2026-11-21T01:28:32.680579+00:00",
+  "generated_at": "2026-11-21T12:35:24.446158+00:00",
   "papers": [
-    {
-      "id": "paper-e53654b86259892c",
-      "title": "A survey of macroeconomic nowcasting applications",
-      "url": "https://doi.org/10.52903/wp2026374",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-11-18T00:00:00+00:00",
-      "summary": "Nowcasting, broadly understood as the real-time assessment of current and near-term economic conditions, is a framework of growing importance that helps inform both economic policy decision for Governments and Central banks but also shape strategies of private institutions. In this paper, a dataset of macroeconomic nowcasting application papers is compiled and analyzed to identify the main research themes and gaps in the lite…",
-      "authors": [
-        "Stavros Antonios Degiannakis",
-        "Ioannis Krompas"
-      ],
-      "tags": [
-        "machine learning",
-        "rag",
-        "Forecasting Techniques and Applications",
-        "Monetary Policy and Economic Impact",
-        "Stock Market Forecasting Methods"
-      ],
-      "external_ids": {
-        "doi": "10.52903/wp2026374"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-808106f317a48281",
-      "title": "Simulated Data: Design of a Microstrip Antenna Using Machine Learning",
-      "url": "https://doi.org/10.17632/6b2dmyfj6y",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-11-03T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Jose Torres"
-      ],
-      "tags": [
-        "machine learning",
-        "optimization",
-        "Antenna Design and Optimization",
-        "Antenna Design and Analysis",
-        "Advanced Antenna and Metasurface Technologies"
-      ],
-      "external_ids": {
-        "doi": "10.17632/6b2dmyfj6y"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
     {
       "id": "paper-3685b473fa8f6ec3",
       "title": "Die Macht des Psychotechnischen: Band II Zur Rekonfiguration und Synchronisierung psychischer Tätigkeiten",
@@ -108,39 +51,6 @@
         "citation_count": 1
       },
       "pdf_url": "https://www.j-psp.com/download/short-form-video-and-microlearning-in-english-language-education-a-bibliometric-and-science-mapping-19635.pdf"
-    },
-    {
-      "id": "paper-7684414b3a21f382",
-      "title": "Data and code for: In silico screening of natural compounds targeting outer membrane protein A (OmpA) in Klebsiella pneumoniae",
-      "url": "https://doi.org/10.5281/zenodo.23140529",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-10-10T00:00:00+00:00",
-      "summary": "This dataset contains the data and code supporting an in silico screening study identifying natural compound inhibitors of outer membrane protein A (OmpA) in Klebsiella pneumoniae. It includes the labeled and filtered bioactivity training data used to build machine-learning QSAR models (Random Forest, SVM, KNN, Gaussian Naïve Bayes), the QSAR modeling code, the full SuperNatural 3.0 natural compound library with predicted pMI…",
-      "authors": [
-        "Yasmine El Fathi Lalaoui",
-        "Yassir Boulaamane",
-        "Bothayna Ajmi",
-        "Hassan Nour",
-        "Samir Chtita",
-        "Mohammed Reda Britel",
-        "Younes Smani",
-        "Amal Maurady"
-      ],
-      "tags": [
-        "Computational Drug Discovery Methods",
-        "Synthesis and Characterization of Heterocyclic Compounds",
-        "Synthesis and Biological Evaluation"
-      ],
-      "external_ids": {
-        "doi": "10.5281/zenodo.23140529"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
     },
     {
       "id": "paper-fe145681b9cab3e1",
@@ -208,60 +118,6 @@
       "pdf_url": "https://doi.org/10.25135/rnp.2606.3965"
     },
     {
-      "id": "paper-65621c1c47cc0e38",
-      "title": "Explainable Machine Learning for Early Prediction of Multidrug-Resistant Bacterial Infections: Integrating Clinical, Microbiological, and Molecular Data to Advance Public Health and Antimicrobial Stewardship",
-      "url": "https://doi.org/10.21608/ejmm.2026.530029.2773",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-10-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Mohannad S. Kalkatawi"
-      ],
-      "tags": [
-        "machine learning",
-        "Antibiotic Use and Resistance",
-        "Antibiotic Resistance in Bacteria",
-        "Machine Learning in Healthcare"
-      ],
-      "external_ids": {
-        "doi": "10.21608/ejmm.2026.530029.2773"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-2b5cca56875acecc",
-      "title": "Real-Time Water Quality Forecasting Using a Simulation-Driven IoT and Machine Learning Framework for Resource-Constrained Smart Cities",
-      "url": "https://doi.org/10.52293/wes.1206.1125",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-09-30T00:00:00+00:00",
-      "summary": "This study proposes and evaluates a simulation-driven Internet of Things (IoT) and machine-learning framework for real-time water-quality monitoring and forecasting in resource-constrained smart cities. Ensuring timely and reliable water-quality data remains a critical challenge, as conventional monitoring approaches are often delayed, infrastructure-intensive, and difficult to scale. While IoT-based systems support continuou…",
-      "authors": [
-        "Belinda Mutunhu Ndlovu"
-      ],
-      "tags": [
-        "machine learning",
-        "Water Quality Monitoring Technologies",
-        "Water Quality Monitoring and Analysis",
-        "Environmental Monitoring and Data Management"
-      ],
-      "external_ids": {
-        "doi": "10.52293/wes.1206.1125"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.journalwes.com/article_243243_174e538b35bfb7458b88de8547e94799.pdf"
-    },
-    {
       "id": "paper-de49ab14f86ea213",
       "title": "Developing Resilient Water Supplies for Great Plains Native American Reservations: Rosebud Sioux Tribe (South Dakota, USA) Challenges",
       "url": "https://doi.org/10.52293/wes.1206.1126",
@@ -313,67 +169,6 @@
         "citation_count": 0
       },
       "pdf_url": "https://www.journalwes.com/article_240755_c53e7ac1e6b1d39ef88136d822c79002.pdf"
-    },
-    {
-      "id": "paper-a0ed8943c5442c71",
-      "title": "Dataset for Acetylation-Related Three-Gene Signature in Schizophrenia: Integrative Transcriptomics, Machine Learning Diagnosis, and Immune Associations",
-      "url": "https://doi.org/10.17632/ntt4dkkwhk",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-09-14T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "di di"
-      ],
-      "tags": [
-        "machine learning",
-        "Schizophrenia research and treatment",
-        "Epigenetics and DNA Methylation",
-        "Bioinformatics and Genomic Networks"
-      ],
-      "external_ids": {
-        "doi": "10.17632/ntt4dkkwhk"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-c69adde29b6cc488",
-      "title": "Gastroprotective potential of Bixa orellana: A critical review of extract-specific phytochemistry and preclinical evidence",
-      "url": "https://doi.org/10.25135/rnp.2607.3990",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-09-10T00:00:00+00:00",
-      "summary": "Peptic ulcer disease remains clinically important despite effective Helicobacter pylori (H. pylori) eradication and acid-suppressive therapy. Gastric injury reflects an imbalance between aggressive factors, including acid-pepsin activity, H. pylori, non-steroidal anti-inflammatory drugs (NSAIDs), ethanol, oxidative stress, inflammation, apoptosis, and microvascular disturbance and protective mechanisms such as mucus-bicarbona…",
-      "authors": [
-        "Asma Mohd Shoukat",
-        "Yoke Keong Yong",
-        "Lai Yen Fong",
-        "Chin Theng Ng",
-        "Mohd Sofian Omar Fauzee",
-        "Mahmood Waqas",
-        "Ediyanto Ediyanto",
-        "Muhammad Nazrul Somchit",
-        "Zuraini Ahmad"
-      ],
-      "tags": [
-        "Phytochemistry Medicinal Plant Applications",
-        "Medicinal Plant Research",
-        "Phytochemistry and biological activity of medicinal plants"
-      ],
-      "external_ids": {
-        "doi": "10.25135/rnp.2607.3990"
-      },
-      "metrics": {
-        "citation_count": 2
-      },
-      "pdf_url": "https://doi.org/10.25135/rnp.2607.3990"
     },
     {
       "id": "paper-860003de109d6d46",
@@ -460,72 +255,6 @@
       "pdf_url": null
     },
     {
-      "id": "paper-c8c7c9f9bb88bbc4",
-      "title": "Understanding and analysing extreme rainfall",
-      "url": "https://doi.org/10.19103/as.2027.0187.03",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-07-27T00:00:00+00:00",
-      "summary": "Extreme rainfall and flooding are intensifying worldwide, reshaping risks to agriculture, rural livelihoods, and watershed systems in ways that demand both scientific insight and practical responses. This chapter brings together advances in observing, understanding, and modelling these hazards, linking rainfall extremes, flood dynamics, and risk assessment into a unified framework. It reviews key climate data and tools used t…",
-      "authors": [
-        "Haider Ali",
-        "Abdullah Kahraman",
-        "Saran Aadhar",
-        "Reepal Dinesh Shah",
-        "Parthkumar A. Modi",
-        "Azharuddin Mohammed",
-        "Hayley Jane Fowler"
-      ],
-      "tags": [
-        "machine learning",
-        "Flood Risk Assessment and Management",
-        "Climate variability and models",
-        "Hydrology and Watershed Management Studies"
-      ],
-      "external_ids": {
-        "doi": "10.19103/as.2027.0187.03"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-f902ee07d999eca8",
-      "title": "Modelling extreme rainfall and flood risk",
-      "url": "https://doi.org/10.19103/as.2027.0187.22",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-07-27T00:00:00+00:00",
-      "summary": "Flood risk is increasingly shaped by intensifying rainfall extremes interacting with complex catchment processes under a changing climate. This chapter brings together advances in modelling frameworks that link extreme rainfall to flood generation and risk assessment. It reviews recent developments in hydrological and hydraulic modelling, including machine learning and physics-informed approaches that improve prediction acros…",
-      "authors": [
-        "Haider Ali",
-        "Azharuddin Mohammed",
-        "Abdullah Kahraman",
-        "Hayley Jane Fowler",
-        "Parthkumar A. Modi",
-        "Reepal Dinesh Shah",
-        "Saran Aadhar"
-      ],
-      "tags": [
-        "machine learning",
-        "Flood Risk Assessment and Management",
-        "Hydrology and Watershed Management Studies",
-        "Urban Stormwater Management Solutions"
-      ],
-      "external_ids": {
-        "doi": "10.19103/as.2027.0187.22"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
       "id": "paper-48ba4b3628a37f8b",
       "title": "Future VLSI Architectures for Neuromorphic Computing, Edge AI and Sustainable Systems",
       "url": "https://doi.org/10.61877/ijmrp.v3i7.293",
@@ -552,34 +281,6 @@
         "citation_count": 1
       },
       "pdf_url": "https://chandigarhphilosophers.com/index.php/ijmrp/article/download/293/213"
-    },
-    {
-      "id": "paper-9515a0ae0dc140c8",
-      "title": "Feasibility Analysis of Hybrid Green Power Generation System for Healthcare Institutions",
-      "url": "https://doi.org/10.64470/elene.2026.37",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-07-22T00:00:00+00:00",
-      "summary": "Reliable and sustainable electricity supply is essential for healthcare facilities, where power interruptions can compromise critical medical services and patient safety. This study evaluates the techno-economic and environmental feasibility of a grid-connected hybrid green power generation system for healthcare institutions using the HOMER Pro optimization software. The proposed configuration comprises a 50 kW solar photovol…",
-      "authors": [
-        "Paul Kusi"
-      ],
-      "tags": [
-        "rag",
-        "optimization",
-        "Hybrid Renewable Energy Systems",
-        "Integrated Energy Systems Optimization",
-        "Power Systems and Renewable Energy"
-      ],
-      "external_ids": {
-        "doi": "10.64470/elene.2026.37"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.jelene.org/index.php/elene/article/download/71/39"
     },
     {
       "id": "paper-76c58710baeecaca",
@@ -643,33 +344,6 @@
       "pdf_url": "https://research.pilar.or.id/index.php/jodesma/article/download/12/25"
     },
     {
-      "id": "paper-12c19497d8f64444",
-      "title": "A machine learning classifier reveals hidden rare bi-allelic heterozygous variants in the coding regions of Meniere Disease genome. Mohseni et al.",
-      "url": "https://doi.org/10.17632/8dgfvbyyrk",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-07-17T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Jose Antonio Lopez-Escamez"
-      ],
-      "tags": [
-        "machine learning",
-        "Vestibular and auditory disorders",
-        "Genomics and Rare Diseases",
-        "Hearing, Cochlea, Tinnitus, Genetics"
-      ],
-      "external_ids": {
-        "doi": "10.17632/8dgfvbyyrk"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
       "id": "paper-08b30e863f7ff1de",
       "title": "Nasal in-situ Transferosomes as a Platform Technology for Nose-to-Brain Drug Delivery",
       "url": "https://doi.org/10.52403/gijhsr.20260303",
@@ -727,156 +401,6 @@
         "citation_count": 0
       },
       "pdf_url": null
-    },
-    {
-      "id": "paper-d208e11a5f2d2c33",
-      "title": "Predictive Diagnosis of Intestinal Parasitic Infections Using Clinical Symptoms and Epidemiological Risk Factors: A Machine Learning Approach",
-      "url": "https://doi.org/10.21608/ejmm.2026.507667.2640",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-07-01T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Eman S. El-Wakil",
-        "Abdelrahman Said",
-        "Manar Lashin",
-        "Hassan A. Elgebaly",
-        "Fatma El-zahraa R. Saleh"
-      ],
-      "tags": [
-        "machine learning",
-        "artificial intelligence",
-        "Parasitic Infections and Diagnostics",
-        "Artificial Intelligence in Healthcare",
-        "Parasites and Host Interactions"
-      ],
-      "external_ids": {
-        "doi": "10.21608/ejmm.2026.507667.2640"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": null
-    },
-    {
-      "id": "paper-e0cbd5a9dd7367f0",
-      "title": "Sinkhole susceptibility and genesis at the southwestern slope of the Mount Sirino (Basilicata, Southern Italy): insights from field survey and machine learning modeling",
-      "url": "https://doi.org/10.3301/rol.2026.39",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-07-01T00:00:00+00:00",
-      "summary": "The southwestern slope of the Mount Sirino (Basilicata, Southern Italy) is characterized by complex geological conditions favouring heterogeneous sinkhole phenomena. The most prominent geomorphological feature is Lake Sirino, formed on a large landslide deposit and frequently affected by piping-related sinkhole phenomena. This study uses an integrated approach combining geological and geomorphological surveys, remote sensing…",
-      "authors": [
-        "Patrizio Petricca",
-        "Stefania Nisio",
-        "Pantaleone De Vita",
-        "Giancarlo Ciotoli",
-        "Vincenzo Allocca"
-      ],
-      "tags": [
-        "machine learning",
-        "Karst Systems and Hydrogeology",
-        "Landslides and related hazards",
-        "Soil erosion and sediment transport"
-      ],
-      "external_ids": {
-        "doi": "10.3301/rol.2026.39"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.rendicontisocietageologicaitaliana.it/fulltext/4336/sinkhole-susceptibility-and-genesis-at-the-southwestern-slope-of-the-mount-sirino-basilicata-southern-italy-insights-from-field-survey-and-machine-learning-modeling"
-    },
-    {
-      "id": "paper-33ed44bd8bd46868",
-      "title": "“Calcare Cavernoso” as a key predisposing factor for sinkhole occurrence in Tuscany (Italy): inventory update, remote sensing detection, and GIS–ML susceptibility modelling",
-      "url": "https://doi.org/10.3301/rol.2026.40",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-07-01T00:00:00+00:00",
-      "summary": "The “Calcare Cavernoso” (cavernous limestone) formation is a dolomitic carbonate unit characterized by a vacuolar texture and high intrinsic porosity, which favours groundwater-driven dissolution and cavity development and may predispose to subsidence. This study investigates the spatial relationship between sinkholes and the distribution of “Calcare Cavernoso” in Tuscany (Italy) and updates the regional subset of the ISPRA n…",
-      "authors": [
-        "Marina Funaro",
-        "Stefania Nisio",
-        "Sergio Madonna"
-      ],
-      "tags": [
-        "Karst Systems and Hydrogeology",
-        "Landslides and related hazards",
-        "Synthetic Aperture Radar (SAR) Applications and Techniques"
-      ],
-      "external_ids": {
-        "doi": "10.3301/rol.2026.40"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.rendicontisocietageologicaitaliana.it/fulltext/4337/calcare-cavernoso-as-a-key-predisposing-factor-for-sinkhole-occurrence-in-tuscany-italy-inventory-update-remote-sensing-detection-and-gis-ml-susceptibility-modelling"
-    },
-    {
-      "id": "paper-7faa3b806387e80e",
-      "title": "Anthropogenic sinkholes in the urban fabric of Messina (Sicily, Italy)",
-      "url": "https://doi.org/10.3301/rol.2026.44",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-07-01T00:00:00+00:00",
-      "summary": "Urban anthropogenic sinkholes are increasingly reported in Messina (Sicily, Italy), where culverted torrents, legacy underground works, and dense utilities intersect a Holocene coastal/alluvial plain. We present an updated, georeferenced inventory of sinkholes within the municipal urban area, built from local press/ web sources and field cross-checks, and we assess spatial relationships with culverted drainage and known urban…",
-      "authors": [
-        "Mauro Bonasera",
-        "Stefania Nisio",
-        "Luigi Guerriero"
-      ],
-      "tags": [
-        "Landslides and related hazards",
-        "Synthetic Aperture Radar (SAR) Applications and Techniques",
-        "Karst Systems and Hydrogeology"
-      ],
-      "external_ids": {
-        "doi": "10.3301/rol.2026.44"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.rendicontisocietageologicaitaliana.it/fulltext/4341/anthropogenic-sinkholes-in-the-urban-fabric-of-messina-sicily-italy"
-    },
-    {
-      "id": "paper-a55bef4e372557ae",
-      "title": "Mapping natural sinkhole susceptibility in Italy: integrating a national inventory with machine learning",
-      "url": "https://doi.org/10.3301/rol.2026.47",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-07-01T00:00:00+00:00",
-      "summary": "Natural sinkholes are a widespread geohazard in Italy, complicating landuse planning and risk reduction. This study develops the first national-scale susceptibility map for natural sinkholes using an updated inventory and data-driven modelling. Building on the ISPRA National Sinkhole Database, we assembled more than 14,000 documented features from literature, historical records, imagery and regional datasets. Geological, geom…",
-      "authors": [
-        "Livio Ruggiero",
-        "Giancarlo Ciotoli",
-        "Federico Mori",
-        "Sergio Madonna",
-        "Stefania Nisio"
-      ],
-      "tags": [
-        "machine learning",
-        "Karst Systems and Hydrogeology",
-        "Landslides and related hazards",
-        "Synthetic Aperture Radar (SAR) Applications and Techniques"
-      ],
-      "external_ids": {
-        "doi": "10.3301/rol.2026.47"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://www.rendicontisocietageologicaitaliana.it/fulltext/4344/mapping-natural-sinkhole-susceptibility-in-italy-integrating-a-national-inventory-with-machine-learning"
     },
     {
       "id": "paper-7e537f9075aa91b6",
@@ -1414,7 +938,7 @@
         "doi": "10.1145/3845814.3850057"
       },
       "metrics": {
-        "citation_count": 1
+        "citation_count": 2
       },
       "pdf_url": null
     },
@@ -2750,6 +2274,39 @@
         "citation_count": 0
       },
       "pdf_url": "https://doi.org/10.2139/ssrn.7162936"
+    },
+    {
+      "id": "paper-7d061bb21a1d5be3",
+      "title": "Large Language Models in Clinical Neurology: A Scoping Review.",
+      "url": "https://www.semanticscholar.org/paper/b77bba0abc8e7228827d502e0328cee8baf17beb",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "PURPOSE OF REVIEW Large language models (LLMs) are increasingly being evaluated for clinical neurology applications, yet their real-world utility, safety, and deployment readiness remain unclear. This review maps the literature on LLMs applied to text-based and text-derived neurology tasks, characterizing current use cases, evaluation strategies, performance metrics, and reported safety concerns. We identify areas with relati…",
+      "authors": [
+        "A. Gorenshtein",
+        "Kamel Shihada",
+        "Mahmud Omar",
+        "Y. Barash",
+        "G. Nadkarni",
+        "E. Klang"
+      ],
+      "tags": [
+        "artificial intelligence",
+        "large language model",
+        "llm",
+        "reasoning",
+        "agent"
+      ],
+      "external_ids": {
+        "doi": "10.1212/cpj.0000000000200687"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.researchsquare.com/article/rs-8902070/latest.pdf"
     },
     {
       "id": "paper-8bd1b0af7b1ee1ff",
@@ -5295,6 +4852,434 @@
         "citation_count": 0
       },
       "pdf_url": ""
+    },
+    {
+      "id": "paper-0c87438fbce079a6",
+      "title": "GMT: A gated multimodal transformer for Arabic multimodal sentiment analysis",
+      "url": "https://www.semanticscholar.org/paper/e9622947e8ef8ba4242ef6759d1ae5f29a3728c0",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Ayoub ben Cheikhi",
+        "El Habib Nfaoui"
+      ],
+      "tags": [
+        "multimodal",
+        "transformer",
+        "Advanced Engineering Informatics"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.aei.2026.105414"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-6beb71d0f8ed6df3",
+      "title": "Transforming driving-scenario priors into adaptive reward modulation for reinforcement learning-based energy management of heavy-duty fuel cell vehicles",
+      "url": "https://www.semanticscholar.org/paper/e92f7288509d1578104f5086dde2566146374297",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Zhi-Qiang Zhou",
+        "Hong-Wen He",
+        "Jing-Da Wu",
+        "Ku-Nang Li",
+        "Pei-Hua Tian",
+        "De-Ping Wang"
+      ],
+      "tags": [
+        "reinforcement learning",
+        "Applied Energy"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.apenergy.2026.128951"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-7665ea8939851f8c",
+      "title": "Machine learning with meta-heuristic feature selection for actinide formation energy and band gap prediction: Quantifying evaluation bias in two-stage materials-property models",
+      "url": "https://www.semanticscholar.org/paper/e8ede64752b87f81ab601259ac14c7b801ef64a0",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "F. J. Kusuma",
+        "Saifuddin Aziz",
+        "Bidhari Pidhatika",
+        "I. W. Ngarayana",
+        "A. R. Antariksawan"
+      ],
+      "tags": [
+        "machine learning",
+        "Physica. B, Condensed matter"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.physb.2026.419585"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.2139/ssrn.6666430"
+    },
+    {
+      "id": "paper-c4bf13848fc78582",
+      "title": "MDD-CR: End-to-end multimodal deepfake detection fusing spatio-temporal and spectrographic features",
+      "url": "https://www.semanticscholar.org/paper/e889af5ec9ffe972c832ab7a44175fd1753193b9",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "A. K. Das",
+        "Ruchira Naskar"
+      ],
+      "tags": [
+        "multimodal",
+        "Journal of Visual Communication and Image Representation"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.jvcir.2026.105021"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1047320326003160/pdf"
+    },
+    {
+      "id": "paper-f83e4a7a5d991fff",
+      "title": "Artificial Intelligence (AI) Integration in Education: Teachers’ Utilization, Perceptions, and Implementation Challenges",
+      "url": "https://www.semanticscholar.org/paper/e81209a1a701bdc731be6039f9ec27608847a250",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "This study explored the integration of Artificial Intelligence (AI) tools in chemistry instruction, focusing on teachers’ utilization patterns, perceptions, and the challenges they encounter. A sample of 18 chemistry teachers from various institutions participated, providing insights into the types and frequency of AI tools used, including ChatGPT, ChemCollective, and PhET Interactive Simulations. Findings indicate that gener…",
+      "authors": [
+        "Aprille Mae A. Bunuan-Dela Cruz",
+        "Elsa L. Cajucom"
+      ],
+      "tags": [
+        "artificial intelligence",
+        "alignment",
+        "International journal of technology in education and science"
+      ],
+      "external_ids": {
+        "doi": "10.46328/ijtes.7426"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://ijtes.net/index.php/ijtes/article/download/7426/3300"
+    },
+    {
+      "id": "paper-9a111886cbfc54e8",
+      "title": "Federated multi-scale contrastive learning for semi-supervised anomaly detection in multimodal industrial Internet of Things",
+      "url": "https://www.semanticscholar.org/paper/e614e924319d2df488c2b6f5ec1dc56f7234f513",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Kainat Ibrar",
+        "Asim Ibrahim",
+        "Ugo Fiore",
+        "Arcangelo Castiglione",
+        "M. Ficco",
+        "F. Palmieri"
+      ],
+      "tags": [
+        "multimodal",
+        "contrastive learning",
+        "Computers & electrical engineering"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.compeleceng.2026.111603"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0045790626006737/pdf"
+    },
+    {
+      "id": "paper-fc86d2dcb1c4e523",
+      "title": "Does AI see what we see? Evaluating large multimodal models for perceived urban walkability",
+      "url": "https://www.semanticscholar.org/paper/e46699a9080d99fd0a6a8b497785e376828515f2",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Li-Chih Ho",
+        "Min-Hsuan Yen",
+        "Yen-Cheng Chiang"
+      ],
+      "tags": [
+        "multimodal",
+        "Habitat International"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.habitatint.2026.104021"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0197397526003140/pdf"
+    },
+    {
+      "id": "paper-1f4d37643489b92a",
+      "title": "Multimodal knowledge decomposition and spatiotemporal modeling for streamflow intermittency forecasting",
+      "url": "https://www.semanticscholar.org/paper/e3edc09eb9165bc0bdf8779451de1ca6610a9344",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Yu Chang",
+        "Ting-Wei Liu",
+        "Yongri Piao",
+        "Miao Zhang",
+        "Ze Wang",
+        "Heng Lyu"
+      ],
+      "tags": [
+        "multimodal",
+        "Environmental Modelling &amp; Software"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.envsoft.2026.107243"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-4fece210901d8e18",
+      "title": "From correlation to causation: A remote sensing and causal spatial machine learning framework reveals the driving mechanisms of ecological vulnerability in karst areas",
+      "url": "https://www.semanticscholar.org/paper/e3e8ef8e2060009123eafa1081bfffd1a4668391",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Xun Lin",
+        "Zhi-Tai Wang",
+        "Yu Bao",
+        "Hao Yang"
+      ],
+      "tags": [
+        "machine learning",
+        "CATENA"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.catena.2026.110775"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-88a4b590d8bbfda1",
+      "title": "Neural-symbolic temporal knowledge graph reasoning with multi-granularity modeling and compatibility constraints",
+      "url": "https://www.semanticscholar.org/paper/e37913b08000809cceff89973dc0dbaefd9bf714",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Yuhang Ma",
+        "Ze Chen",
+        "Xiaohuan Shan",
+        "Li-Kuan Du",
+        "Bao-Yan Song"
+      ],
+      "tags": [
+        "knowledge graph",
+        "reasoning",
+        "Computer Science",
+        "Expert systems with applications"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.eswa.2026.133842"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-ac4262b1c4a3b533",
+      "title": "Model-free optimal synchronization of memristive Hopfield neural networks: A dynamic linearization-based reinforcement learning method",
+      "url": "https://www.semanticscholar.org/paper/e2ad4b6d7329ecd1562f911ea37a33bb7351e344",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Chao Tan",
+        "Qing-Yu Shi",
+        "Zhen Wang"
+      ],
+      "tags": [
+        "neural network",
+        "reinforcement learning",
+        "Engineering applications of artificial intelligence"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.engappai.2026.116733"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-487af006c18e993f",
+      "title": "NeuroSky single-channel electroencephalography and machine learning in education: A scoping review",
+      "url": "https://www.semanticscholar.org/paper/e1ce4b1ad6a316dc7eac1c0675fa8bc348bd3cfe",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Rabi Shaw",
+        "Bidyut Kr. Patra",
+        "Ranjeet Kumar Rout",
+        "K. Sahoo",
+        "A. Gandomi"
+      ],
+      "tags": [
+        "machine learning",
+        "Computers & electrical engineering"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.compeleceng.2026.111582"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-4ec21903370e2d49",
+      "title": "Comprehensive drought analysis and forecasting in the Marmara Basin using multiple drought indices and machine learning methods",
+      "url": "https://www.semanticscholar.org/paper/e098fdd82b91bc4a9ef6266656365c2708892c80",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "İlteriş Taşkolu",
+        "R. Acar",
+        "Burak Çırağ"
+      ],
+      "tags": [
+        "machine learning",
+        "Physics and Chemistry of the Earth, Parts A/B/C"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.pce.2026.104932"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": ""
+    },
+    {
+      "id": "paper-ec34027d07ff8ce1",
+      "title": "Machine learning-based diagnosis and health monitoring of solid oxide fuel cells using electrochemical impedance spectroscopy under multiple failure modes",
+      "url": "https://www.semanticscholar.org/paper/e05ef78a6a718b03d05cc639f50fa9375284ed3c",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "",
+      "authors": [
+        "Z. Salehi",
+        "S. Sobhi",
+        "Saeed Hanifi",
+        "Daniel J. Smith",
+        "A. Hanifi",
+        "M. Shahbakhti"
+      ],
+      "tags": [
+        "machine learning",
+        "Journal of Power Sources"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.jpowsour.2026.241580"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S037877532602330X/pdf"
+    },
+    {
+      "id": "paper-5e7e951755262352",
+      "title": "Hybrid Intelligence as a Tool for Textual Decoding: Integrating the Literary Detective Framework in Higher Education",
+      "url": "https://www.semanticscholar.org/paper/e03a4829cbe0c56e28f312a4594c87a7b07d255f",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-01-01T00:00:00+00:00",
+      "summary": "This paper explores the transformative integration of Hybrid Intelligence (HI) within the landscape of higher philological education, specifically operationalized through the innovative 'Literary Detective' pedagogical framework. Amidst the shifting cognitive baselines of the digital era, this study addresses the crisis of sustained deep attention by proposing a synergistic model of textual archaeology. The research focuses o…",
+      "authors": [
+        "Nana Parinos"
+      ],
+      "tags": [
+        "artificial intelligence",
+        "large language model",
+        "llm",
+        "rag",
+        "International journal of technology in education and science"
+      ],
+      "external_ids": {
+        "doi": "10.46328/ijtes.8458"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://ijtes.net/index.php/ijtes/article/download/8458/3305"
     }
   ],
   "blogs": [
