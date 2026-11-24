@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:09:19.563072+00:00",
+  "generated_at": "2026-11-24T04:44:49.234390+00:00",
   "papers": [
     {
       "id": "paper-e53654b86259892c",
@@ -5309,6 +5309,17 @@
   ],
   "blogs": [
     {
+      "id": "blog-1d0c151fefed0dea",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "published": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
       "id": "blog-ca38829e73128713",
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "url": "https://huggingface.co/blog/allenai/robotrack",
@@ -5339,6 +5350,17 @@
       "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
       "tags": [
         "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-680b35173b971311",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "tags": [
+        "agent"
       ]
     },
     {
@@ -5430,17 +5452,6 @@
       ]
     },
     {
-      "id": "blog-e29ac258c013c12c",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "source": "OpenAI",
-      "published": "2026-11-19T00:00:00+00:00",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-cb99e2baa62e7866",
       "title": "See PR scans in action",
       "url": "https://openai.com/business/learn/pr-scans-demo",
@@ -5452,23 +5463,34 @@
       ]
     },
     {
-      "id": "blog-4b08ec50268e04a4",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI",
-      "published": "2026-11-19T00:00:00+00:00",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-a2fb00344062975f",
       "title": "Get started with Daybreak Blue",
       "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "source": "OpenAI",
       "published": "2026-11-19T00:00:00+00:00",
       "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-e29ac258c013c12c",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-4b08ec50268e04a4",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "tags": [
         "AI/ML"
       ]
@@ -5540,17 +5562,6 @@
       ]
     },
     {
-      "id": "blog-b527b6f0ddceafec",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "source": "OpenAI",
-      "published": "2026-11-18T08:00:00+00:00",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-9fa731b0ef6c1da9",
       "title": "Research acceleration: The jagged frontier",
       "url": "https://openai.com/index/research-acceleration-jagged-frontier",
@@ -5559,6 +5570,17 @@
       "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
       "tags": [
         "agent"
+      ]
+    },
+    {
+      "id": "blog-b527b6f0ddceafec",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI",
+      "published": "2026-11-18T08:00:00+00:00",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "tags": [
+        "AI/ML"
       ]
     },
     {
@@ -5584,23 +5606,23 @@
       ]
     },
     {
-      "id": "blog-c7d3ecb006439a13",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "OpenAI",
-      "published": "2026-11-18T00:00:00+00:00",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-6cab9c8cd38347e3",
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
       "published": "2026-11-18T00:00:00+00:00",
       "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-c7d3ecb006439a13",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI",
+      "published": "2026-11-18T00:00:00+00:00",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
       "tags": [
         "AI/ML"
       ]
@@ -5661,23 +5683,23 @@
       ]
     },
     {
-      "id": "blog-58da9c66b1456ac9",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "published": "2026-11-17T00:00:00+00:00",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "tags": [
-        "AI/ML"
-      ]
-    },
-    {
       "id": "blog-0604bc2b50fc0c3b",
       "title": "Astra for Law leads in legal intelligence",
       "url": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI",
       "published": "2026-11-17T00:00:00+00:00",
       "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "blog-58da9c66b1456ac9",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "tags": [
         "AI/ML"
       ]
@@ -5746,28 +5768,6 @@
       "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
       "tags": [
         "alignment"
-      ]
-    },
-    {
-      "id": "blog-b0ded74e06b06613",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "source": "OpenAI",
-      "published": "2026-11-16T06:00:00+00:00",
-      "summary": "",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
-      "id": "blog-cfcc7acb02e9ca79",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "source": "OpenAI",
-      "published": "2026-11-16T06:00:00+00:00",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "tags": [
-        "agent"
       ]
     },
     {
