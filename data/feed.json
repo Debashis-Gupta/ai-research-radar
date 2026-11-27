@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:27:20.827466+00:00",
+  "generated_at": "2026-11-27T08:20:49.732308+00:00",
   "papers": [
     {
       "id": "paper-e53654b86259892c",
@@ -2295,7 +2295,7 @@
       "metrics": {
         "citation_count": 0
       },
-      "pdf_url": "https://doi.org/10.1061/jcemd4.coeng-18558"
+      "pdf_url": "https://ascelibrary.org/doi/pdf/10.1061/JCEMD4.COENG-18558"
     },
     {
       "id": "paper-ac8798daf41ee7d5",
@@ -2740,7 +2740,7 @@
       "published": "2027-02-01T00:00:00+00:00",
       "summary": "",
       "authors": [
-        "San Kim",
+        "Sangjun Kim",
         "W. Chang",
         "D. Forger",
         "Dae Wook Kim"
