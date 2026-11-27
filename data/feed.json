@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:20:49.732308+00:00",
+  "generated_at": "2026-11-27T21:11:30.366707+00:00",
   "papers": [
     {
       "id": "paper-e53654b86259892c",
@@ -316,6 +316,38 @@
         "citation_count": 0
       },
       "pdf_url": "https://www.journalwes.com/article_240755_c53e7ac1e6b1d39ef88136d822c79002.pdf"
+    },
+    {
+      "id": "paper-ab28ecab9e867ed3",
+      "title": "Peroneutone A, a new highly oxygenated diterpenoid with diverse biological activities from Peroneutypa scoparia",
+      "url": "https://doi.org/10.25135/rnp.2608.4001",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "published": "2027-09-15T00:00:00+00:00",
+      "summary": "A chemical investigation of the endophytic fungus Peroneutypa scoparia RJHH-3 led to the isolation of a new highly oxygenated pimarane diterpenoid, peroneutone A (1), together with three known analogues, scopararane C (2), libertellenone A (3), and 9α-hydroxyisopimara-8(14),15-dien-7-one (4). The structure of 1 was established by HRESIMS and extensive NMR analyses, while its stereochemistry was determined by NOESY, NMR calcul…",
+      "authors": [
+        "Dongsheng Ma",
+        "Xingyue Lu",
+        "Lili Meng",
+        "Wenbin Xia",
+        "Wenya Xu",
+        "Xuejing Ma",
+        "Wenbin Gao"
+      ],
+      "tags": [
+        "Bioactive Natural Diterpenoids Research",
+        "Microbial Natural Products and Biosynthesis",
+        "Biological Activity of Diterpenoids and Biflavonoids"
+      ],
+      "external_ids": {
+        "doi": "10.25135/rnp.2608.4001"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://doi.org/10.25135/rnp.2608.4001"
     },
     {
       "id": "paper-c69adde29b6cc488",
@@ -1281,7 +1313,7 @@
         "doi": "10.1145/3845814.3850026"
       },
       "metrics": {
-        "citation_count": 11
+        "citation_count": 12
       },
       "pdf_url": null
     },
@@ -1953,35 +1985,6 @@
         "citation_count": 26
       },
       "pdf_url": "https://arxiv.org/pdf/2507.05558"
-    },
-    {
-      "id": "paper-3ec69820d20619b4",
-      "title": "Toward Explanatory Equilibrium: Verifiable Reasoning as a Coordination Mechanism Under Asymmetric Information",
-      "url": "https://doi.org/10.1007/978-3-032-38436-2_21",
-      "source": "OpenAlex",
-      "sources": [
-        "OpenAlex"
-      ],
-      "published": "2027-02-02T00:00:00+00:00",
-      "summary": "",
-      "authors": [
-        "Feliks Bańka",
-        "Jarosław A. Chudziak"
-      ],
-      "tags": [
-        "artificial intelligence",
-        "reasoning",
-        "agent",
-        "Multi-Agent Systems and Negotiation",
-        "Explainable Artificial Intelligence (XAI)"
-      ],
-      "external_ids": {
-        "doi": "10.1007/978-3-032-38436-2_21"
-      },
-      "metrics": {
-        "citation_count": 1
-      },
-      "pdf_url": "https://arxiv.org/pdf/2604.09917"
     },
     {
       "id": "paper-0cef7a01c7573a94",
@@ -4975,6 +4978,32 @@
       "pdf_url": "https://papers.ssrn.com/sol3/Delivery.cfm/39586450-9f5b-47ea-9fe1-a661aa92480c-MECA.pdf?abstractid=7168298&mirid=1"
     },
     {
+      "id": "paper-c6f7029d33dd2ec3",
+      "title": "Radiosonde-informed machine learning correction of ERA5 integrated water vapor: spatiotemporal generalization and external GNSS evaluation",
+      "url": "https://www.semanticscholar.org/paper/16f77591c042a0925fe4e87266fef69ad36e8e49",
+      "source": "Semantic Scholar",
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "published": "2027-02-01T00:00:00+00:00",
+      "summary": "Accurate integrated water vapor (IWV) estimates are essential for atmospheric monitoring, yet reanalyses can retain systematic discrepancies relative to in situ observations. This study develops a radiosonde-informed machine learning framework to correct ERA5-derived IWV over Europe and assess spatial and temporal generalization. Radiosonde profiles from the University of Wyoming and the Integrated Global Radiosonde Archive w…",
+      "authors": [
+        "Ling-Ke Wang",
+        "H. Kutterer"
+      ],
+      "tags": [
+        "machine learning",
+        "Atmospheric research"
+      ],
+      "external_ids": {
+        "doi": "10.1016/j.atmosres.2026.109379"
+      },
+      "metrics": {
+        "citation_count": 0
+      },
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0169809526006435/pdf"
+    },
+    {
       "id": "paper-88c6bce25131eff8",
       "title": "DT-RL: A digital twin and reinforcement learning-assisted localization framework for the Internet of Underwater Things",
       "url": "https://www.semanticscholar.org/paper/164eb10040d403d08bba5e1a44d2781ee0d9faff",
@@ -5271,38 +5300,20 @@
         "citation_count": 0
       },
       "pdf_url": ""
-    },
-    {
-      "id": "paper-1187883ff9ee0942",
-      "title": "Pengembangan Model Prediksi Penyakit Menggunakan Algoritma Machine Learning Berbasis Data Kesehatan",
-      "url": "https://www.semanticscholar.org/paper/ee254f3c162e92be4f50cfa556f356807c67a7d5",
-      "source": "Semantic Scholar",
-      "sources": [
-        "Semantic Scholar"
-      ],
-      "published": "2027-01-27T00:00:00+00:00",
-      "summary": "Typhoid fever requires precise handling and identification. Manual identification based on symptoms and health data has limitations, thus necessitating a structured early prediction model. This study aims to build and evaluate a web-based decision support system for the early diagnosis of typhoid fever using the Random Forest algorithm. The data used consists of 486 secondary medical records from Baranti Health Center, includ…",
-      "authors": [
-        "Ade Hastuty",
-        "Rezky Ramadhani",
-        "Wahyu Arthanugraha",
-        "Wahyuddin",
-        "W. Wahyuddin"
-      ],
-      "tags": [
-        "machine learning",
-        "Jurnal Ilmu Komputer dan Teknologi Informasi"
-      ],
-      "external_ids": {
-        "doi": "10.63447/jikti.v4i1.2141"
-      },
-      "metrics": {
-        "citation_count": 0
-      },
-      "pdf_url": "https://doi.org/10.63447/jikti.v4i1.2141"
     }
   ],
   "blogs": [
+    {
+      "id": "blog-2d7f8b4f8454af31",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face",
+      "published": "2026-11-27T00:00:00+00:00",
+      "summary": "",
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "id": "blog-02a088434703556c",
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
@@ -5951,20 +5962,24 @@
       "tags": [
         "AI/ML"
       ]
-    },
-    {
-      "id": "blog-a98763b80c842ad2",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "source": "Google DeepMind",
-      "published": "2026-11-09T19:51:47+00:00",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "tags": [
-        "AI/ML"
-      ]
     }
   ],
   "videos": [
+    {
+      "id": "video-80dd7e084f06831b",
+      "video_id": "u6UYsl-KEoc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/u6UYsl-KEoc/hqdefault.jpg",
+      "title": "DeepMind’s New AI Just Changed The AI Race",
+      "url": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+      "source": "Two Minute Papers",
+      "published": "2026-11-27T08:42:30+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The security report is available here: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Sources: - https://x.com/PromptLLM/status/2124894800654504419 - https://x.com/thebuggeddev/status/2123170821250400282 - https://x.com/ai_for_success/…",
+      "tags": [
+        "llm",
+        "rag"
+      ]
+    },
     {
       "id": "video-4516c1e54e673e9f",
       "video_id": "hwWlEuI359w",
@@ -6310,20 +6325,6 @@
       ]
     },
     {
-      "id": "video-b84db886329170af",
-      "video_id": "Wkaw03p3BrM",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "title": "DeepMind's New AI Just Cracked The Code Of Life",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "source": "Two Minute Papers",
-      "published": "2026-10-07T13:29:33+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Thank you Google DeepMind for the invite. 📝 AlphaGenome Atlas is available here: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/ https://blog.google/innovation-and-ai/models-and-research/google-deepmind/…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
       "id": "video-ede660949f0fb36a",
       "video_id": "u_9OA3WRHgo",
       "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
@@ -6456,7 +6457,7 @@
       "video_id": "GlYgs6v2YfU",
       "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
       "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
-      "title": "What is cross-entropy, and why is it used in ML? | Compression & Intelligence, part 2",
+      "title": "Cross-entropy: Compression ratios as loss functions | Compression & Intelligence, part 2",
       "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
       "source": "3Blue1Brown",
       "published": "2026-07-16T11:56:04+00:00",
@@ -6831,6 +6832,21 @@
   ],
   "channel_videos": [
     {
+      "id": "video-80dd7e084f06831b",
+      "video_id": "u6UYsl-KEoc",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail": "https://i.ytimg.com/vi/u6UYsl-KEoc/hqdefault.jpg",
+      "title": "DeepMind’s New AI Just Changed The AI Race",
+      "url": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+      "source": "Two Minute Papers",
+      "published": "2026-11-27T08:42:30+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The security report is available here: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Sources: - https://x.com/PromptLLM/status/2124894800654504419 - https://x.com/thebuggeddev/status/2123170821250400282 - https://x.com/ai_for_success/…",
+      "tags": [
+        "llm",
+        "rag"
+      ]
+    },
+    {
       "id": "video-4516c1e54e673e9f",
       "video_id": "hwWlEuI359w",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -7175,20 +7191,6 @@
       ]
     },
     {
-      "id": "video-b84db886329170af",
-      "video_id": "Wkaw03p3BrM",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "title": "DeepMind's New AI Just Cracked The Code Of Life",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "source": "Two Minute Papers",
-      "published": "2026-10-07T13:29:33+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Thank you Google DeepMind for the invite. 📝 AlphaGenome Atlas is available here: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/ https://blog.google/innovation-and-ai/models-and-research/google-deepmind/…",
-      "tags": [
-        "technical video"
-      ]
-    },
-    {
       "id": "video-ede660949f0fb36a",
       "video_id": "u_9OA3WRHgo",
       "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
@@ -7321,7 +7323,7 @@
       "video_id": "GlYgs6v2YfU",
       "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
       "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
-      "title": "What is cross-entropy, and why is it used in ML? | Compression & Intelligence, part 2",
+      "title": "Cross-entropy: Compression ratios as loss functions | Compression & Intelligence, part 2",
       "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
       "source": "3Blue1Brown",
       "published": "2026-07-16T11:56:04+00:00",
